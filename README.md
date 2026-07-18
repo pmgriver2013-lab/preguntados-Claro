@@ -1,12 +1,16 @@
-# Claro desafío v0.3
+# Claro desafío — demo 0.4
 
-Juego web estático listo para GitHub Pages.
+Demo visual y funcional para validar la nueva dirección antes de ampliar el banco de preguntas y conectar Supabase.
 
-## Incluye
-- 285 preguntas, con 699 preguntas nuevas basadas en productos reales del catálogo.
-- Preguntas con imágenes externas, características, argumentos de venta y casos de cliente.
-- Comodines 50/50, tiempo extra, cambio de pregunta y escudo.
-- Ruleta, insignias, rachas, guardado local y ranking local.
+## Qué incluye
+- Diseño Claro moderno + tecnológico premium.
+- Partida corta y completa.
+- 24 preguntas curadas.
+- Preguntas visuales priorizadas en los primeros turnos.
+- Imágenes reales del catálogo con respaldo si fallan.
+- Ruleta con aleatoriedad controlada.
+- Comodines 50/50, +10 segundos, cambio y escudo.
+- Insignias con dos aciertos para esta demo.
 
 ## Publicación
-Subir a la raíz del repositorio: `index.html`, `styles.css`, `app.js` y `questions.json`.
+Subir `index.html`, `styles.css` y `app.js` a la raíz del repositorio de GitHub Pages.

@@ -1,178 +1,118 @@
 <!doctype html>
 <html lang="es-AR">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <meta name="theme-color" content="#d71920" />
-  <meta name="description" content="Juego de capacitación de productos y accesorios para el CAC." />
-  <title>Claro desafío</title>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#da291c" />
+  <title>Claro desafío — demo 0.4</title>
+  <link rel="preconnect" href="https://tienda.claro.com.ar" crossorigin>
+  <link rel="preconnect" href="https://www.jbl.com.ar" crossorigin>
   <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
-  <div class="page-glow glow-one"></div><div class="page-glow glow-two"></div>
+  <div class="ambient ambient-a"></div><div class="ambient ambient-b"></div>
+  <header class="topbar">
+    <a class="brand" href="#" aria-label="Claro desafío">
+      <span class="brand-mark">claro</span><span class="brand-divider"></span><span class="brand-copy">desafío</span>
+    </a>
+    <div class="top-actions">
+      <button class="icon-btn" id="soundBtn" aria-label="Activar o silenciar sonido" title="Sonido">♪</button>
+      <button class="ghost-btn" id="visualModeBtn">Probar preguntas visuales</button>
+    </div>
+  </header>
+
   <main id="app" class="app-shell">
-    <header class="topbar">
-      <button class="brand" data-action="home" aria-label="Volver al inicio">
-        <span class="brand-word">claro</span><span class="brand-rays" aria-hidden="true"></span>
-      </button>
-      <div class="top-actions">
-        <button id="soundBtn" class="round-btn" title="Activar o silenciar sonido" aria-label="Sonido">🔊</button>
-        <button id="rulesBtn" class="round-btn" title="Ver reglas" aria-label="Reglas">?</button>
-      </div>
-    </header>
-
-    <section id="homeScreen" class="screen active home-screen">
-      <div class="hero-copy">
-        <span class="eyebrow">Entrenamiento de productos y accesorios</span>
-        <h1>Claro<br><em>desafío</em></h1>
-        <p>Dominá cada familia, superá sus desafíos y completá tu colección de insignias.</p>
-        <div class="hero-actions">
-          <button id="startBtn" class="primary-btn">Nueva partida <span>→</span></button>
-          <button id="resumeBtn" class="secondary-btn hidden">Continuar partida</button>
-          <button id="rankingBtn" class="ghost-btn">Ranking</button>
-        </div>
-        <div class="feature-row">
-          <span><b>285</b> preguntas</span><span><b>10</b> familias</span><span><b>1</b> desafío por insignia</span>
-        </div>
-      </div>
-      <div class="hero-stage" aria-hidden="true">
-        <div class="hero-disc">
-          <div class="disc-ring ring-a"></div><div class="disc-ring ring-b"></div>
-          <div class="hero-core"><span>10</span><small>familias</small></div>
-          <div id="heroIcons" class="hero-icons"></div>
-        </div>
-        <div class="hero-card hero-card-a"><span>Racha</span><strong>x4</strong></div>
-        <div class="hero-card hero-card-b"><span>Insignias</span><strong>6/10</strong></div>
-      </div>
-    </section>
-
-    <section id="playerScreen" class="screen compact-screen">
-      <div class="panel player-panel">
-        <div class="panel-symbol">▶</div>
-        <span class="eyebrow">Nueva partida</span>
-        <h2>Identificá tu jugador</h2>
-        <p>Tu partida se guarda en este navegador. Luego conectaremos Supabase para compartir el progreso entre todos.</p>
-        <label>Nombre y apellido<input id="playerName" maxlength="40" placeholder="Ej.: Pablo González" autocomplete="name" /></label>
-        <label>Legajo o identificador<input id="playerCode" maxlength="20" placeholder="Ej.: CTI12345" /></label>
-        <button id="beginGameBtn" class="primary-btn full">Comenzar</button>
-      </div>
-    </section>
-
-    <section id="gameScreen" class="screen game-screen">
-      <div class="game-hud">
-        <div class="hud-player"><span>Jugador</span><strong id="hudPlayer">—</strong></div>
-        <div><span>Puntos</span><strong id="hudScore">0</strong></div>
-        <div><span>Racha</span><strong id="hudStreak">0</strong></div>
-        <div><span>Vidas</span><strong id="hudLives" class="lives">● ● ●</strong></div>
-      </div>
-
-      <div id="wheelPhase" class="game-phase active">
-        <div class="wheel-layout">
-          <section class="wheel-zone">
-            <div class="wheel-heading"><span class="eyebrow">Tu próximo reto</span><h2 id="wheelHeading">Girás y la rueda decide</h2></div>
-            <div class="wheel-wrap">
-              <div class="pointer"><span></span></div>
-              <canvas id="wheelCanvas" width="760" height="760" aria-label="Ruleta de familias"></canvas>
-              <button id="spinBtn" class="spin-core"><span>Girar</span><small>ahora</small></button>
-            </div>
-            <p id="wheelHint" class="wheel-hint">Las familias pendientes tienen mayor probabilidad, sin perder el azar.</p>
-          </section>
-          <aside class="progress-card">
-            <div class="progress-head"><div><span class="eyebrow">Colección</span><h3>Insignias</h3></div><strong id="badgeCounter">0/10</strong></div>
-            <p>Lográ tres aciertos y superá el desafío experto para conquistar cada familia.</p>
-            <div id="badgesGrid" class="badges-grid"></div>
-          </aside>
-        </div>
-      </div>
-
-      <div id="questionPhase" class="game-phase">
-        <div class="question-layout">
-          <aside class="question-family-panel">
-            <div id="questionFamilyIcon" class="large-family-icon"></div>
-            <span id="questionFamilyLabel">Familia</span>
-            <strong id="questionModeLabel">Pregunta regular</strong>
-            <p id="questionProgressLabel">Progreso 0/3</p>
-          </aside>
-          <article class="question-card">
-            <div class="question-meta">
-              <span id="questionDifficulty" class="chip">Inicial</span>
-              <span id="questionType" class="chip muted-chip">Tipo</span>
-              <div class="timer"><div id="timerBar"></div><span id="timerText">15</span></div>
-            </div>
-            <h2 id="questionText">Pregunta</h2>
-            <div id="questionMedia" class="question-media hidden"><img id="questionImage" alt="Producto de la pregunta"><div class="image-fallback">Imagen no disponible</div></div>
-            <div id="optionsGrid" class="options-grid"></div>
-            <div class="joker-dock" aria-label="Comodines">
-              <button class="joker-btn" data-joker="fifty" title="Elimina dos respuestas incorrectas"><span>½</span><b>50/50</b><small id="jokerFiftyCount">1</small></button>
-              <button class="joker-btn" data-joker="time" title="Agrega diez segundos"><span>+10</span><b>Tiempo</b><small id="jokerTimeCount">1</small></button>
-              <button class="joker-btn" data-joker="swap" title="Cambia la pregunta"><span>↻</span><b>Cambiar</b><small id="jokerSwapCount">1</small></button>
-              <button class="joker-btn" data-joker="shield" title="Evita perder una vida"><span>◆</span><b>Escudo</b><small id="jokerShieldCount">1</small></button>
-            </div>
-          </article>
-        </div>
-      </div>
-
-      <div id="resultPhase" class="game-phase">
-        <article class="result-card">
-          <div id="resultIcon" class="result-icon">✓</div>
-          <span id="resultKicker" class="eyebrow">Respuesta correcta</span>
-          <h2 id="resultTitle">¡Muy bien!</h2>
-          <p id="resultExplanation"></p>
-          <div id="pointsEarned" class="points-earned">+100 puntos</div>
-          <button id="continueBtn" class="primary-btn">Continuar</button>
+    <section id="homeView" class="view active">
+      <div class="hero-grid">
+        <article class="hero-card glass-card">
+          <span class="eyebrow">Capacitación que se juega</span>
+          <h1>Conocé el producto.<br><em>Ganate la categoría.</em></h1>
+          <p>Una experiencia rápida para dominar audio, TV, proyectores, cámaras, tablets y conectividad con casos reales del CAC.</p>
+          <div class="mode-grid">
+            <button class="mode-card selected" data-mode="short">
+              <span class="mode-icon">⚡</span><span><b>Partida corta</b><small>5 insignias · 6 a 10 min</small></span>
+            </button>
+            <button class="mode-card" data-mode="full">
+              <span class="mode-icon">◆</span><span><b>Partida completa</b><small>10 insignias · 15 a 20 min</small></span>
+            </button>
+          </div>
+          <label class="name-field"><span>Tu nombre</span><input id="playerName" maxlength="28" placeholder="Ej. Pablo" autocomplete="name"></label>
+          <button id="startBtn" class="primary-btn">Empezar partida <span>→</span></button>
+          <p class="microcopy">Demo de validación: 24 preguntas curadas, con una muestra visual de productos reales.</p>
         </article>
+
+        <aside class="hero-visual">
+          <div class="orbit orbit-one"></div><div class="orbit orbit-two"></div>
+          <div class="mascot-card">
+            <div class="mascot-glow"></div>
+            <svg class="mascot" viewBox="0 0 320 360" role="img" aria-label="Mascota tecnológica de Claro desafío">
+              <defs><linearGradient id="m1" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ff4b3e"/><stop offset="1" stop-color="#b9140b"/></linearGradient><linearGradient id="m2" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff"/><stop offset="1" stop-color="#e7edf5"/></linearGradient></defs>
+              <path d="M84 92c17-42 135-51 157 8 9 23 4 93-4 139-7 39-39 67-78 67-40 0-72-27-79-67-9-50-11-120 4-147Z" fill="url(#m2)" stroke="#fff" stroke-width="8"/>
+              <path d="M105 112c25-29 87-31 114 0l-9 88c-5 37-25 59-50 59-27 0-48-22-53-59l-2-88Z" fill="#132238"/>
+              <circle cx="135" cy="164" r="14" fill="#fff"/><circle cx="188" cy="164" r="14" fill="#fff"/><circle cx="139" cy="164" r="6" fill="#da291c"/><circle cx="184" cy="164" r="6" fill="#da291c"/>
+              <path d="M136 208c13 12 37 12 50 0" fill="none" stroke="#fff" stroke-width="7" stroke-linecap="round"/>
+              <path d="M73 92c-29 9-47 31-47 59 0 23 11 41 27 53l19-21c-10-8-16-19-16-32 0-15 8-26 22-33l-5-26Z" fill="url(#m1)"/>
+              <path d="M247 92c29 9 47 31 47 59 0 23-11 41-27 53l-19-21c10-8 16-19 16-32 0-15-8-26-22-33l5-26Z" fill="url(#m1)"/>
+              <path d="M118 296h84l17 36H101l17-36Z" fill="url(#m1)"/>
+              <circle cx="160" cy="64" r="36" fill="url(#m1)"/><path d="M145 64h31M160 49v31" stroke="#fff" stroke-width="9" stroke-linecap="round"/>
+            </svg>
+            <div class="speech">¿Listo para demostrar cuánto sabés?</div>
+          </div>
+          <div class="floating-chip chip-a">TV &amp; cine</div><div class="floating-chip chip-b">Audio premium</div><div class="floating-chip chip-c">Casos reales</div>
+        </aside>
       </div>
     </section>
 
-    <section id="endScreen" class="screen compact-screen">
-      <div class="panel end-panel">
-        <div class="final-emblem">★</div>
-        <span class="eyebrow">Partida finalizada</span>
-        <h2 id="endTitle">Resultado</h2>
-        <div class="end-stats">
-          <div><strong id="endScore">0</strong><span>puntos</span></div>
-          <div><strong id="endCorrect">0</strong><span>correctas</span></div>
-          <div><strong id="endBadges">0</strong><span>insignias</span></div>
-          <div><strong id="endAccuracy">0%</strong><span>precisión</span></div>
-        </div>
-        <button id="playAgainBtn" class="primary-btn full">Jugar otra vez</button>
-        <button id="endRankingBtn" class="secondary-btn full">Ver ranking local</button>
+    <section id="gameView" class="view">
+      <div class="hud glass-card">
+        <div class="player-block"><span class="avatar" id="avatar">P</span><div><small>Jugador</small><b id="playerLabel">Pablo</b></div></div>
+        <div class="hud-stat"><small>Puntaje</small><b id="score">0</b></div>
+        <div class="hud-stat"><small>Racha</small><b id="streak">×1</b></div>
+        <div class="lives" id="lives" aria-label="Vidas">♥ ♥ ♥</div>
       </div>
-    </section>
 
-    <section id="rankingScreen" class="screen compact-screen">
-      <div class="panel ranking-panel">
-        <div class="panel-head"><div><span class="eyebrow">Clasificación</span><h2>Ranking local</h2></div><button class="close-btn" data-action="home">×</button></div>
-        <p class="notice">Por ahora se guarda por dispositivo. Supabase permitirá un ranking único y actualizado para todos.</p>
-        <div id="rankingList" class="ranking-list"></div>
+      <div class="game-layout">
+        <aside class="progress-panel glass-card">
+          <div class="section-heading"><div><small>Tu colección</small><h2>Insignias</h2></div><span id="badgeCount">0/5</span></div>
+          <div id="badgeRail" class="badge-rail"></div>
+          <div class="mission-card"><span class="mission-kicker">Misión actual</span><b id="missionText">Conseguí 2 aciertos para habilitar un desafío.</b><div class="mission-progress"><span id="missionBar"></span></div></div>
+        </aside>
+
+        <section class="stage glass-card">
+          <div id="wheelScreen" class="stage-screen active">
+            <div class="stage-copy"><span class="eyebrow">Tu próximo desafío</span><h2>Girás, respondés y conquistás.</h2><p>Las categorías pendientes tienen más chances de salir. Las conquistadas vuelven con preguntas expertas y puntaje doble.</p></div>
+            <div class="wheel-wrap">
+              <div class="pointer"></div>
+              <div class="wheel" id="wheel"></div>
+              <button id="spinBtn" class="spin-btn">Girar</button>
+              <div class="wheel-halo"></div>
+            </div>
+            <div class="power-row">
+              <button class="power-card" data-power="fifty"><span>½</span><b>50/50</b><small>Elimina dos opciones</small></button>
+              <button class="power-card" data-power="time"><span>+10</span><b>Tiempo</b><small>Suma 10 segundos</small></button>
+              <button class="power-card" data-power="swap"><span>↻</span><b>Cambiar</b><small>Otra pregunta</small></button>
+              <button class="power-card" data-power="shield"><span>◇</span><b>Escudo</b><small>Protege una vida</small></button>
+            </div>
+          </div>
+
+          <div id="questionScreen" class="stage-screen">
+            <div class="question-topline"><span id="categoryPill" class="category-pill">TV</span><span id="difficultyPill" class="difficulty-pill">Intermedio</span><div class="timer"><span id="timerText">20</span><div class="timer-track"><span id="timerBar"></span></div></div></div>
+            <div class="question-layout">
+              <div id="mediaPanel" class="media-panel"><img id="productImage" alt="Producto de la pregunta"><div class="image-badge">Imagen real del catálogo</div></div>
+              <div class="question-content"><span id="questionType" class="question-type">Caso de cliente</span><h2 id="questionText"></h2><div id="answers" class="answers"></div></div>
+            </div>
+            <div class="question-powers" id="questionPowers"></div>
+          </div>
+
+          <div id="resultScreen" class="stage-screen result-screen">
+            <div id="resultIcon" class="result-icon">✓</div><span id="resultKicker" class="eyebrow">Respuesta correcta</span><h2 id="resultTitle">Muy bien</h2><p id="resultExplanation"></p><div id="earnedPoints" class="earned-points">+260 puntos</div><button id="continueBtn" class="primary-btn">Continuar <span>→</span></button>
+          </div>
+        </section>
       </div>
     </section>
   </main>
 
-  <div id="badgeCelebration" class="celebration" aria-hidden="true">
-    <div class="confetti" id="confetti"></div>
-    <div class="celebration-card">
-      <span class="eyebrow">Familia conquistada</span>
-      <div id="celebrationBadge" class="celebration-badge"></div>
-      <h2 id="celebrationTitle">Insignia obtenida</h2>
-      <p id="celebrationText"></p>
-      <strong>+500 puntos</strong>
-      <button id="celebrationContinue" class="primary-btn">Seguir jugando</button>
-    </div>
-  </div>
-
-  <dialog id="rulesDialog">
-    <div class="dialog-head"><h2>Cómo se juega</h2><button id="closeRules">×</button></div>
-    <ol>
-      <li>Girás la ruleta y obtenés una familia.</li>
-      <li>Tenés 15 segundos para responder.</li>
-      <li>Las opciones se mezclan en cada pregunta.</li>
-      <li>Al alcanzar tres aciertos se habilita un desafío experto.</li>
-      <li>Si superás el desafío, obtenés la insignia y 500 puntos extra.</li>
-      <li>Las familias conquistadas pueden volver a salir con preguntas expertas y puntaje doble.</li><li>Disponés de cuatro comodines por partida: 50/50, tiempo extra, cambio de pregunta y escudo.</li><li>Las preguntas pueden incluir imágenes y características reales de los productos del catálogo.</li>
-    </ol>
-  </dialog>
-
-  <script src="app.js" defer></script>
+  <div id="toast" class="toast" role="status"></div>
+  <script src="app.js"></script>
 </body>
 </html>
