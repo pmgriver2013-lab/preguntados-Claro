@@ -4,107 +4,122 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta name="theme-color" content="#d71920" />
+  <meta name="description" content="Juego de capacitación de productos y accesorios para el CAC." />
   <title>Claro desafío</title>
   <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
-  <div class="ambient ambient-a"></div><div class="ambient ambient-b"></div>
+  <div class="page-glow glow-one"></div><div class="page-glow glow-two"></div>
   <main id="app" class="app-shell">
     <header class="topbar">
-      <button class="brand" data-action="home" aria-label="Volver al inicio"><span>claro</span><i></i></button>
+      <button class="brand" data-action="home" aria-label="Volver al inicio">
+        <span class="brand-word">claro</span><span class="brand-rays" aria-hidden="true"></span>
+      </button>
       <div class="top-actions">
-        <button id="soundBtn" class="icon-btn" title="Activar o silenciar sonido">🔊</button>
-        <button id="rulesBtn" class="icon-btn" title="Ver reglas">?</button>
+        <button id="soundBtn" class="round-btn" title="Activar o silenciar sonido" aria-label="Sonido">🔊</button>
+        <button id="rulesBtn" class="round-btn" title="Ver reglas" aria-label="Reglas">?</button>
       </div>
     </header>
 
     <section id="homeScreen" class="screen active home-screen">
       <div class="hero-copy">
-        <span class="eyebrow">Productos y accesorios</span>
-        <h1>Claro desafío</h1>
-        <p>Girás, respondés y conquistás las diez familias del catálogo.</p>
+        <span class="eyebrow">Entrenamiento de productos y accesorios</span>
+        <h1>Claro<br><em>desafío</em></h1>
+        <p>Dominá cada familia, superá sus desafíos y completá tu colección de insignias.</p>
         <div class="hero-actions">
-          <button id="startBtn" class="primary-btn">Jugar ahora <span>→</span></button>
-          <button id="rankingBtn" class="secondary-btn">Ver ranking</button>
+          <button id="startBtn" class="primary-btn">Nueva partida <span>→</span></button>
+          <button id="resumeBtn" class="secondary-btn hidden">Continuar partida</button>
+          <button id="rankingBtn" class="ghost-btn">Ranking</button>
         </div>
-        <div class="mini-stats">
-          <div><b>120</b><span>preguntas</span></div>
-          <div><b>10</b><span>familias</span></div>
-          <div><b>3</b><span>vidas</span></div>
+        <div class="feature-row">
+          <span><b>120</b> preguntas</span><span><b>10</b> familias</span><span><b>1</b> desafío por insignia</span>
         </div>
       </div>
-      <div class="hero-visual">
-        <div class="orbital-card">
-          <div class="orbit orbit-1"></div><div class="orbit orbit-2"></div>
-          <div class="center-badge"><strong>10</strong><span>familias</span></div>
-          <span class="float-icon f1">🎧</span><span class="float-icon f2">⌚</span><span class="float-icon f3">📺</span><span class="float-icon f4">🔋</span><span class="float-icon f5">📷</span><span class="float-icon f6">🔊</span>
+      <div class="hero-stage" aria-hidden="true">
+        <div class="hero-disc">
+          <div class="disc-ring ring-a"></div><div class="disc-ring ring-b"></div>
+          <div class="hero-core"><span>10</span><small>familias</small></div>
+          <div id="heroIcons" class="hero-icons"></div>
         </div>
+        <div class="hero-card hero-card-a"><span>Racha</span><strong>x4</strong></div>
+        <div class="hero-card hero-card-b"><span>Insignias</span><strong>6/10</strong></div>
       </div>
     </section>
 
     <section id="playerScreen" class="screen compact-screen">
-      <div class="panel glass-panel">
-        <span class="step-pill">Paso 1 de 1</span>
-        <h2>Ingresá tu jugador</h2>
-        <p>En esta versión el progreso se guarda en este navegador. La conexión compartida con Supabase se agrega en la siguiente etapa.</p>
+      <div class="panel player-panel">
+        <div class="panel-symbol">▶</div>
+        <span class="eyebrow">Nueva partida</span>
+        <h2>Identificá tu jugador</h2>
+        <p>Tu partida se guarda en este navegador. Luego conectaremos Supabase para compartir el progreso entre todos.</p>
         <label>Nombre y apellido<input id="playerName" maxlength="40" placeholder="Ej.: Pablo González" autocomplete="name" /></label>
         <label>Legajo o identificador<input id="playerCode" maxlength="20" placeholder="Ej.: CTI12345" /></label>
-        <button id="beginGameBtn" class="primary-btn full">Comenzar partida</button>
+        <button id="beginGameBtn" class="primary-btn full">Comenzar</button>
       </div>
     </section>
 
     <section id="gameScreen" class="screen game-screen">
-      <div class="game-hud glass-panel">
-        <div><span>Jugador</span><strong id="hudPlayer">—</strong></div>
+      <div class="game-hud">
+        <div class="hud-player"><span>Jugador</span><strong id="hudPlayer">—</strong></div>
         <div><span>Puntos</span><strong id="hudScore">0</strong></div>
         <div><span>Racha</span><strong id="hudStreak">0</strong></div>
-        <div><span>Vidas</span><strong id="hudLives">❤️❤️❤️</strong></div>
+        <div><span>Vidas</span><strong id="hudLives" class="lives">● ● ●</strong></div>
       </div>
 
       <div id="wheelPhase" class="game-phase active">
         <div class="wheel-layout">
-          <div class="wheel-wrap">
-            <div class="pointer">▼</div>
-            <canvas id="wheelCanvas" width="680" height="680" aria-label="Ruleta de categorías"></canvas>
-            <button id="spinBtn" class="spin-core"><span>Girar</span><small>ruleta</small></button>
-          </div>
-          <aside class="mission-card glass-panel">
-            <span class="eyebrow">Misión actual</span>
-            <h3>Conquistá las familias</h3>
-            <p>Respondé tres preguntas correctas de una familia para obtener su insignia.</p>
+          <section class="wheel-zone">
+            <div class="wheel-heading"><span class="eyebrow">Tu próximo reto</span><h2 id="wheelHeading">Girás y la rueda decide</h2></div>
+            <div class="wheel-wrap">
+              <div class="pointer"><span></span></div>
+              <canvas id="wheelCanvas" width="760" height="760" aria-label="Ruleta de familias"></canvas>
+              <button id="spinBtn" class="spin-core"><span>Girar</span><small>ahora</small></button>
+            </div>
+            <p id="wheelHint" class="wheel-hint">Las familias pendientes tienen mayor probabilidad, sin perder el azar.</p>
+          </section>
+          <aside class="progress-card">
+            <div class="progress-head"><div><span class="eyebrow">Colección</span><h3>Insignias</h3></div><strong id="badgeCounter">0/10</strong></div>
+            <p>Lográ tres aciertos y superá el desafío experto para conquistar cada familia.</p>
             <div id="badgesGrid" class="badges-grid"></div>
           </aside>
         </div>
       </div>
 
       <div id="questionPhase" class="game-phase">
-        <div class="question-card glass-panel">
-          <div class="question-meta">
-            <span id="questionFamily" class="family-chip">Familia</span>
-            <span id="questionDifficulty" class="difficulty-chip">Inicial</span>
-            <div class="timer"><div id="timerBar"></div><span id="timerText">15</span></div>
-          </div>
-          <p id="questionType" class="question-type">Tipo</p>
-          <h2 id="questionText">Pregunta</h2>
-          <div id="optionsGrid" class="options-grid"></div>
+        <div class="question-layout">
+          <aside class="question-family-panel">
+            <div id="questionFamilyIcon" class="large-family-icon"></div>
+            <span id="questionFamilyLabel">Familia</span>
+            <strong id="questionModeLabel">Pregunta regular</strong>
+            <p id="questionProgressLabel">Progreso 0/3</p>
+          </aside>
+          <article class="question-card">
+            <div class="question-meta">
+              <span id="questionDifficulty" class="chip">Inicial</span>
+              <span id="questionType" class="chip muted-chip">Tipo</span>
+              <div class="timer"><div id="timerBar"></div><span id="timerText">15</span></div>
+            </div>
+            <h2 id="questionText">Pregunta</h2>
+            <div id="optionsGrid" class="options-grid"></div>
+          </article>
         </div>
       </div>
 
       <div id="resultPhase" class="game-phase">
-        <div class="result-card glass-panel">
+        <article class="result-card">
           <div id="resultIcon" class="result-icon">✓</div>
           <span id="resultKicker" class="eyebrow">Respuesta correcta</span>
-          <h2 id="resultTitle">¡Bien hecho!</h2>
+          <h2 id="resultTitle">¡Muy bien!</h2>
           <p id="resultExplanation"></p>
           <div id="pointsEarned" class="points-earned">+100 puntos</div>
           <button id="continueBtn" class="primary-btn">Continuar</button>
-        </div>
+        </article>
       </div>
     </section>
 
     <section id="endScreen" class="screen compact-screen">
-      <div class="panel glass-panel end-panel">
-        <div class="trophy">🏆</div>
+      <div class="panel end-panel">
+        <div class="final-emblem">★</div>
         <span class="eyebrow">Partida finalizada</span>
         <h2 id="endTitle">Resultado</h2>
         <div class="end-stats">
@@ -119,17 +134,36 @@
     </section>
 
     <section id="rankingScreen" class="screen compact-screen">
-      <div class="panel glass-panel ranking-panel">
+      <div class="panel ranking-panel">
         <div class="panel-head"><div><span class="eyebrow">Clasificación</span><h2>Ranking local</h2></div><button class="close-btn" data-action="home">×</button></div>
-        <p class="notice">Este ranking se guarda por dispositivo. La versión compartida se conectará a Supabase.</p>
+        <p class="notice">Por ahora se guarda por dispositivo. Supabase permitirá un ranking único y actualizado para todos.</p>
         <div id="rankingList" class="ranking-list"></div>
       </div>
     </section>
   </main>
 
+  <div id="badgeCelebration" class="celebration" aria-hidden="true">
+    <div class="confetti" id="confetti"></div>
+    <div class="celebration-card">
+      <span class="eyebrow">Familia conquistada</span>
+      <div id="celebrationBadge" class="celebration-badge"></div>
+      <h2 id="celebrationTitle">Insignia obtenida</h2>
+      <p id="celebrationText"></p>
+      <strong>+500 puntos</strong>
+      <button id="celebrationContinue" class="primary-btn">Seguir jugando</button>
+    </div>
+  </div>
+
   <dialog id="rulesDialog">
     <div class="dialog-head"><h2>Cómo se juega</h2><button id="closeRules">×</button></div>
-    <ol><li>Girás la ruleta y obtenés una familia.</li><li>Tenés 15 segundos para responder.</li><li>Sumás puntos por acierto, velocidad y racha.</li><li>Cada tres aciertos en una familia obtenés su insignia.</li><li>La partida termina al perder las tres vidas o conquistar las diez familias.</li></ol>
+    <ol>
+      <li>Girás la ruleta y obtenés una familia.</li>
+      <li>Tenés 15 segundos para responder.</li>
+      <li>Las opciones se mezclan en cada pregunta.</li>
+      <li>Al alcanzar tres aciertos se habilita un desafío experto.</li>
+      <li>Si superás el desafío, obtenés la insignia y 500 puntos extra.</li>
+      <li>Las familias conquistadas pueden volver a salir con preguntas expertas y puntaje doble.</li>
+    </ol>
   </dialog>
 
   <script src="app.js" defer></script>

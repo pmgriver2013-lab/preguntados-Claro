@@ -1,37 +1,18 @@
-# Claro desafío v0.1
+# Claro desafío v0.2
 
-Prototipo web del juego de capacitación de productos y accesorios.
+Juego web de capacitación en productos y accesorios.
 
-## Probar localmente
+## Mejoras de esta versión
 
-Por seguridad del navegador, `questions.json` debe servirse mediante un servidor local.
+- Nueva identidad visual con íconos vectoriales propios.
+- Ruleta sincronizada con la familia seleccionada.
+- Aleatoriedad equilibrada: prioriza familias pendientes y evita tres repeticiones consecutivas.
+- Mezcla automática de las opciones A, B, C y D.
+- Desafío experto al alcanzar tres aciertos.
+- Insignia, celebración y 500 puntos extra al superar el desafío.
+- Preguntas expertas con puntaje doble para familias ya conquistadas.
+- Guardado automático y recuperación de partidas interrumpidas.
 
-Con Python:
+## Publicación en GitHub Pages
 
-```bash
-python -m http.server 8080
-```
-
-Luego abrir `http://localhost:8080`.
-
-## Publicar en GitHub Pages
-
-1. Crear un repositorio público.
-2. Subir todos los archivos de esta carpeta a la raíz.
-3. Abrir `Settings > Pages`.
-4. En `Build and deployment`, elegir `Deploy from a branch`.
-5. Seleccionar la rama `main` y la carpeta `/root`.
-6. Guardar y esperar la publicación.
-
-## Estado actual
-
-- 120 preguntas curadas.
-- 10 familias.
-- Ruleta animada.
-- Vidas, puntaje, racha e insignias.
-- Ranking local mediante `localStorage`.
-- Diseño adaptable a celular y computadora.
-
-## Próxima etapa
-
-Conectar Supabase para compartir jugadores, progreso y ranking entre dispositivos.
+Subí `index.html`, `styles.css`, `app.js` y `questions.json` a la raíz del repositorio. En **Settings > Pages**, elegí `Deploy from a branch`, rama `main` y carpeta `/(root)`.
