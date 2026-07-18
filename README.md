@@ -1,18 +1,12 @@
-# Claro desafío v0.2
+# Claro desafío v0.3
 
-Juego web de capacitación en productos y accesorios.
+Juego web estático listo para GitHub Pages.
 
-## Mejoras de esta versión
+## Incluye
+- 285 preguntas, con 699 preguntas nuevas basadas en productos reales del catálogo.
+- Preguntas con imágenes externas, características, argumentos de venta y casos de cliente.
+- Comodines 50/50, tiempo extra, cambio de pregunta y escudo.
+- Ruleta, insignias, rachas, guardado local y ranking local.
 
-- Nueva identidad visual con íconos vectoriales propios.
-- Ruleta sincronizada con la familia seleccionada.
-- Aleatoriedad equilibrada: prioriza familias pendientes y evita tres repeticiones consecutivas.
-- Mezcla automática de las opciones A, B, C y D.
-- Desafío experto al alcanzar tres aciertos.
-- Insignia, celebración y 500 puntos extra al superar el desafío.
-- Preguntas expertas con puntaje doble para familias ya conquistadas.
-- Guardado automático y recuperación de partidas interrumpidas.
-
-## Publicación en GitHub Pages
-
-Subí `index.html`, `styles.css`, `app.js` y `questions.json` a la raíz del repositorio. En **Settings > Pages**, elegí `Deploy from a branch`, rama `main` y carpeta `/(root)`.
+## Publicación
+Subir a la raíz del repositorio: `index.html`, `styles.css`, `app.js` y `questions.json`.

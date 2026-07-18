@@ -32,7 +32,7 @@
           <button id="rankingBtn" class="ghost-btn">Ranking</button>
         </div>
         <div class="feature-row">
-          <span><b>120</b> preguntas</span><span><b>10</b> familias</span><span><b>1</b> desafío por insignia</span>
+          <span><b>285</b> preguntas</span><span><b>10</b> familias</span><span><b>1</b> desafío por insignia</span>
         </div>
       </div>
       <div class="hero-stage" aria-hidden="true">
@@ -100,7 +100,14 @@
               <div class="timer"><div id="timerBar"></div><span id="timerText">15</span></div>
             </div>
             <h2 id="questionText">Pregunta</h2>
+            <div id="questionMedia" class="question-media hidden"><img id="questionImage" alt="Producto de la pregunta"><div class="image-fallback">Imagen no disponible</div></div>
             <div id="optionsGrid" class="options-grid"></div>
+            <div class="joker-dock" aria-label="Comodines">
+              <button class="joker-btn" data-joker="fifty" title="Elimina dos respuestas incorrectas"><span>½</span><b>50/50</b><small id="jokerFiftyCount">1</small></button>
+              <button class="joker-btn" data-joker="time" title="Agrega diez segundos"><span>+10</span><b>Tiempo</b><small id="jokerTimeCount">1</small></button>
+              <button class="joker-btn" data-joker="swap" title="Cambia la pregunta"><span>↻</span><b>Cambiar</b><small id="jokerSwapCount">1</small></button>
+              <button class="joker-btn" data-joker="shield" title="Evita perder una vida"><span>◆</span><b>Escudo</b><small id="jokerShieldCount">1</small></button>
+            </div>
           </article>
         </div>
       </div>
@@ -162,7 +169,7 @@
       <li>Las opciones se mezclan en cada pregunta.</li>
       <li>Al alcanzar tres aciertos se habilita un desafío experto.</li>
       <li>Si superás el desafío, obtenés la insignia y 500 puntos extra.</li>
-      <li>Las familias conquistadas pueden volver a salir con preguntas expertas y puntaje doble.</li>
+      <li>Las familias conquistadas pueden volver a salir con preguntas expertas y puntaje doble.</li><li>Disponés de cuatro comodines por partida: 50/50, tiempo extra, cambio de pregunta y escudo.</li><li>Las preguntas pueden incluir imágenes y características reales de los productos del catálogo.</li>
     </ol>
   </dialog>
 

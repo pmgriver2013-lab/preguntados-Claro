@@ -2038,5 +2038,2975 @@
     "explanation": "Un proyector puede aceptar una señal superior y reducirla a su resolución real.",
     "product": "",
     "imageRequired": false
+  },
+  {
+    "id": 121,
+    "family": "Auriculares",
+    "difficulty": "Intermedio",
+    "type": "Identificación visual",
+    "question": "¿Qué producto aparece en la imagen?",
+    "options": [
+      "Auriculares Honor TWS X7i",
+      "FreeBuds 6i",
+      "Auriculares Honor TWS X7 Lite",
+      "In Link Pro"
+    ],
+    "answer": 0,
+    "explanation": "La imagen corresponde a Auriculares Honor TWS X7i.",
+    "product": "Auriculares Honor TWS X7i",
+    "imageRequired": true,
+    "imageUrl": "https://tienda.claro.com.ar/staticContent/Claro/images/catalog/productos/200x310/7007117.webp"
+  },
+  {
+    "id": 122,
+    "family": "Auriculares",
+    "difficulty": "Intermedio",
+    "type": "Características del producto",
+    "question": "¿Cuál es la especificación correcta de Auriculares Honor TWS X7i para “Conectividad”?",
+    "options": [
+      "Bluetooth 5.3",
+      "Bluetooth 5.4 con Auto Switch",
+      "Bluetooth 6.1 con Auto Switch",
+      "Bluetooth 5.4 (Doble Modo)"
+    ],
+    "answer": 0,
+    "explanation": "Auriculares Honor TWS X7i: Conectividad: Bluetooth 5.3.",
+    "product": "Auriculares Honor TWS X7i",
+    "imageRequired": true,
+    "imageUrl": "https://tienda.claro.com.ar/staticContent/Claro/images/catalog/productos/200x310/7007117.webp"
+  },
+  {
+    "id": 123,
+    "family": "Auriculares",
+    "difficulty": "Experto",
+    "type": "Argumento de venta",
+    "question": "¿Cuál es un argumento válido para recomendar Auriculares Honor TWS X7i?",
+    "options": [
+      "Silencio Absoluto: Cancelación Activa de Ruido Híbrida de hasta 45dB con 3 modos (Acogedor, Moderado, Ultra) para cada situación",
+      "Es una característica que no figura para este modelo",
+      "Solo se recomienda por su diseño exterior",
+      "No ofrece una ventaja concreta frente a otros productos"
+    ],
+    "answer": 0,
+    "explanation": "Silencio Absoluto: Cancelación Activa de Ruido Híbrida de hasta 45dB con 3 modos (Acogedor, Moderado, Ultra) para cada situación",
+    "product": "Auriculares Honor TWS X7i",
+    "imageRequired": true,
+    "imageUrl": "https://tienda.claro.com.ar/staticContent/Claro/images/catalog/productos/200x310/7007117.webp"
+  },
+  {
+    "id": 124,
+    "family": "Auriculares",
+    "difficulty": "Intermedio",
+    "type": "Identificación visual",
+    "question": "¿Qué producto aparece en la imagen?",
+    "options": [
+      "Auriculares Honor TWS X7e Active",
+      "Auriculares Maxel Bax Type C",
+      "Auriculares Jbl TWS Live Beam 3",
+      "Auriculares Honor TWS X7i"
+    ],
+    "answer": 0,
+    "explanation": "La imagen corresponde a Auriculares Honor TWS X7e Active.",
+    "product": "Auriculares Honor TWS X7e Active",
+    "imageRequired": true,
+    "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_635126-CBT88711931652_072025-O-auriculares-honor-choice-earbuds-x7e-blanco-bt53-tws-anc.webp"
+  },
+  {
+    "id": 125,
+    "family": "Auriculares",
+    "difficulty": "Intermedio",
+    "type": "Características del producto",
+    "question": "¿Cuál es la especificación correcta de Auriculares Honor TWS X7e Active para “Conectividad”?",
+    "options": [
+      "Bluetooth 5.3",
+      "Bluetooth 5.4 con Auto Switch",
+      "Bluetooth 6.1 con Auto Switch",
+      "Bluetooth 5.4 (Doble Modo)"
+    ],
+    "answer": 0,
+    "explanation": "Auriculares Honor TWS X7e Active: Conectividad: Bluetooth 5.3.",
+    "product": "Auriculares Honor TWS X7e Active",
+    "imageRequired": true,
+    "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_635126-CBT88711931652_072025-O-auriculares-honor-choice-earbuds-x7e-blanco-bt53-tws-anc.webp"
+  },
+  {
+    "id": 126,
+    "family": "Auriculares",
+    "difficulty": "Experto",
+    "type": "Argumento de venta",
+    "question": "¿Cuál es un argumento válido para recomendar Auriculares Honor TWS X7e Active?",
+    "options": [
+      "Comodidad y Silencio: Diseño semiabierto que no invade el oído, combinado con ANC adaptativa para reducir el ruido ambiente",
+      "Es una característica que no figura para este modelo",
+      "Solo se recomienda por su diseño exterior",
+      "No ofrece una ventaja concreta frente a otros productos"
+    ],
+    "answer": 0,
+    "explanation": "Comodidad y Silencio: Diseño semiabierto que no invade el oído, combinado con ANC adaptativa para reducir el ruido ambiente",
+    "product": "Auriculares Honor TWS X7e Active",
+    "imageRequired": true,
+    "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_635126-CBT88711931652_072025-O-auriculares-honor-choice-earbuds-x7e-blanco-bt53-tws-anc.webp"
+  },
+  {
+    "id": 127,
+    "family": "Auriculares",
+    "difficulty": "Intermedio",
+    "type": "Identificación visual",
+    "question": "¿Qué producto aparece en la imagen?",
+    "options": [
+      "Auriculares Foxbox TWS Harmony BT",
+      "Auriculares Samsung In C/C Type C IC100",
+      "Iris",
+      "FreeBuds2SE Bt BL"
+    ],
+    "answer": 0,
+    "explanation": "La imagen corresponde a Auriculares Foxbox TWS Harmony BT.",
+    "product": "Auriculares Foxbox TWS Harmony BT",
+    "imageRequired": true,
+    "imageUrl": "https://tienda.claro.com.ar/staticContent/Claro/images/catalog/productos/200x310/7008005.webp"
+  },
+  {
+    "id": 128,
+    "family": "Auriculares",
+    "difficulty": "Intermedio",
+    "type": "Características del producto",
+    "question": "¿Cuál es la especificación correcta de Auriculares Foxbox TWS Harmony BT para “Resistencia”?",
+    "options": [
+      "IPX4",
+      "IP57",
+      "IP54",
+      "IP54 (Auricular) / IPX2 (Estuche)"
+    ],
+    "answer": 0,
+    "explanation": "Auriculares Foxbox TWS Harmony BT: Resistencia: IPX4.",
+    "product": "Auriculares Foxbox TWS Harmony BT",
+    "imageRequired": true,
+    "imageUrl": "https://tienda.claro.com.ar/staticContent/Claro/images/catalog/productos/200x310/7008005.webp"
+  },
+  {
+    "id": 129,
+    "family": "Auriculares",
+    "difficulty": "Experto",
+    "type": "Argumento de venta",
+    "question": "¿Cuál es un argumento válido para recomendar Auriculares Foxbox TWS Harmony BT?",
+    "options": [
+      "Conexión de Última Generación: Gracias al Bluetooth 5.4, el usuario tendrá menos cortes y una conexión mucho más rápida con el celular, gastando menos",
+      "Es una característica que no figura para este modelo",
+      "Solo se recomienda por su diseño exterior",
+      "No ofrece una ventaja concreta frente a otros productos"
+    ],
+    "answer": 0,
+    "explanation": "Conexión de Última Generación: Gracias al Bluetooth 5.4, el usuario tendrá menos cortes y una conexión mucho más rápida con el celular, gastando menos",
+    "product": "Auriculares Foxbox TWS Harmony BT",
+    "imageRequired": true,
+    "imageUrl": "https://tienda.claro.com.ar/staticContent/Claro/images/catalog/productos/200x310/7008005.webp"
+  },
+  {
+    "id": 130,
+    "family": "Auriculares",
+    "difficulty": "Intermedio",
+    "type": "Identificación visual",
+    "question": "¿Qué producto aparece en la imagen?",
+    "options": [
+      "Auriculares Motorola TWS Buds Loop",
+      "Auriculares Dekkin TWS Dot 018 Bt",
+      "Auriculares Samsung TWS Buds 4",
+      "Huawei FreeBuds Pro 4"
+    ],
+    "answer": 0,
+    "explanation": "La imagen corresponde a Auriculares Motorola TWS Buds Loop.",
+    "product": "Auriculares Motorola TWS Buds Loop",
+    "imageRequired": true,
+    "imageUrl": "https://armoto.vtexassets.com/arquivos/ids/169756-1200-auto?v=638906100326130000&width=1200&height=auto&aspect=true"
+  },
+  {
+    "id": 131,
+    "family": "Auriculares",
+    "difficulty": "Intermedio",
+    "type": "Características del producto",
+    "question": "¿Cuál es la especificación correcta de Auriculares Motorola TWS Buds Loop para “Controles”?",
+    "options": [
+      "Táctiles (Cap-sensor)",
+      "Sistema Táctil",
+      "Táctiles",
+      "Táctiles Integrados"
+    ],
+    "answer": 0,
+    "explanation": "Auriculares Motorola TWS Buds Loop: Controles: Táctiles (Cap-sensor).",
+    "product": "Auriculares Motorola TWS Buds Loop",
+    "imageRequired": true,
+    "imageUrl": "https://armoto.vtexassets.com/arquivos/ids/169756-1200-auto?v=638906100326130000&width=1200&height=auto&aspect=true"
+  },
+  {
+    "id": 132,
+    "family": "Auriculares",
+    "difficulty": "Experto",
+    "type": "Argumento de venta",
+    "question": "¿Cuál es un argumento válido para recomendar Auriculares Motorola TWS Buds Loop?",
+    "options": [
+      "Sonido certificado por Bose: Disfrutá de una calidad de audio de alta fidelidad, ecualizada por los mejores expertos del mundo",
+      "Es una característica que no figura para este modelo",
+      "Solo se recomienda por su diseño exterior",
+      "No ofrece una ventaja concreta frente a otros productos"
+    ],
+    "answer": 0,
+    "explanation": "Sonido certificado por Bose: Disfrutá de una calidad de audio de alta fidelidad, ecualizada por los mejores expertos del mundo",
+    "product": "Auriculares Motorola TWS Buds Loop",
+    "imageRequired": true,
+    "imageUrl": "https://armoto.vtexassets.com/arquivos/ids/169756-1200-auto?v=638906100326130000&width=1200&height=auto&aspect=true"
+  },
+  {
+    "id": 133,
+    "family": "Auriculares",
+    "difficulty": "Intermedio",
+    "type": "Identificación visual",
+    "question": "¿Qué producto aparece en la imagen?",
+    "options": [
+      "Tws Buds+",
+      "Boost Run",
+      "Dekkin Focus Vincha",
+      "Earbuds 3S"
+    ],
+    "answer": 0,
+    "explanation": "La imagen corresponde a Tws Buds+.",
+    "product": "Tws Buds+",
+    "imageRequired": true,
+    "imageUrl": "https://tienda.claro.com.ar/staticContent/Claro/images/catalog/productos/200x310/7006426.webp"
+  },
+  {
+    "id": 134,
+    "family": "Auriculares",
+    "difficulty": "Intermedio",
+    "type": "Características del producto",
+    "question": "¿Cuál es la especificación correcta de Tws Buds+ para “Autonomía”?",
+    "options": [
+      "Hasta 38hs (8hs en auri. + 30hs en estuche)",
+      "Hasta 22 horas (con Carga Rápida y Power&Play)",
+      "Hasta 30hs (6hs en auri. + 24hs en estuche)",
+      "Hasta 30hs totales (Carga inalámbrica)"
+    ],
+    "answer": 0,
+    "explanation": "Tws Buds+: Autonomía: Hasta 38hs (8hs en auri. + 30hs en estuche).",
+    "product": "Tws Buds+",
+    "imageRequired": true,
+    "imageUrl": "https://tienda.claro.com.ar/staticContent/Claro/images/catalog/productos/200x310/7006426.webp"
+  },
+  {
+    "id": 135,
+    "family": "Auriculares",
+    "difficulty": "Experto",
+    "type": "Argumento de venta",
+    "question": "¿Cuál es un argumento válido para recomendar Tws Buds+?",
+    "options": [
+      "Su principal diferencial: tienen Sound by Bose, garantizando una ecualización y cancelación de ruido de nivel mundial",
+      "Es una característica que no figura para este modelo",
+      "Solo se recomienda por su diseño exterior",
+      "No ofrece una ventaja concreta frente a otros productos"
+    ],
+    "answer": 0,
+    "explanation": "Su principal diferencial: tienen Sound by Bose, garantizando una ecualización y cancelación de ruido de nivel mundial",
+    "product": "Tws Buds+",
+    "imageRequired": true,
+    "imageUrl": "https://tienda.claro.com.ar/staticContent/Claro/images/catalog/productos/200x310/7006426.webp"
+  },
+  {
+    "id": 136,
+    "family": "Auriculares",
+    "difficulty": "Intermedio",
+    "type": "Identificación visual",
+    "question": "¿Qué producto aparece en la imagen?",
+    "options": [
+      "Huawei FreeBuds SE 3",
+      "FreeBuds2SE Bt BL",
+      "Pulse",
+      "In Ear 072"
+    ],
+    "answer": 0,
+    "explanation": "La imagen corresponde a Huawei FreeBuds SE 3.",
+    "product": "Huawei FreeBuds SE 3",
+    "imageRequired": true,
+    "imageUrl": "https://tienda.claro.com.ar/staticContent/Claro/images/catalog/productos/200x310/7006872.webp"
+  },
+  {
+    "id": 137,
+    "family": "Auriculares",
+    "difficulty": "Intermedio",
+    "type": "Características del producto",
+    "question": "¿Cuál es la especificación correcta de Huawei FreeBuds SE 3 para “Resistencia”?",
+    "options": [
+      "IP54 (resistente a polvo y salpicaduras)",
+      "IP57",
+      "IP54",
+      "IP54 (Auricular) / IPX2 (Estuche)"
+    ],
+    "answer": 0,
+    "explanation": "Huawei FreeBuds SE 3: Resistencia: IP54 (resistente a polvo y salpicaduras).",
+    "product": "Huawei FreeBuds SE 3",
+    "imageRequired": true,
+    "imageUrl": "https://tienda.claro.com.ar/staticContent/Claro/images/catalog/productos/200x310/7006872.webp"
+  },
+  {
+    "id": 138,
+    "family": "Auriculares",
+    "difficulty": "Experto",
+    "type": "Argumento de venta",
+    "question": "¿Cuál es un argumento válido para recomendar Huawei FreeBuds SE 3?",
+    "options": [
+      "¡Olvidate del cargador! Hasta 42 horas de música en total con el estuche",
+      "Es una característica que no figura para este modelo",
+      "Solo se recomienda por su diseño exterior",
+      "No ofrece una ventaja concreta frente a otros productos"
+    ],
+    "answer": 0,
+    "explanation": "¡Olvidate del cargador! Hasta 42 horas de música en total con el estuche",
+    "product": "Huawei FreeBuds SE 3",
+    "imageRequired": true,
+    "imageUrl": "https://tienda.claro.com.ar/staticContent/Claro/images/catalog/productos/200x310/7006872.webp"
+  },
+  {
+    "id": 139,
+    "family": "Auriculares",
+    "difficulty": "Experto",
+    "type": "Caso de cliente",
+    "question": "Un cliente presenta esta necesidad: “el usuario exigente que busca inmersión total. Ideal para quienes necesitan una cancelación de ruido potente (45dB) y adaptable, con una calidad de sonido superior (driver de titanio) para música y llamadas”. ¿Qué producto del catálogo se ajusta mejor?",
+    "options": [
+      "Auriculares Honor TWS X7i",
+      "SP 106",
+      "Iris",
+      "Oasis"
+    ],
+    "answer": 0,
+    "explanation": "Auriculares Honor TWS X7i fue definido en el catálogo para ese perfil de uso.",
+    "product": "Auriculares Honor TWS X7i",
+    "imageRequired": false,
+    "imageUrl": ""
+  },
+  {
+    "id": 140,
+    "family": "Auriculares",
+    "difficulty": "Experto",
+    "type": "Caso de cliente",
+    "question": "Un cliente presenta esta necesidad: “el usuario que busca comodidad total sin renunciar al silencio. Ideal para quienes les molestan los auriculares 'in-ear' profundos pero quieren Cancelación de Ruido (ANC) y una batería que dure días”. ¿Qué producto del catálogo se ajusta mejor?",
+    "options": [
+      "Auriculares Honor TWS X7e Active",
+      "Auriculares Samsung TWS Buds 4 Pro",
+      "XT220",
+      "Auriculares Samsung TWS Buds Core Bt"
+    ],
+    "answer": 0,
+    "explanation": "Auriculares Honor TWS X7e Active fue definido en el catálogo para ese perfil de uso.",
+    "product": "Auriculares Honor TWS X7e Active",
+    "imageRequired": false,
+    "imageUrl": ""
+  },
+  {
+    "id": 141,
+    "family": "Parlantes",
+    "difficulty": "Intermedio",
+    "type": "Identificación visual",
+    "question": "¿Qué producto aparece en la imagen?",
+    "options": [
+      "Parlante KlipX Zound Fire",
+      "Parlante Foxbox Nyxia 60",
+      "Hon Par Speaker Pro Bt",
+      "Parlante Stromberg Chunk Bt"
+    ],
+    "answer": 0,
+    "explanation": "La imagen corresponde a Parlante KlipX Zound Fire.",
+    "product": "Parlante KlipX Zound Fire",
+    "imageRequired": true,
+    "imageUrl": "https://xienan.com.ar/sistema/fotos/productos/00008869_00005693_G_170983300765e9fb2f2b78b.jpg"
+  },
+  {
+    "id": 142,
+    "family": "Parlantes",
+    "difficulty": "Intermedio",
+    "type": "Características del producto",
+    "question": "¿Cuál es la especificación correcta de Parlante KlipX Zound Fire para “Resistencia”?",
+    "options": [
+      "IPX6 (resistente a chorros de agua)",
+      "IP67",
+      "IPX5",
+      "IPX7"
+    ],
+    "answer": 0,
+    "explanation": "Parlante KlipX Zound Fire: Resistencia: IPX6 (resistente a chorros de agua).",
+    "product": "Parlante KlipX Zound Fire",
+    "imageRequired": true,
+    "imageUrl": "https://xienan.com.ar/sistema/fotos/productos/00008869_00005693_G_170983300765e9fb2f2b78b.jpg"
+  },
+  {
+    "id": 143,
+    "family": "Parlantes",
+    "difficulty": "Experto",
+    "type": "Argumento de venta",
+    "question": "¿Cuál es un argumento válido para recomendar Parlante KlipX Zound Fire?",
+    "options": [
+      "Ambiente único: Sus luces LED simulan una llama de fuego real, creando una atmósfera cálida tipo fogata",
+      "Es una característica que no figura para este modelo",
+      "Solo se recomienda por su diseño exterior",
+      "No ofrece una ventaja concreta frente a otros productos"
+    ],
+    "answer": 0,
+    "explanation": "Ambiente único: Sus luces LED simulan una llama de fuego real, creando una atmósfera cálida tipo fogata",
+    "product": "Parlante KlipX Zound Fire",
+    "imageRequired": true,
+    "imageUrl": "https://xienan.com.ar/sistema/fotos/productos/00008869_00005693_G_170983300765e9fb2f2b78b.jpg"
+  },
+  {
+    "id": 144,
+    "family": "Parlantes",
+    "difficulty": "Intermedio",
+    "type": "Identificación visual",
+    "question": "¿Qué producto aparece en la imagen?",
+    "options": [
+      "Parlante KlipX Groove Splash",
+      "Parlante Jbl Charge 6 Bt",
+      "Parlante Stromberg Groove Bt",
+      "Parlante Stromberg Mega Force"
+    ],
+    "answer": 0,
+    "explanation": "La imagen corresponde a Parlante KlipX Groove Splash.",
+    "product": "Parlante KlipX Groove Splash",
+    "imageRequired": true,
+    "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_741304-MLA82399645693_022025-O.webp"
+  },
+  {
+    "id": 145,
+    "family": "Parlantes",
+    "difficulty": "Intermedio",
+    "type": "Características del producto",
+    "question": "¿Cuál es la especificación correcta de Parlante KlipX Groove Splash para “Potencia”?",
+    "options": [
+      "6W RMS",
+      "30W",
+      "180W Reales",
+      "4W"
+    ],
+    "answer": 0,
+    "explanation": "Parlante KlipX Groove Splash: Potencia: 6W RMS.",
+    "product": "Parlante KlipX Groove Splash",
+    "imageRequired": true,
+    "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_741304-MLA82399645693_022025-O.webp"
+  },
+  {
+    "id": 146,
+    "family": "Parlantes",
+    "difficulty": "Experto",
+    "type": "Argumento de venta",
+    "question": "¿Cuál es un argumento válido para recomendar Parlante KlipX Groove Splash?",
+    "options": [
+      "Sumergible y todo terreno: Clasificación IPX7, resiste inmersión en agua (1m por 30 min). ¡Llevalo a la pileta sin miedo!",
+      "Es una característica que no figura para este modelo",
+      "Solo se recomienda por su diseño exterior",
+      "No ofrece una ventaja concreta frente a otros productos"
+    ],
+    "answer": 0,
+    "explanation": "Sumergible y todo terreno: Clasificación IPX7, resiste inmersión en agua (1m por 30 min). ¡Llevalo a la pileta sin miedo!",
+    "product": "Parlante KlipX Groove Splash",
+    "imageRequired": true,
+    "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_741304-MLA82399645693_022025-O.webp"
+  },
+  {
+    "id": 147,
+    "family": "Parlantes",
+    "difficulty": "Intermedio",
+    "type": "Identificación visual",
+    "question": "¿Qué producto aparece en la imagen?",
+    "options": [
+      "Parlante KlipX Nitro",
+      "Parlante Stromberg Zing BT",
+      "Parlante Foxbox Warp Pyxis",
+      "Parlante Xiaomi S29D OD 30W"
+    ],
+    "answer": 0,
+    "explanation": "La imagen corresponde a Parlante KlipX Nitro.",
+    "product": "Parlante KlipX Nitro",
+    "imageRequired": true,
+    "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_911410-MLC53442053267_012023-O.webp"
+  },
+  {
+    "id": 148,
+    "family": "Parlantes",
+    "difficulty": "Intermedio",
+    "type": "Características del producto",
+    "question": "¿Cuál es la especificación correcta de Parlante KlipX Nitro para “Resistencia”?",
+    "options": [
+      "IPX7 (Sumergible)",
+      "IP67",
+      "IPX5",
+      "IPX7"
+    ],
+    "answer": 0,
+    "explanation": "Parlante KlipX Nitro: Resistencia: IPX7 (Sumergible).",
+    "product": "Parlante KlipX Nitro",
+    "imageRequired": true,
+    "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_911410-MLC53442053267_012023-O.webp"
+  },
+  {
+    "id": 149,
+    "family": "Parlantes",
+    "difficulty": "Experto",
+    "type": "Argumento de venta",
+    "question": "¿Cuál es un argumento válido para recomendar Parlante KlipX Nitro?",
+    "options": [
+      "Resistencia total al agua: Certificación IPX7, lo podés sumergir hasta 1 metro por 30 minutos. ¡Ideal para pileta o playa!",
+      "Es una característica que no figura para este modelo",
+      "Solo se recomienda por su diseño exterior",
+      "No ofrece una ventaja concreta frente a otros productos"
+    ],
+    "answer": 0,
+    "explanation": "Resistencia total al agua: Certificación IPX7, lo podés sumergir hasta 1 metro por 30 minutos. ¡Ideal para pileta o playa!",
+    "product": "Parlante KlipX Nitro",
+    "imageRequired": true,
+    "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_911410-MLC53442053267_012023-O.webp"
+  },
+  {
+    "id": 150,
+    "family": "Parlantes",
+    "difficulty": "Intermedio",
+    "type": "Identificación visual",
+    "question": "¿Qué producto aparece en la imagen?",
+    "options": [
+      "Parlante Foxbox Lyra 7",
+      "Parlante JBL Charge 5 Bt",
+      "Parlante JBL Pulse 5 Luz Bt",
+      "Hon Par Speaker Pro Bt"
+    ],
+    "answer": 0,
+    "explanation": "La imagen corresponde a Parlante Foxbox Lyra 7.",
+    "product": "Parlante Foxbox Lyra 7",
+    "imageRequired": true,
+    "imageUrl": "https://foxbox.com.ar/wp-content/uploads/2025/08/Lyra-7-Negro.jpg"
+  },
+  {
+    "id": 151,
+    "family": "Parlantes",
+    "difficulty": "Intermedio",
+    "type": "Características del producto",
+    "question": "¿Cuál es la especificación correcta de Parlante Foxbox Lyra 7 para “Potencia”?",
+    "options": [
+      "7W RMS",
+      "30W",
+      "180W Reales",
+      "4W"
+    ],
+    "answer": 0,
+    "explanation": "Parlante Foxbox Lyra 7: Potencia: 7W RMS.",
+    "product": "Parlante Foxbox Lyra 7",
+    "imageRequired": true,
+    "imageUrl": "https://foxbox.com.ar/wp-content/uploads/2025/08/Lyra-7-Negro.jpg"
+  },
+  {
+    "id": 152,
+    "family": "Parlantes",
+    "difficulty": "Experto",
+    "type": "Argumento de venta",
+    "question": "¿Cuál es un argumento válido para recomendar Parlante Foxbox Lyra 7?",
+    "options": [
+      "Sumergible IPX7: Usalo en la ducha, en la pileta o bajo la lluvia sin preocupaciones",
+      "Es una característica que no figura para este modelo",
+      "Solo se recomienda por su diseño exterior",
+      "No ofrece una ventaja concreta frente a otros productos"
+    ],
+    "answer": 0,
+    "explanation": "Sumergible IPX7: Usalo en la ducha, en la pileta o bajo la lluvia sin preocupaciones",
+    "product": "Parlante Foxbox Lyra 7",
+    "imageRequired": true,
+    "imageUrl": "https://foxbox.com.ar/wp-content/uploads/2025/08/Lyra-7-Negro.jpg"
+  },
+  {
+    "id": 153,
+    "family": "Parlantes",
+    "difficulty": "Intermedio",
+    "type": "Identificación visual",
+    "question": "¿Qué producto aparece en la imagen?",
+    "options": [
+      "Parlante Foxbox Nyxia 60",
+      "Parlante Stromberg Mega Force",
+      "Hon Par Speaker Pro Bt",
+      "Parlante Honor Speaker Mini Bt"
+    ],
+    "answer": 0,
+    "explanation": "La imagen corresponde a Parlante Foxbox Nyxia 60.",
+    "product": "Parlante Foxbox Nyxia 60",
+    "imageRequired": true,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbus7DVyDDb_qz-MKEukLG4YKbn3CMxmXJzg&s"
+  },
+  {
+    "id": 154,
+    "family": "Parlantes",
+    "difficulty": "Intermedio",
+    "type": "Características del producto",
+    "question": "¿Cuál es la especificación correcta de Parlante Foxbox Nyxia 60 para “Parlantes”?",
+    "options": [
+      "2 x 66 mm",
+      "2 x 57mm",
+      "No incluye esta función",
+      "Solo funciona conectado por cable"
+    ],
+    "answer": 0,
+    "explanation": "Parlante Foxbox Nyxia 60: Parlantes: 2 x 66 mm.",
+    "product": "Parlante Foxbox Nyxia 60",
+    "imageRequired": true,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbus7DVyDDb_qz-MKEukLG4YKbn3CMxmXJzg&s"
+  },
+  {
+    "id": 155,
+    "family": "Parlantes",
+    "difficulty": "Experto",
+    "type": "Argumento de venta",
+    "question": "¿Cuál es un argumento válido para recomendar Parlante Foxbox Nyxia 60?",
+    "options": [
+      "Potencia bruta: 60W reales (2x30W) para llenar cualquier espacio con sonido profundo",
+      "Es una característica que no figura para este modelo",
+      "Solo se recomienda por su diseño exterior",
+      "No ofrece una ventaja concreta frente a otros productos"
+    ],
+    "answer": 0,
+    "explanation": "Potencia bruta: 60W reales (2x30W) para llenar cualquier espacio con sonido profundo",
+    "product": "Parlante Foxbox Nyxia 60",
+    "imageRequired": true,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbus7DVyDDb_qz-MKEukLG4YKbn3CMxmXJzg&s"
+  },
+  {
+    "id": 156,
+    "family": "Parlantes",
+    "difficulty": "Intermedio",
+    "type": "Identificación visual",
+    "question": "¿Qué producto aparece en la imagen?",
+    "options": [
+      "Parlante Foxbox Nyxia 30",
+      "Parlante JBL Go 4 Bt",
+      "Parlante Stromberg Force Bt",
+      "Parlante Soul XK50 Bt"
+    ],
+    "answer": 0,
+    "explanation": "La imagen corresponde a Parlante Foxbox Nyxia 30.",
+    "product": "Parlante Foxbox Nyxia 30",
+    "imageRequired": true,
+    "imageUrl": "https://foxbox.com.ar/wp-content/uploads/2025/08/Nyxia-30-Neg.jpg"
+  },
+  {
+    "id": 157,
+    "family": "Parlantes",
+    "difficulty": "Intermedio",
+    "type": "Características del producto",
+    "question": "¿Cuál es la especificación correcta de Parlante Foxbox Nyxia 30 para “Potencia”?",
+    "options": [
+      "30W RMS",
+      "30W",
+      "180W Reales",
+      "4W"
+    ],
+    "answer": 0,
+    "explanation": "Parlante Foxbox Nyxia 30: Potencia: 30W RMS.",
+    "product": "Parlante Foxbox Nyxia 30",
+    "imageRequired": true,
+    "imageUrl": "https://foxbox.com.ar/wp-content/uploads/2025/08/Nyxia-30-Neg.jpg"
+  },
+  {
+    "id": 158,
+    "family": "Parlantes",
+    "difficulty": "Experto",
+    "type": "Argumento de venta",
+    "question": "¿Cuál es un argumento válido para recomendar Parlante Foxbox Nyxia 30?",
+    "options": [
+      "Potencia que se hace notar: 30W reales gracias a sus dos parlantes de 57mm",
+      "Es una característica que no figura para este modelo",
+      "Solo se recomienda por su diseño exterior",
+      "No ofrece una ventaja concreta frente a otros productos"
+    ],
+    "answer": 0,
+    "explanation": "Potencia que se hace notar: 30W reales gracias a sus dos parlantes de 57mm",
+    "product": "Parlante Foxbox Nyxia 30",
+    "imageRequired": true,
+    "imageUrl": "https://foxbox.com.ar/wp-content/uploads/2025/08/Nyxia-30-Neg.jpg"
+  },
+  {
+    "id": 159,
+    "family": "Parlantes",
+    "difficulty": "Experto",
+    "type": "Caso de cliente",
+    "question": "Un cliente presenta esta necesidad: “el usuario que busca algo más que música: quiere crear ambiente. Ideal para quienes disfrutan de reuniones al aire libre, fogones o cenas íntimas y buscan un parlante que combine buen sonido con una iluminación cálida y decor”. ¿Qué producto del catálogo se ajusta mejor?",
+    "options": [
+      "Parlante KlipX Zound Fire",
+      "Parlante Jbl Grip Bt",
+      "Parlante Jbl Boombox 3 Bt",
+      "Parlante Stromberg Chunk Bt"
+    ],
+    "answer": 0,
+    "explanation": "Parlante KlipX Zound Fire fue definido en el catálogo para ese perfil de uso.",
+    "product": "Parlante KlipX Zound Fire",
+    "imageRequired": false,
+    "imageUrl": ""
+  },
+  {
+    "id": 160,
+    "family": "Parlantes",
+    "difficulty": "Experto",
+    "type": "Caso de cliente",
+    "question": "Un cliente presenta esta necesidad: “el 'espíritu libre'. Ideal para usuarios jóvenes y activos que quieren llevar música a la bici, al parque o a la pileta. Valoran la portabilidad extrema, la última tecnología (BT 5.3, USB-C) y la resistencia total al agua”. ¿Qué producto del catálogo se ajusta mejor?",
+    "options": [
+      "Parlante KlipX Groove Splash",
+      "Parlante Stromberg Twin2 Bt",
+      "Parlante JBL Go Essential Bt",
+      "Parlante Flip 6 Bt"
+    ],
+    "answer": 0,
+    "explanation": "Parlante KlipX Groove Splash fue definido en el catálogo para ese perfil de uso.",
+    "product": "Parlante KlipX Groove Splash",
+    "imageRequired": false,
+    "imageUrl": ""
+  },
+  {
+    "id": 161,
+    "family": "Tablets",
+    "difficulty": "Intermedio",
+    "type": "Identificación visual",
+    "question": "¿Qué producto aparece en la imagen?",
+    "options": [
+      "Huawei MatePad SE 11'' WiFi 128GB con lápiz",
+      "Tablet Samsung A11",
+      "Galaxy Tab A9+ X210",
+      "Tab 10 Gen2 GS"
+    ],
+    "answer": 0,
+    "explanation": "La imagen corresponde a Huawei MatePad SE 11'' WiFi 128GB con lápiz.",
+    "product": "Huawei MatePad SE 11'' WiFi 128GB con lápiz",
+    "imageRequired": true,
+    "imageUrl": "https://tienda.claro.com.ar/staticContent/Claro/images/catalog/productos/200x310/7007881.webp"
+  },
+  {
+    "id": 162,
+    "family": "Tablets",
+    "difficulty": "Intermedio",
+    "type": "Características del producto",
+    "question": "¿Cuál es la especificación correcta de Huawei MatePad SE 11'' WiFi 128GB con lápiz para “Almacenamiento”?",
+    "options": [
+      "128 GB",
+      "64 GB (expandible hasta 1TB)",
+      "128 GB (expandible hasta 1TB)",
+      "64 GB (expandible 2TB)"
+    ],
+    "answer": 0,
+    "explanation": "Huawei MatePad SE 11'' WiFi 128GB con lápiz: Almacenamiento: 128 GB.",
+    "product": "Huawei MatePad SE 11'' WiFi 128GB con lápiz",
+    "imageRequired": true,
+    "imageUrl": "https://tienda.claro.com.ar/staticContent/Claro/images/catalog/productos/200x310/7007881.webp"
+  },
+  {
+    "id": 163,
+    "family": "Tablets",
+    "difficulty": "Experto",
+    "type": "Argumento de venta",
+    "question": "¿Cuál es un argumento válido para recomendar Huawei MatePad SE 11'' WiFi 128GB con lápiz?",
+    "options": [
+      "Lista para crear (Lápiz Incluido): Ya viene con el M-Pen lite en la caja. Lo mejor es que no necesita Bluetooth ni configuraciones raras; lo sacás y y",
+      "Es una característica que no figura para este modelo",
+      "Solo se recomienda por su diseño exterior",
+      "No ofrece una ventaja concreta frente a otros productos"
+    ],
+    "answer": 0,
+    "explanation": "Lista para crear (Lápiz Incluido): Ya viene con el M-Pen lite en la caja. Lo mejor es que no necesita Bluetooth ni configuraciones raras; lo sacás y y",
+    "product": "Huawei MatePad SE 11'' WiFi 128GB con lápiz",
+    "imageRequired": true,
+    "imageUrl": "https://tienda.claro.com.ar/staticContent/Claro/images/catalog/productos/200x310/7007881.webp"
+  },
+  {
+    "id": 164,
+    "family": "Tablets",
+    "difficulty": "Intermedio",
+    "type": "Identificación visual",
+    "question": "¿Qué producto aparece en la imagen?",
+    "options": [
+      "TCL NXTPAPER 14.3'' WiFi 256GB con lápiz",
+      "Huawei MatePad SE 11'' WiFi 128GB con lápiz",
+      "Honor PAD X9 PL",
+      "Tcl Tab 10 Gen2 GS + Flip + Teclado"
+    ],
+    "answer": 0,
+    "explanation": "La imagen corresponde a TCL NXTPAPER 14.3'' WiFi 256GB con lápiz.",
+    "product": "TCL NXTPAPER 14.3'' WiFi 256GB con lápiz",
+    "imageRequired": true,
+    "imageUrl": "https://tienda.claro.com.ar/staticContent/Claro/images/catalog/productos/200x310/7008010.webp"
+  },
+  {
+    "id": 165,
+    "family": "Tablets",
+    "difficulty": "Intermedio",
+    "type": "Características del producto",
+    "question": "¿Cuál es la especificación correcta de TCL NXTPAPER 14.3'' WiFi 256GB con lápiz para “Memoria RAM”?",
+    "options": [
+      "8 GB (+ 8 GB RAM Virtual)",
+      "4 GB",
+      "8 GB (+ 8 GB HONOR RAM Turbo)",
+      "4 GB + 4 GB (RAM Dinámica)"
+    ],
+    "answer": 0,
+    "explanation": "TCL NXTPAPER 14.3'' WiFi 256GB con lápiz: Memoria RAM: 8 GB (+ 8 GB RAM Virtual).",
+    "product": "TCL NXTPAPER 14.3'' WiFi 256GB con lápiz",
+    "imageRequired": true,
+    "imageUrl": "https://tienda.claro.com.ar/staticContent/Claro/images/catalog/productos/200x310/7008010.webp"
+  },
+  {
+    "id": 166,
+    "family": "Tablets",
+    "difficulty": "Experto",
+    "type": "Argumento de venta",
+    "question": "¿Cuál es un argumento válido para recomendar TCL NXTPAPER 14.3'' WiFi 256GB con lápiz?",
+    "options": [
+      "Inmersión Total de 14.3\": Con este tamaño de pantalla, leer partituras, planos o documentos extensos es mucho más cómodo. No necesitás hacer zoom cons",
+      "Es una característica que no figura para este modelo",
+      "Solo se recomienda por su diseño exterior",
+      "No ofrece una ventaja concreta frente a otros productos"
+    ],
+    "answer": 0,
+    "explanation": "Inmersión Total de 14.3\": Con este tamaño de pantalla, leer partituras, planos o documentos extensos es mucho más cómodo. No necesitás hacer zoom cons",
+    "product": "TCL NXTPAPER 14.3'' WiFi 256GB con lápiz",
+    "imageRequired": true,
+    "imageUrl": "https://tienda.claro.com.ar/staticContent/Claro/images/catalog/productos/200x310/7008010.webp"
+  },
+  {
+    "id": 167,
+    "family": "Tablets",
+    "difficulty": "Intermedio",
+    "type": "Identificación visual",
+    "question": "¿Qué producto aparece en la imagen?",
+    "options": [
+      "Tablet Honor PAD X9a + Flip GR i",
+      "TCL NXTPAPER 14 WiFi 256 GB con teclado",
+      "Galaxy Tab A9 X110",
+      "Huawei MatePad 11.5\"S + Teclado + Pencil"
+    ],
+    "answer": 0,
+    "explanation": "La imagen corresponde a Tablet Honor PAD X9a + Flip GR i.",
+    "product": "Tablet Honor PAD X9a + Flip GR i",
+    "imageRequired": true,
+    "imageUrl": "https://www-file.honor.com/content/dam/honor/common/product-list/tablets/product-series/honor-pad-x9a/honor-pad-x9a-gray.png"
+  },
+  {
+    "id": 168,
+    "family": "Tablets",
+    "difficulty": "Intermedio",
+    "type": "Características del producto",
+    "question": "¿Cuál es la especificación correcta de Tablet Honor PAD X9a + Flip GR i para “Memoria RAM”?",
+    "options": [
+      "8 GB (+ 8 GB HONOR RAM Turbo)",
+      "4 GB",
+      "4 GB + 4 GB (RAM Dinámica)",
+      "6 GB"
+    ],
+    "answer": 0,
+    "explanation": "Tablet Honor PAD X9a + Flip GR i: Memoria RAM: 8 GB (+ 8 GB HONOR RAM Turbo).",
+    "product": "Tablet Honor PAD X9a + Flip GR i",
+    "imageRequired": true,
+    "imageUrl": "https://www-file.honor.com/content/dam/honor/common/product-list/tablets/product-series/honor-pad-x9a/honor-pad-x9a-gray.png"
+  },
+  {
+    "id": 169,
+    "family": "Tablets",
+    "difficulty": "Experto",
+    "type": "Argumento de venta",
+    "question": "¿Cuál es un argumento válido para recomendar Tablet Honor PAD X9a + Flip GR i?",
+    "options": [
+      "Pantalla 2.5K de 120Hz: No es solo grande, es increíblemente nítida. Con una resolución de 2508x1504, cada detalle de tus videos y textos se ve con ca",
+      "Es una característica que no figura para este modelo",
+      "Solo se recomienda por su diseño exterior",
+      "No ofrece una ventaja concreta frente a otros productos"
+    ],
+    "answer": 0,
+    "explanation": "Pantalla 2.5K de 120Hz: No es solo grande, es increíblemente nítida. Con una resolución de 2508x1504, cada detalle de tus videos y textos se ve con ca",
+    "product": "Tablet Honor PAD X9a + Flip GR i",
+    "imageRequired": true,
+    "imageUrl": "https://www-file.honor.com/content/dam/honor/common/product-list/tablets/product-series/honor-pad-x9a/honor-pad-x9a-gray.png"
+  },
+  {
+    "id": 170,
+    "family": "Tablets",
+    "difficulty": "Intermedio",
+    "type": "Identificación visual",
+    "question": "¿Qué producto aparece en la imagen?",
+    "options": [
+      "Huawei MatePad 11.5\"S + Teclado + Pencil",
+      "Galaxy Tab A9+ X210",
+      "Tablet Samsung A11",
+      "Tablet Samsung S10 Lite"
+    ],
+    "answer": 0,
+    "explanation": "La imagen corresponde a Huawei MatePad 11.5\"S + Teclado + Pencil.",
+    "product": "Huawei MatePad 11.5\"S + Teclado + Pencil",
+    "imageRequired": true,
+    "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_898101-MLA99987175283_112025-F.webp"
+  },
+  {
+    "id": 171,
+    "family": "Tablets",
+    "difficulty": "Intermedio",
+    "type": "Características del producto",
+    "question": "¿Cuál es la especificación correcta de Huawei MatePad 11.5\"S + Teclado + Pencil para “Almacenamiento”?",
+    "options": [
+      "256 GB",
+      "64 GB (expandible hasta 1TB)",
+      "128 GB",
+      "128 GB (expandible hasta 1TB)"
+    ],
+    "answer": 0,
+    "explanation": "Huawei MatePad 11.5\"S + Teclado + Pencil: Almacenamiento: 256 GB.",
+    "product": "Huawei MatePad 11.5\"S + Teclado + Pencil",
+    "imageRequired": true,
+    "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_898101-MLA99987175283_112025-F.webp"
+  },
+  {
+    "id": 172,
+    "family": "Tablets",
+    "difficulty": "Experto",
+    "type": "Argumento de venta",
+    "question": "¿Cuál es un argumento válido para recomendar Huawei MatePad 11.5\"S + Teclado + Pencil?",
+    "options": [
+      "Pantalla PaperMatte (Efecto Papel): Explicale al cliente que no es una pantalla brillante común. Al ser mate, elimina el 99% de los reflejos de las lu",
+      "Es una característica que no figura para este modelo",
+      "Solo se recomienda por su diseño exterior",
+      "No ofrece una ventaja concreta frente a otros productos"
+    ],
+    "answer": 0,
+    "explanation": "Pantalla PaperMatte (Efecto Papel): Explicale al cliente que no es una pantalla brillante común. Al ser mate, elimina el 99% de los reflejos de las lu",
+    "product": "Huawei MatePad 11.5\"S + Teclado + Pencil",
+    "imageRequired": true,
+    "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_898101-MLA99987175283_112025-F.webp"
+  },
+  {
+    "id": 173,
+    "family": "Tablets",
+    "difficulty": "Intermedio",
+    "type": "Identificación visual",
+    "question": "¿Qué producto aparece en la imagen?",
+    "options": [
+      "TCL NXTPAPER 14 WiFi 256 GB con teclado",
+      "Galaxy Tab A9 X110",
+      "Honor PAD X8a + Flip",
+      "Huawei MatePad SE 11'' WiFi 128GB con lápiz"
+    ],
+    "answer": 0,
+    "explanation": "La imagen corresponde a TCL NXTPAPER 14 WiFi 256 GB con teclado.",
+    "product": "TCL NXTPAPER 14 WiFi 256 GB con teclado",
+    "imageRequired": true,
+    "imageUrl": "https://tienda.claro.com.ar/staticContent/Claro/images/catalog/productos/200x310/7008011.webp"
+  },
+  {
+    "id": 174,
+    "family": "Tablets",
+    "difficulty": "Intermedio",
+    "type": "Características del producto",
+    "question": "¿Cuál es la especificación correcta de TCL NXTPAPER 14 WiFi 256 GB con teclado para “Memoria RAM”?",
+    "options": [
+      "8 GB (+ 8 GB RAM Virtual)",
+      "4 GB",
+      "8 GB (+ 8 GB HONOR RAM Turbo)",
+      "4 GB + 4 GB (RAM Dinámica)"
+    ],
+    "answer": 0,
+    "explanation": "TCL NXTPAPER 14 WiFi 256 GB con teclado: Memoria RAM: 8 GB (+ 8 GB RAM Virtual).",
+    "product": "TCL NXTPAPER 14 WiFi 256 GB con teclado",
+    "imageRequired": true,
+    "imageUrl": "https://tienda.claro.com.ar/staticContent/Claro/images/catalog/productos/200x310/7008011.webp"
+  },
+  {
+    "id": 175,
+    "family": "Tablets",
+    "difficulty": "Experto",
+    "type": "Argumento de venta",
+    "question": "¿Cuál es un argumento válido para recomendar TCL NXTPAPER 14 WiFi 256 GB con teclado?",
+    "options": [
+      "Pantalla Gigante de 14.3\": Es una de las tablets más grandes del mercado. Su resolución 2.4K te permite trabajar con dos o tres apps abiertas al mismo",
+      "Es una característica que no figura para este modelo",
+      "Solo se recomienda por su diseño exterior",
+      "No ofrece una ventaja concreta frente a otros productos"
+    ],
+    "answer": 0,
+    "explanation": "Pantalla Gigante de 14.3\": Es una de las tablets más grandes del mercado. Su resolución 2.4K te permite trabajar con dos o tres apps abiertas al mismo",
+    "product": "TCL NXTPAPER 14 WiFi 256 GB con teclado",
+    "imageRequired": true,
+    "imageUrl": "https://tienda.claro.com.ar/staticContent/Claro/images/catalog/productos/200x310/7008011.webp"
+  },
+  {
+    "id": 176,
+    "family": "Tablets",
+    "difficulty": "Intermedio",
+    "type": "Identificación visual",
+    "question": "¿Qué producto aparece en la imagen?",
+    "options": [
+      "Honor PAD X9 PL",
+      "Galaxy Tab A9 X110",
+      "Huawei MatePad 11.5\"S + Teclado + Pencil",
+      "Galaxy Tab A9+ X210"
+    ],
+    "answer": 0,
+    "explanation": "La imagen corresponde a Honor PAD X9 PL.",
+    "product": "Honor PAD X9 PL",
+    "imageRequired": true,
+    "imageUrl": "https://tienda.claro.com.ar/staticContent/Claro/images/catalog/productos/200x310/7006275.webp"
+  },
+  {
+    "id": 177,
+    "family": "Tablets",
+    "difficulty": "Intermedio",
+    "type": "Características del producto",
+    "question": "¿Cuál es la especificación correcta de Honor PAD X9 PL para “Pantalla”?",
+    "options": [
+      "11.5 pulgadas 2K (2000x1200)",
+      "8.7\" TFT WXGA+",
+      "11.5 pulgadas 2.5K (2508x1504) 120Hz",
+      "11.0\" TFT WUXGA"
+    ],
+    "answer": 0,
+    "explanation": "Honor PAD X9 PL: Pantalla: 11.5 pulgadas 2K (2000x1200).",
+    "product": "Honor PAD X9 PL",
+    "imageRequired": true,
+    "imageUrl": "https://tienda.claro.com.ar/staticContent/Claro/images/catalog/productos/200x310/7006275.webp"
+  },
+  {
+    "id": 178,
+    "family": "Tablets",
+    "difficulty": "Experto",
+    "type": "Argumento de venta",
+    "question": "¿Cuál es un argumento válido para recomendar Honor PAD X9 PL?",
+    "options": [
+      "Su característica estrella es el sonido: ¡tiene 6 parlantes! Crean un audio envolvente que te mete de lleno en la película, una experiencia única en t",
+      "Es una característica que no figura para este modelo",
+      "Solo se recomienda por su diseño exterior",
+      "No ofrece una ventaja concreta frente a otros productos"
+    ],
+    "answer": 0,
+    "explanation": "Su característica estrella es el sonido: ¡tiene 6 parlantes! Crean un audio envolvente que te mete de lleno en la película, una experiencia única en t",
+    "product": "Honor PAD X9 PL",
+    "imageRequired": true,
+    "imageUrl": "https://tienda.claro.com.ar/staticContent/Claro/images/catalog/productos/200x310/7006275.webp"
+  },
+  {
+    "id": 179,
+    "family": "Tablets",
+    "difficulty": "Experto",
+    "type": "Caso de cliente",
+    "question": "Un cliente presenta esta necesidad: “Perfecta para familias y estudiantes que buscan una tablet confiable y resistente. Es ideal para quienes necesitan un equipo para tareas escolares, ver series con buen sonido y que los chicos jueguen en un entorno seguro y control”. ¿Qué producto del catálogo se ajusta mejor?",
+    "options": [
+      "Huawei MatePad SE 11'' WiFi 128GB con lápiz",
+      "Tablet Samsung S10 Lite",
+      "Galaxy Tab A9+ X210",
+      "Huawei MatePad 11.5\"S + Teclado + Pencil"
+    ],
+    "answer": 0,
+    "explanation": "Huawei MatePad SE 11'' WiFi 128GB con lápiz fue definido en el catálogo para ese perfil de uso.",
+    "product": "Huawei MatePad SE 11'' WiFi 128GB con lápiz",
+    "imageRequired": false,
+    "imageUrl": ""
+  },
+  {
+    "id": 180,
+    "family": "Tablets",
+    "difficulty": "Experto",
+    "type": "Caso de cliente",
+    "question": "Un cliente presenta esta necesidad: “lectores ávidos, estudiantes y creativos que buscan la superficie de trabajo más grande posible con la comodidad del papel. Es perfecta para quienes priorizan la toma de notas manuscritas, la lectura de PDFs y el diseño”. ¿Qué producto del catálogo se ajusta mejor?",
+    "options": [
+      "TCL NXTPAPER 14.3'' WiFi 256GB con lápiz",
+      "Galaxy Tab A9+ X210",
+      "Tab 10 Gen2 GS",
+      "Galaxy Tab A9 X110"
+    ],
+    "answer": 0,
+    "explanation": "TCL NXTPAPER 14.3'' WiFi 256GB con lápiz fue definido en el catálogo para ese perfil de uso.",
+    "product": "TCL NXTPAPER 14.3'' WiFi 256GB con lápiz",
+    "imageRequired": false,
+    "imageUrl": ""
+  },
+  {
+    "id": 181,
+    "family": "Relojes y bandas",
+    "difficulty": "Intermedio",
+    "type": "Identificación visual",
+    "question": "¿Qué producto aparece en la imagen?",
+    "options": [
+      "Huawei Watch GT 6 46mm",
+      "Garmin Watch Forerunner 55",
+      "Samsung Galaxy Watch 7 40mm",
+      "Smartwatch GPS Urban"
+    ],
+    "answer": 0,
+    "explanation": "La imagen corresponde a Huawei Watch GT 6 46mm.",
+    "product": "Huawei Watch GT 6 46mm",
+    "imageRequired": true,
+    "imageUrl": "https://consumer.huawei.com/dam/content/dam/huawei-cbg-site/common/mkt/pdp/wearables/watch-gt6/images/switch/huawei-watch-gt-6-41-mm-strap-5-2.png"
+  },
+  {
+    "id": 182,
+    "family": "Relojes y bandas",
+    "difficulty": "Intermedio",
+    "type": "Características del producto",
+    "question": "¿Cuál es la especificación correcta de Huawei Watch GT 6 46mm para “Mensajería”?",
+    "options": [
+      "Notificación y respuestas rápidas",
+      "Respuestas rápidas",
+      "Solo lectura",
+      "Lectura de notificaciones y mensajes"
+    ],
+    "answer": 0,
+    "explanation": "Huawei Watch GT 6 46mm: Mensajería: Notificación y respuestas rápidas.",
+    "product": "Huawei Watch GT 6 46mm",
+    "imageRequired": true,
+    "imageUrl": "https://consumer.huawei.com/dam/content/dam/huawei-cbg-site/common/mkt/pdp/wearables/watch-gt6/images/switch/huawei-watch-gt-6-41-mm-strap-5-2.png"
+  },
+  {
+    "id": 183,
+    "family": "Relojes y bandas",
+    "difficulty": "Experto",
+    "type": "Argumento de venta",
+    "question": "¿Cuál es un argumento válido para recomendar Huawei Watch GT 6 46mm?",
+    "options": [
+      "Olvidate de cargarlo: Batería increíble de hasta 21 días con una sola carga",
+      "Es una característica que no figura para este modelo",
+      "Solo se recomienda por su diseño exterior",
+      "No ofrece una ventaja concreta frente a otros productos"
+    ],
+    "answer": 0,
+    "explanation": "Olvidate de cargarlo: Batería increíble de hasta 21 días con una sola carga",
+    "product": "Huawei Watch GT 6 46mm",
+    "imageRequired": true,
+    "imageUrl": "https://consumer.huawei.com/dam/content/dam/huawei-cbg-site/common/mkt/pdp/wearables/watch-gt6/images/switch/huawei-watch-gt-6-41-mm-strap-5-2.png"
+  },
+  {
+    "id": 184,
+    "family": "Relojes y bandas",
+    "difficulty": "Intermedio",
+    "type": "Identificación visual",
+    "question": "¿Qué producto aparece en la imagen?",
+    "options": [
+      "Huawei Watch GT 6 41mm",
+      "Xiaomi Redmi Watch 5 Active",
+      "Huawei Watch GT5 Pro 46mm",
+      "Garmin Watch Forerunner 55"
+    ],
+    "answer": 0,
+    "explanation": "La imagen corresponde a Huawei Watch GT 6 41mm.",
+    "product": "Huawei Watch GT 6 41mm",
+    "imageRequired": true,
+    "imageUrl": "https://img01.huaweifile.com/sg/ms/cl/pms/uomcdn/CL_HW_B2C/pms/202509/gbom/6942103169632/428_428_14D038BC630F8F6A0A38AF3C1369472Cmp.png"
+  },
+  {
+    "id": 185,
+    "family": "Relojes y bandas",
+    "difficulty": "Intermedio",
+    "type": "Características del producto",
+    "question": "¿Cuál es la especificación correcta de Huawei Watch GT 6 41mm para “Mensajería”?",
+    "options": [
+      "Notificación y respuestas rápidas",
+      "Respuestas rápidas",
+      "Solo lectura",
+      "Lectura de notificaciones y mensajes"
+    ],
+    "answer": 0,
+    "explanation": "Huawei Watch GT 6 41mm: Mensajería: Notificación y respuestas rápidas.",
+    "product": "Huawei Watch GT 6 41mm",
+    "imageRequired": true,
+    "imageUrl": "https://img01.huaweifile.com/sg/ms/cl/pms/uomcdn/CL_HW_B2C/pms/202509/gbom/6942103169632/428_428_14D038BC630F8F6A0A38AF3C1369472Cmp.png"
+  },
+  {
+    "id": 186,
+    "family": "Relojes y bandas",
+    "difficulty": "Experto",
+    "type": "Argumento de venta",
+    "question": "¿Cuál es un argumento válido para recomendar Huawei Watch GT 6 41mm?",
+    "options": [
+      "Estilo y potencia: Diseño elegante de 41mm con una batería que dura hasta 14 días",
+      "Es una característica que no figura para este modelo",
+      "Solo se recomienda por su diseño exterior",
+      "No ofrece una ventaja concreta frente a otros productos"
+    ],
+    "answer": 0,
+    "explanation": "Estilo y potencia: Diseño elegante de 41mm con una batería que dura hasta 14 días",
+    "product": "Huawei Watch GT 6 41mm",
+    "imageRequired": true,
+    "imageUrl": "https://img01.huaweifile.com/sg/ms/cl/pms/uomcdn/CL_HW_B2C/pms/202509/gbom/6942103169632/428_428_14D038BC630F8F6A0A38AF3C1369472Cmp.png"
+  },
+  {
+    "id": 187,
+    "family": "Relojes y bandas",
+    "difficulty": "Intermedio",
+    "type": "Identificación visual",
+    "question": "¿Qué producto aparece en la imagen?",
+    "options": [
+      "Huawei Watch GT 6 Pro 46mm",
+      "Xiaomi Redmi Watch 5 Lite",
+      "Smartwatch Dekkin Titanium",
+      "Samsung Galaxy Watch 7 44mm"
+    ],
+    "answer": 0,
+    "explanation": "La imagen corresponde a Huawei Watch GT 6 Pro 46mm.",
+    "product": "Huawei Watch GT 6 Pro 46mm",
+    "imageRequired": true,
+    "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_899523-MLA95843342675_102025-O.webp"
+  },
+  {
+    "id": 188,
+    "family": "Relojes y bandas",
+    "difficulty": "Intermedio",
+    "type": "Características del producto",
+    "question": "¿Cuál es la especificación correcta de Huawei Watch GT 6 Pro 46mm para “Autonomía”?",
+    "options": [
+      "Hasta 21 días (12 uso típico)",
+      "Hasta 13 días",
+      "Hasta 14 días (carga ultra rápida)",
+      "Hasta 18 días"
+    ],
+    "answer": 0,
+    "explanation": "Huawei Watch GT 6 Pro 46mm: Autonomía: Hasta 21 días (12 uso típico).",
+    "product": "Huawei Watch GT 6 Pro 46mm",
+    "imageRequired": true,
+    "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_899523-MLA95843342675_102025-O.webp"
+  },
+  {
+    "id": 189,
+    "family": "Relojes y bandas",
+    "difficulty": "Experto",
+    "type": "Argumento de venta",
+    "question": "¿Cuál es un argumento válido para recomendar Huawei Watch GT 6 Pro 46mm?",
+    "options": [
+      "Indestructible y elegante: Cuerpo de aleación de titanio de grado aeroespacial y pantalla de cristal de zafiro",
+      "Es una característica que no figura para este modelo",
+      "Solo se recomienda por su diseño exterior",
+      "No ofrece una ventaja concreta frente a otros productos"
+    ],
+    "answer": 0,
+    "explanation": "Indestructible y elegante: Cuerpo de aleación de titanio de grado aeroespacial y pantalla de cristal de zafiro",
+    "product": "Huawei Watch GT 6 Pro 46mm",
+    "imageRequired": true,
+    "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_899523-MLA95843342675_102025-O.webp"
+  },
+  {
+    "id": 190,
+    "family": "Relojes y bandas",
+    "difficulty": "Intermedio",
+    "type": "Identificación visual",
+    "question": "¿Qué producto aparece en la imagen?",
+    "options": [
+      "Samsung Galaxy Watch 8 44 mm",
+      "Xiaomi Redmi Watch 5 Active",
+      "Samsung Galaxy Watch Classic 8 46 mm",
+      "Samsung Galaxy Watch 7 40mm"
+    ],
+    "answer": 0,
+    "explanation": "La imagen corresponde a Samsung Galaxy Watch 8 44 mm.",
+    "product": "Samsung Galaxy Watch 8 44 mm",
+    "imageRequired": true,
+    "imageUrl": "https://samsungar.vtexassets.com/arquivos/ids/210339-1200-auto?width=1200&height=auto&aspect=true"
+  },
+  {
+    "id": 191,
+    "family": "Relojes y bandas",
+    "difficulty": "Intermedio",
+    "type": "Características del producto",
+    "question": "¿Cuál es la especificación correcta de Samsung Galaxy Watch 8 44 mm para “Autonomía”?",
+    "options": [
+      "Hasta 40 horas",
+      "Hasta 13 días",
+      "Hasta 14 días (carga ultra rápida)",
+      "Hasta 18 días"
+    ],
+    "answer": 0,
+    "explanation": "Samsung Galaxy Watch 8 44 mm: Autonomía: Hasta 40 horas.",
+    "product": "Samsung Galaxy Watch 8 44 mm",
+    "imageRequired": true,
+    "imageUrl": "https://samsungar.vtexassets.com/arquivos/ids/210339-1200-auto?width=1200&height=auto&aspect=true"
+  },
+  {
+    "id": 192,
+    "family": "Relojes y bandas",
+    "difficulty": "Experto",
+    "type": "Argumento de venta",
+    "question": "¿Cuál es un argumento válido para recomendar Samsung Galaxy Watch 8 44 mm?",
+    "options": [
+      "Tu entrenador personal con IA: Recibí un \"Puntaje de Energía\" diario para saber cuánto exigirle a tu cuerpo y seguí planes de running personalizados",
+      "Es una característica que no figura para este modelo",
+      "Solo se recomienda por su diseño exterior",
+      "No ofrece una ventaja concreta frente a otros productos"
+    ],
+    "answer": 0,
+    "explanation": "Tu entrenador personal con IA: Recibí un \"Puntaje de Energía\" diario para saber cuánto exigirle a tu cuerpo y seguí planes de running personalizados",
+    "product": "Samsung Galaxy Watch 8 44 mm",
+    "imageRequired": true,
+    "imageUrl": "https://samsungar.vtexassets.com/arquivos/ids/210339-1200-auto?width=1200&height=auto&aspect=true"
+  },
+  {
+    "id": 193,
+    "family": "Relojes y bandas",
+    "difficulty": "Intermedio",
+    "type": "Identificación visual",
+    "question": "¿Qué producto aparece en la imagen?",
+    "options": [
+      "Samsung Galaxy Watch Classic 8 46 mm",
+      "Huawei SmartBand 11 Metal",
+      "Samsung Galaxy Watch 7 44mm",
+      "Smartband Huawei Band 10"
+    ],
+    "answer": 0,
+    "explanation": "La imagen corresponde a Samsung Galaxy Watch Classic 8 46 mm.",
+    "product": "Samsung Galaxy Watch Classic 8 46 mm",
+    "imageRequired": true,
+    "imageUrl": "https://images.samsung.com/is/image/samsung/p6pim/ar/f2507/gallery/ar-galaxy-watch8-classic-l500-sm-l500nzkaaro-547648468?$684_547_PNG$"
+  },
+  {
+    "id": 194,
+    "family": "Relojes y bandas",
+    "difficulty": "Intermedio",
+    "type": "Características del producto",
+    "question": "¿Cuál es la especificación correcta de Samsung Galaxy Watch Classic 8 46 mm para “Mensajería”?",
+    "options": [
+      "Respuesta completa",
+      "Respuestas rápidas",
+      "Solo lectura",
+      "Lectura de notificaciones y mensajes"
+    ],
+    "answer": 0,
+    "explanation": "Samsung Galaxy Watch Classic 8 46 mm: Mensajería: Respuesta completa.",
+    "product": "Samsung Galaxy Watch Classic 8 46 mm",
+    "imageRequired": true,
+    "imageUrl": "https://images.samsung.com/is/image/samsung/p6pim/ar/f2507/gallery/ar-galaxy-watch8-classic-l500-sm-l500nzkaaro-547648468?$684_547_PNG$"
+  },
+  {
+    "id": 195,
+    "family": "Relojes y bandas",
+    "difficulty": "Experto",
+    "type": "Argumento de venta",
+    "question": "¿Cuál es un argumento válido para recomendar Samsung Galaxy Watch Classic 8 46 mm?",
+    "options": [
+      "Diseño clásico, control intuitivo: El icónico bisel giratorio te permite navegar por las apps de una forma elegante y precisa",
+      "Es una característica que no figura para este modelo",
+      "Solo se recomienda por su diseño exterior",
+      "No ofrece una ventaja concreta frente a otros productos"
+    ],
+    "answer": 0,
+    "explanation": "Diseño clásico, control intuitivo: El icónico bisel giratorio te permite navegar por las apps de una forma elegante y precisa",
+    "product": "Samsung Galaxy Watch Classic 8 46 mm",
+    "imageRequired": true,
+    "imageUrl": "https://images.samsung.com/is/image/samsung/p6pim/ar/f2507/gallery/ar-galaxy-watch8-classic-l500-sm-l500nzkaaro-547648468?$684_547_PNG$"
+  },
+  {
+    "id": 196,
+    "family": "Relojes y bandas",
+    "difficulty": "Intermedio",
+    "type": "Identificación visual",
+    "question": "¿Qué producto aparece en la imagen?",
+    "options": [
+      "Huawei SmartBand 10 Metal",
+      "Motorola Watch Fit",
+      "Smartwatch Trendy",
+      "Samsung Galaxy Watch 8 44 mm"
+    ],
+    "answer": 0,
+    "explanation": "La imagen corresponde a Huawei SmartBand 10 Metal.",
+    "product": "Huawei SmartBand 10 Metal",
+    "imageRequired": true,
+    "imageUrl": "https://tienda.claro.com.ar/staticContent/Claro/images/catalog/productos/200x310/7006880.webp"
+  },
+  {
+    "id": 197,
+    "family": "Relojes y bandas",
+    "difficulty": "Intermedio",
+    "type": "Características del producto",
+    "question": "¿Cuál es la especificación correcta de Huawei SmartBand 10 Metal para “Mensajería”?",
+    "options": [
+      "Notificación y vista previa",
+      "Respuestas rápidas",
+      "Solo lectura",
+      "Lectura de notificaciones y mensajes"
+    ],
+    "answer": 0,
+    "explanation": "Huawei SmartBand 10 Metal: Mensajería: Notificación y vista previa.",
+    "product": "Huawei SmartBand 10 Metal",
+    "imageRequired": true,
+    "imageUrl": "https://tienda.claro.com.ar/staticContent/Claro/images/catalog/productos/200x310/7006880.webp"
+  },
+  {
+    "id": 198,
+    "family": "Relojes y bandas",
+    "difficulty": "Experto",
+    "type": "Argumento de venta",
+    "question": "¿Cuál es un argumento válido para recomendar Huawei SmartBand 10 Metal?",
+    "options": [
+      "Lucí un estilo premium: Su carcasa de aleación de aluminio le da un toque elegante, moderno y duradero",
+      "Es una característica que no figura para este modelo",
+      "Solo se recomienda por su diseño exterior",
+      "No ofrece una ventaja concreta frente a otros productos"
+    ],
+    "answer": 0,
+    "explanation": "Lucí un estilo premium: Su carcasa de aleación de aluminio le da un toque elegante, moderno y duradero",
+    "product": "Huawei SmartBand 10 Metal",
+    "imageRequired": true,
+    "imageUrl": "https://tienda.claro.com.ar/staticContent/Claro/images/catalog/productos/200x310/7006880.webp"
+  },
+  {
+    "id": 199,
+    "family": "Relojes y bandas",
+    "difficulty": "Experto",
+    "type": "Caso de cliente",
+    "question": "Un cliente presenta esta necesidad: “el usuario que busca un smartwatch robusto con un diseño octogonal distintivo y una autonomía líder en la industria. Ideal para quienes priorizan una pantalla grande y olvidarse del cargador por semanas”. ¿Qué producto del catálogo se ajusta mejor?",
+    "options": [
+      "Huawei Watch GT 6 46mm",
+      "Huawei Watch GT 6 41mm",
+      "Huawei SmartWatch Fit4 Pro",
+      "Foxbox Smartwatch Neon 4.0"
+    ],
+    "answer": 0,
+    "explanation": "Huawei Watch GT 6 46mm fue definido en el catálogo para ese perfil de uso.",
+    "product": "Huawei Watch GT 6 46mm",
+    "imageRequired": false,
+    "imageUrl": ""
+  },
+  {
+    "id": 200,
+    "family": "Relojes y bandas",
+    "difficulty": "Experto",
+    "type": "Caso de cliente",
+    "question": "Un cliente presenta esta necesidad: “el usuario que busca la combinación perfecta entre moda y tecnología avanzada. Ideal para quienes prefieren un reloj compacto y elegante sin sacrificar funciones deportivas profesionales”. ¿Qué producto del catálogo se ajusta mejor?",
+    "options": [
+      "Huawei Watch GT 6 41mm",
+      "Foxbox Smartwatch Neon 4.0",
+      "Huawei Watch GT 6 Pro 46mm",
+      "Huawei SmartWatch Fit4 Pro"
+    ],
+    "answer": 0,
+    "explanation": "Huawei Watch GT 6 41mm fue definido en el catálogo para ese perfil de uso.",
+    "product": "Huawei Watch GT 6 41mm",
+    "imageRequired": false,
+    "imageUrl": ""
+  },
+  {
+    "id": 201,
+    "family": "Powerbanks",
+    "difficulty": "Intermedio",
+    "type": "Identificación visual",
+    "question": "¿Qué producto aparece en la imagen?",
+    "options": [
+      "Cargador Pared +Powerbank Foxbox 20W 6500",
+      "Hune Powerbank 10000mAh",
+      "Powerbank Belkin 10K 20W",
+      "Fox Powerbank V2 20000"
+    ],
+    "answer": 0,
+    "explanation": "La imagen corresponde a Cargador Pared +Powerbank Foxbox 20W 6500.",
+    "product": "Cargador Pared +Powerbank Foxbox 20W 6500",
+    "imageRequired": true,
+    "imageUrl": "https://foxbox.com.ar/wp-content/uploads/2023/09/Energy-charge-6500-Blanco.png"
+  },
+  {
+    "id": 202,
+    "family": "Powerbanks",
+    "difficulty": "Intermedio",
+    "type": "Características del producto",
+    "question": "¿Cuál es la especificación correcta de Cargador Pared +Powerbank Foxbox 20W 6500 para “Capacidad”?",
+    "options": [
+      "6.500 mAh",
+      "20.000 mAh",
+      "5.000 mAh",
+      "10.000 mAh"
+    ],
+    "answer": 0,
+    "explanation": "Cargador Pared +Powerbank Foxbox 20W 6500: Capacidad: 6.500 mAh.",
+    "product": "Cargador Pared +Powerbank Foxbox 20W 6500",
+    "imageRequired": true,
+    "imageUrl": "https://foxbox.com.ar/wp-content/uploads/2023/09/Energy-charge-6500-Blanco.png"
+  },
+  {
+    "id": 203,
+    "family": "Powerbanks",
+    "difficulty": "Experto",
+    "type": "Argumento de venta",
+    "question": "¿Cuál es un argumento válido para recomendar Cargador Pared +Powerbank Foxbox 20W 6500?",
+    "options": [
+      "El cargador definitivo: Es compatible con todos los estándares de carga rápida. Cargá tu iPhone a toda velocidad por USB-C, tu Android por USB-A, o cu",
+      "Es una característica que no figura para este modelo",
+      "Solo se recomienda por su diseño exterior",
+      "No ofrece una ventaja concreta frente a otros productos"
+    ],
+    "answer": 0,
+    "explanation": "El cargador definitivo: Es compatible con todos los estándares de carga rápida. Cargá tu iPhone a toda velocidad por USB-C, tu Android por USB-A, o cu",
+    "product": "Cargador Pared +Powerbank Foxbox 20W 6500",
+    "imageRequired": true,
+    "imageUrl": "https://foxbox.com.ar/wp-content/uploads/2023/09/Energy-charge-6500-Blanco.png"
+  },
+  {
+    "id": 204,
+    "family": "Powerbanks",
+    "difficulty": "Intermedio",
+    "type": "Identificación visual",
+    "question": "¿Qué producto aparece en la imagen?",
+    "options": [
+      "Hune Powerbank 10000mAh",
+      "Powerbank Belkin 10K 20W",
+      "PureGear PowerBank 4500mAh",
+      "Cargador Pared +Powerbank Foxbox 20W 6500"
+    ],
+    "answer": 0,
+    "explanation": "La imagen corresponde a Hune Powerbank 10000mAh.",
+    "product": "Hune Powerbank 10000mAh",
+    "imageRequired": true,
+    "imageUrl": "https://www.hune.eco/cdn/shop/files/AT-POB-PB-056_01.png?v=1742337057&width=600"
+  },
+  {
+    "id": 205,
+    "family": "Powerbanks",
+    "difficulty": "Intermedio",
+    "type": "Características del producto",
+    "question": "¿Cuál es la especificación correcta de Hune Powerbank 10000mAh para “Indicador”?",
+    "options": [
+      "Pantalla LED de porcentaje",
+      "No incluye esta función",
+      "Solo funciona conectado por cable",
+      "No cuenta con especificación informada"
+    ],
+    "answer": 0,
+    "explanation": "Hune Powerbank 10000mAh: Indicador: Pantalla LED de porcentaje.",
+    "product": "Hune Powerbank 10000mAh",
+    "imageRequired": true,
+    "imageUrl": "https://www.hune.eco/cdn/shop/files/AT-POB-PB-056_01.png?v=1742337057&width=600"
+  },
+  {
+    "id": 206,
+    "family": "Powerbanks",
+    "difficulty": "Experto",
+    "type": "Argumento de venta",
+    "question": "¿Cuál es un argumento válido para recomendar Hune Powerbank 10000mAh?",
+    "options": [
+      "Carga Ultra Rápida (22W): No solo tiene mucha capacidad, sino que carga tu celular a máxima velocidad gracias a su puerto USB-C con tecnología Power D",
+      "Es una característica que no figura para este modelo",
+      "Solo se recomienda por su diseño exterior",
+      "No ofrece una ventaja concreta frente a otros productos"
+    ],
+    "answer": 0,
+    "explanation": "Carga Ultra Rápida (22W): No solo tiene mucha capacidad, sino que carga tu celular a máxima velocidad gracias a su puerto USB-C con tecnología Power D",
+    "product": "Hune Powerbank 10000mAh",
+    "imageRequired": true,
+    "imageUrl": "https://www.hune.eco/cdn/shop/files/AT-POB-PB-056_01.png?v=1742337057&width=600"
+  },
+  {
+    "id": 207,
+    "family": "Powerbanks",
+    "difficulty": "Intermedio",
+    "type": "Identificación visual",
+    "question": "¿Qué producto aparece en la imagen?",
+    "options": [
+      "Powerbank Belkin 10K 20W",
+      "Soul Powerbank CLAS100 5000mAh",
+      "Fox Powerbank V2 20000",
+      "Soul Powerbank CLAS200 5000mAh"
+    ],
+    "answer": 0,
+    "explanation": "La imagen corresponde a Powerbank Belkin 10K 20W.",
+    "product": "Powerbank Belkin 10K 20W",
+    "imageRequired": true,
+    "imageUrl": "https://tienda.claro.com.ar/staticContent/Claro/images/catalog/productos/200x310/7007535.webp"
+  },
+  {
+    "id": 208,
+    "family": "Powerbanks",
+    "difficulty": "Intermedio",
+    "type": "Características del producto",
+    "question": "¿Cuál es la especificación correcta de Powerbank Belkin 10K 20W para “Puertos”?",
+    "options": [
+      "1x USB-C (Entrada/Salida) + 2x USB-A (Salida)",
+      "2x USB-A (salida), Micro-USB/USB-C (entrada)",
+      "1x USB-A (salida), Micro-USB (entrada)",
+      "1x USB-A (salida), 1x USB-C (entrada/salida)"
+    ],
+    "answer": 0,
+    "explanation": "Powerbank Belkin 10K 20W: Puertos: 1x USB-C (Entrada/Salida) + 2x USB-A (Salida).",
+    "product": "Powerbank Belkin 10K 20W",
+    "imageRequired": true,
+    "imageUrl": "https://tienda.claro.com.ar/staticContent/Claro/images/catalog/productos/200x310/7007535.webp"
+  },
+  {
+    "id": 209,
+    "family": "Powerbanks",
+    "difficulty": "Experto",
+    "type": "Argumento de venta",
+    "question": "¿Cuál es un argumento válido para recomendar Powerbank Belkin 10K 20W?",
+    "options": [
+      "Velocidad Real (20W): Gracias a la tecnología Power Delivery (PD), cargá tu celular mucho más rápido (aprox. 50% en 30 min) que con un cargador genéri",
+      "Es una característica que no figura para este modelo",
+      "Solo se recomienda por su diseño exterior",
+      "No ofrece una ventaja concreta frente a otros productos"
+    ],
+    "answer": 0,
+    "explanation": "Velocidad Real (20W): Gracias a la tecnología Power Delivery (PD), cargá tu celular mucho más rápido (aprox. 50% en 30 min) que con un cargador genéri",
+    "product": "Powerbank Belkin 10K 20W",
+    "imageRequired": true,
+    "imageUrl": "https://tienda.claro.com.ar/staticContent/Claro/images/catalog/productos/200x310/7007535.webp"
+  },
+  {
+    "id": 210,
+    "family": "Powerbanks",
+    "difficulty": "Intermedio",
+    "type": "Identificación visual",
+    "question": "¿Qué producto aparece en la imagen?",
+    "options": [
+      "Soul Powerbank CLAS100 5000mAh",
+      "Fox Powerbank V2 20000",
+      "Soul Powerbank CLAS200 5000mAh",
+      "PureGear PowerBank 5000mAh"
+    ],
+    "answer": 0,
+    "explanation": "La imagen corresponde a Soul Powerbank CLAS100 5000mAh.",
+    "product": "Soul Powerbank CLAS100 5000mAh",
+    "imageRequired": true,
+    "imageUrl": "https://www.megga.com.ar/img_fotos_productos/04211640_01.jpg"
+  },
+  {
+    "id": 211,
+    "family": "Powerbanks",
+    "difficulty": "Intermedio",
+    "type": "Características del producto",
+    "question": "¿Cuál es la especificación correcta de Soul Powerbank CLAS100 5000mAh para “Capacidad”?",
+    "options": [
+      "5.000 mAh",
+      "20.000 mAh",
+      "10.000 mAh",
+      "4.500 mAh"
+    ],
+    "answer": 0,
+    "explanation": "Soul Powerbank CLAS100 5000mAh: Capacidad: 5.000 mAh.",
+    "product": "Soul Powerbank CLAS100 5000mAh",
+    "imageRequired": true,
+    "imageUrl": "https://www.megga.com.ar/img_fotos_productos/04211640_01.jpg"
+  },
+  {
+    "id": 212,
+    "family": "Powerbanks",
+    "difficulty": "Experto",
+    "type": "Argumento de venta",
+    "question": "¿Cuál es un argumento válido para recomendar Soul Powerbank CLAS100 5000mAh?",
+    "options": [
+      "Carga tu celular a toda velocidad: Sus 20W de potencia te permiten cargar un iPhone o un Android compatible de 0 a 50% en aproximadamente 30 minutos",
+      "Es una característica que no figura para este modelo",
+      "Solo se recomienda por su diseño exterior",
+      "No ofrece una ventaja concreta frente a otros productos"
+    ],
+    "answer": 0,
+    "explanation": "Carga tu celular a toda velocidad: Sus 20W de potencia te permiten cargar un iPhone o un Android compatible de 0 a 50% en aproximadamente 30 minutos",
+    "product": "Soul Powerbank CLAS100 5000mAh",
+    "imageRequired": true,
+    "imageUrl": "https://www.megga.com.ar/img_fotos_productos/04211640_01.jpg"
+  },
+  {
+    "id": 213,
+    "family": "Powerbanks",
+    "difficulty": "Intermedio",
+    "type": "Identificación visual",
+    "question": "¿Qué producto aparece en la imagen?",
+    "options": [
+      "Honor Powerbank 10000mAh",
+      "Powerbank Belkin 10K 20W",
+      "Hune Powerbank 10000mAh",
+      "Soul Powerbank CLAS200 5000mAh"
+    ],
+    "answer": 0,
+    "explanation": "La imagen corresponde a Honor Powerbank 10000mAh.",
+    "product": "Honor Powerbank 10000mAh",
+    "imageRequired": true,
+    "imageUrl": "https://tienda.claro.com.ar/staticContent/Claro/images/catalog/productos/200x310/7006871.webp"
+  },
+  {
+    "id": 214,
+    "family": "Powerbanks",
+    "difficulty": "Intermedio",
+    "type": "Características del producto",
+    "question": "¿Cuál es la especificación correcta de Honor Powerbank 10000mAh para “Capacidad”?",
+    "options": [
+      "10.000 mAh",
+      "20.000 mAh",
+      "5.000 mAh",
+      "4.500 mAh"
+    ],
+    "answer": 0,
+    "explanation": "Honor Powerbank 10000mAh: Capacidad: 10.000 mAh.",
+    "product": "Honor Powerbank 10000mAh",
+    "imageRequired": true,
+    "imageUrl": "https://tienda.claro.com.ar/staticContent/Claro/images/catalog/productos/200x310/7006871.webp"
+  },
+  {
+    "id": 215,
+    "family": "Powerbanks",
+    "difficulty": "Experto",
+    "type": "Argumento de venta",
+    "question": "¿Cuál es un argumento válido para recomendar Honor Powerbank 10000mAh?",
+    "options": [
+      "Cargá tu celular a toda velocidad con su carga rápida de 22.5W.Capacidad ideal para 2 o 3 cargas completas de tu smartphone.Diseño delgado y elegante",
+      "Es una característica que no figura para este modelo",
+      "Solo se recomienda por su diseño exterior",
+      "No ofrece una ventaja concreta frente a otros productos"
+    ],
+    "answer": 0,
+    "explanation": "Cargá tu celular a toda velocidad con su carga rápida de 22.5W.Capacidad ideal para 2 o 3 cargas completas de tu smartphone.Diseño delgado y elegante",
+    "product": "Honor Powerbank 10000mAh",
+    "imageRequired": true,
+    "imageUrl": "https://tienda.claro.com.ar/staticContent/Claro/images/catalog/productos/200x310/7006871.webp"
+  },
+  {
+    "id": 216,
+    "family": "Powerbanks",
+    "difficulty": "Intermedio",
+    "type": "Identificación visual",
+    "question": "¿Qué producto aparece en la imagen?",
+    "options": [
+      "Fox Powerbank V2 20000",
+      "Hune Powerbank 10000mAh",
+      "Soul Powerbank CLAS100 5000mAh",
+      "PureGear PowerBank 5000mAh"
+    ],
+    "answer": 0,
+    "explanation": "La imagen corresponde a Fox Powerbank V2 20000.",
+    "product": "Fox Powerbank V2 20000",
+    "imageRequired": true,
+    "imageUrl": "https://tienda.claro.com.ar/staticContent/Claro/images/catalog/productos/646x1000/7005593_2.webp"
+  },
+  {
+    "id": 217,
+    "family": "Powerbanks",
+    "difficulty": "Intermedio",
+    "type": "Características del producto",
+    "question": "¿Cuál es la especificación correcta de Fox Powerbank V2 20000 para “Capacidad”?",
+    "options": [
+      "20.000 mAh",
+      "5.000 mAh",
+      "10.000 mAh",
+      "4.500 mAh"
+    ],
+    "answer": 0,
+    "explanation": "Fox Powerbank V2 20000: Capacidad: 20.000 mAh.",
+    "product": "Fox Powerbank V2 20000",
+    "imageRequired": true,
+    "imageUrl": "https://tienda.claro.com.ar/staticContent/Claro/images/catalog/productos/646x1000/7005593_2.webp"
+  },
+  {
+    "id": 218,
+    "family": "Powerbanks",
+    "difficulty": "Experto",
+    "type": "Argumento de venta",
+    "question": "¿Cuál es un argumento válido para recomendar Fox Powerbank V2 20000?",
+    "options": [
+      "Energía para toda la semana: Su enorme capacidad de 20.000 mAh te permite cargar tu celular hasta 4 veces",
+      "Es una característica que no figura para este modelo",
+      "Solo se recomienda por su diseño exterior",
+      "No ofrece una ventaja concreta frente a otros productos"
+    ],
+    "answer": 0,
+    "explanation": "Energía para toda la semana: Su enorme capacidad de 20.000 mAh te permite cargar tu celular hasta 4 veces",
+    "product": "Fox Powerbank V2 20000",
+    "imageRequired": true,
+    "imageUrl": "https://tienda.claro.com.ar/staticContent/Claro/images/catalog/productos/646x1000/7005593_2.webp"
+  },
+  {
+    "id": 219,
+    "family": "Powerbanks",
+    "difficulty": "Experto",
+    "type": "Caso de cliente",
+    "question": "Un cliente presenta esta necesidad: “el usuario de tecnología que tiene dispositivos modernos y busca una única solución de carga rápida para todos ellos. Ideal para quien valora la velocidad y la conveniencia de la carga inalámbrica”. ¿Qué producto del catálogo se ajusta mejor?",
+    "options": [
+      "Cargador Pared +Powerbank Foxbox 20W 6500",
+      "Powerbank Belkin 10K 20W",
+      "Fox Powerbank V2 20000",
+      "PureGear PowerBank 4500mAh"
+    ],
+    "answer": 0,
+    "explanation": "Cargador Pared +Powerbank Foxbox 20W 6500 fue definido en el catálogo para ese perfil de uso.",
+    "product": "Cargador Pared +Powerbank Foxbox 20W 6500",
+    "imageRequired": false,
+    "imageUrl": ""
+  },
+  {
+    "id": 220,
+    "family": "Powerbanks",
+    "difficulty": "Experto",
+    "type": "Caso de cliente",
+    "question": "Un cliente presenta esta necesidad: “el usuario consciente y moderno que busca una carga potente en un diseño compacto. Ideal para quienes valoran los productos responsables con el planeta sin sacrificar tecnología de punta y velocidad de carga”. ¿Qué producto del catálogo se ajusta mejor?",
+    "options": [
+      "Hune Powerbank 10000mAh",
+      "Powerbank Belkin 10K 20W",
+      "Fox Powerbank V2 20000",
+      "Soul Powerbank CLAS200 5000mAh"
+    ],
+    "answer": 0,
+    "explanation": "Hune Powerbank 10000mAh fue definido en el catálogo para ese perfil de uso.",
+    "product": "Hune Powerbank 10000mAh",
+    "imageRequired": false,
+    "imageUrl": ""
+  },
+  {
+    "id": 221,
+    "family": "Cámaras",
+    "difficulty": "Intermedio",
+    "type": "Identificación visual",
+    "question": "¿Qué producto aparece en la imagen?",
+    "options": [
+      "Cámara Exterior TpLink Tapo C310 WiFi",
+      "Cámara Exterior EZVIZ EB3 WiFi",
+      "Cámara Interior C6N 360 WiFi",
+      "Cámara Exterior H3c Color WiFi"
+    ],
+    "answer": 0,
+    "explanation": "La imagen corresponde a Cámara Exterior TpLink Tapo C310 WiFi.",
+    "product": "Cámara Exterior TpLink Tapo C310 WiFi",
+    "imageRequired": true,
+    "imageUrl": "https://point.claro.com.ar/wp-content/uploads/2025/10/Camara-C3010.png"
+  },
+  {
+    "id": 222,
+    "family": "Cámaras",
+    "difficulty": "Intermedio",
+    "type": "Características del producto",
+    "question": "¿Cuál es la especificación correcta de Cámara Exterior TpLink Tapo C310 WiFi para “Resistencia a la intemperie IP66”?",
+    "options": [
+      "Si",
+      "No incluye esta función",
+      "Solo funciona conectado por cable",
+      "No cuenta con especificación informada"
+    ],
+    "answer": 0,
+    "explanation": "Cámara Exterior TpLink Tapo C310 WiFi: Resistencia a la intemperie IP66: Si.",
+    "product": "Cámara Exterior TpLink Tapo C310 WiFi",
+    "imageRequired": true,
+    "imageUrl": "https://point.claro.com.ar/wp-content/uploads/2025/10/Camara-C3010.png"
+  },
+  {
+    "id": 223,
+    "family": "Cámaras",
+    "difficulty": "Experto",
+    "type": "Argumento de venta",
+    "question": "¿Cuál es un argumento válido para recomendar Cámara Exterior TpLink Tapo C310 WiFi?",
+    "options": [
+      "Mirá el exterior con una definición superior: Su resolución de 3MP te da imágenes mucho más nítidas y detalladas que el Full HD estándar",
+      "Es una característica que no figura para este modelo",
+      "Solo se recomienda por su diseño exterior",
+      "No ofrece una ventaja concreta frente a otros productos"
+    ],
+    "answer": 0,
+    "explanation": "Mirá el exterior con una definición superior: Su resolución de 3MP te da imágenes mucho más nítidas y detalladas que el Full HD estándar",
+    "product": "Cámara Exterior TpLink Tapo C310 WiFi",
+    "imageRequired": true,
+    "imageUrl": "https://point.claro.com.ar/wp-content/uploads/2025/10/Camara-C3010.png"
+  },
+  {
+    "id": 224,
+    "family": "Cámaras",
+    "difficulty": "Intermedio",
+    "type": "Identificación visual",
+    "question": "¿Qué producto aparece en la imagen?",
+    "options": [
+      "Cámara Interior EZVIZ CB1 WiFi",
+      "Cámara Interior H1C WiFi",
+      "Cámara Exterior H3C WiFi",
+      "Cámara Interior EZVIZ H6C 360 WiFi"
+    ],
+    "answer": 0,
+    "explanation": "La imagen corresponde a Cámara Interior EZVIZ CB1 WiFi.",
+    "product": "Cámara Interior EZVIZ CB1 WiFi",
+    "imageRequired": true,
+    "imageUrl": "https://tiendaezviz.com.ar/wp-content/uploads/2025/04/CB1-Camara-de-seguridad-para-interior-inalambrica-1.webp"
+  },
+  {
+    "id": 225,
+    "family": "Cámaras",
+    "difficulty": "Intermedio",
+    "type": "Características del producto",
+    "question": "¿Cuál es la especificación correcta de Cámara Interior EZVIZ CB1 WiFi para “Seguimiento Inteligente (Auto-Tracking)”?",
+    "options": [
+      "Si",
+      "No incluye esta función",
+      "Solo funciona conectado por cable",
+      "No cuenta con especificación informada"
+    ],
+    "answer": 0,
+    "explanation": "Cámara Interior EZVIZ CB1 WiFi: Seguimiento Inteligente (Auto-Tracking): Si.",
+    "product": "Cámara Interior EZVIZ CB1 WiFi",
+    "imageRequired": true,
+    "imageUrl": "https://tiendaezviz.com.ar/wp-content/uploads/2025/04/CB1-Camara-de-seguridad-para-interior-inalambrica-1.webp"
+  },
+  {
+    "id": 226,
+    "family": "Cámaras",
+    "difficulty": "Experto",
+    "type": "Argumento de venta",
+    "question": "¿Cuál es un argumento válido para recomendar Cámara Interior EZVIZ CB1 WiFi?",
+    "options": [
+      "Tu seguridad no depende de un enchufe. La mayoría de las cámaras de interior se apagan si se corta la luz. Ésta no. Funciona hasta 40 días con su prop",
+      "Es una característica que no figura para este modelo",
+      "Solo se recomienda por su diseño exterior",
+      "No ofrece una ventaja concreta frente a otros productos"
+    ],
+    "answer": 0,
+    "explanation": "Tu seguridad no depende de un enchufe. La mayoría de las cámaras de interior se apagan si se corta la luz. Ésta no. Funciona hasta 40 días con su prop",
+    "product": "Cámara Interior EZVIZ CB1 WiFi",
+    "imageRequired": true,
+    "imageUrl": "https://tiendaezviz.com.ar/wp-content/uploads/2025/04/CB1-Camara-de-seguridad-para-interior-inalambrica-1.webp"
+  },
+  {
+    "id": 227,
+    "family": "Cámaras",
+    "difficulty": "Intermedio",
+    "type": "Identificación visual",
+    "question": "¿Qué producto aparece en la imagen?",
+    "options": [
+      "Cámara Interior TpLink Tapo C100 WiFi",
+      "Cámara Exterior H3c Color WiFi",
+      "Cámara Interior EZVIZ CB1 WiFi",
+      "Cámara Exterior EZVIZ EB3 WiFi"
+    ],
+    "answer": 0,
+    "explanation": "La imagen corresponde a Cámara Interior TpLink Tapo C100 WiFi.",
+    "product": "Cámara Interior TpLink Tapo C100 WiFi",
+    "imageRequired": true,
+    "imageUrl": "https://point.claro.com.ar/wp-content/uploads/2025/10/Camara-C100.jpg"
+  },
+  {
+    "id": 228,
+    "family": "Cámaras",
+    "difficulty": "Intermedio",
+    "type": "Características del producto",
+    "question": "¿Cuál es la especificación correcta de Cámara Interior TpLink Tapo C100 WiFi para “Alarma de Luz y Sonido”?",
+    "options": [
+      "Si",
+      "No incluye esta función",
+      "Solo funciona conectado por cable",
+      "No cuenta con especificación informada"
+    ],
+    "answer": 0,
+    "explanation": "Cámara Interior TpLink Tapo C100 WiFi: Alarma de Luz y Sonido: Si.",
+    "product": "Cámara Interior TpLink Tapo C100 WiFi",
+    "imageRequired": true,
+    "imageUrl": "https://point.claro.com.ar/wp-content/uploads/2025/10/Camara-C100.jpg"
+  },
+  {
+    "id": 229,
+    "family": "Cámaras",
+    "difficulty": "Experto",
+    "type": "Argumento de venta",
+    "question": "¿Cuál es un argumento válido para recomendar Cámara Interior TpLink Tapo C100 WiFi?",
+    "options": [
+      "Disuadí a los intrusos al instante: Si detecta movimiento, podés activar una alarma de luz y sonido directamente desde tu celular",
+      "Es una característica que no figura para este modelo",
+      "Solo se recomienda por su diseño exterior",
+      "No ofrece una ventaja concreta frente a otros productos"
+    ],
+    "answer": 0,
+    "explanation": "Disuadí a los intrusos al instante: Si detecta movimiento, podés activar una alarma de luz y sonido directamente desde tu celular",
+    "product": "Cámara Interior TpLink Tapo C100 WiFi",
+    "imageRequired": true,
+    "imageUrl": "https://point.claro.com.ar/wp-content/uploads/2025/10/Camara-C100.jpg"
+  },
+  {
+    "id": 230,
+    "family": "Cámaras",
+    "difficulty": "Intermedio",
+    "type": "Identificación visual",
+    "question": "¿Qué producto aparece en la imagen?",
+    "options": [
+      "Cámara Exterior EZVIZ EB3 WiFi",
+      "Cámara Exterior H3c Color WiFi",
+      "Cámara Interior EZVIZ H6C 360 WiFi",
+      "Cámara Interior H1C WiFi"
+    ],
+    "answer": 0,
+    "explanation": "La imagen corresponde a Cámara Exterior EZVIZ EB3 WiFi.",
+    "product": "Cámara Exterior EZVIZ EB3 WiFi",
+    "imageRequired": true,
+    "imageUrl": "https://tienda.claro.com.ar/staticContent/Claro/images/catalog/productos/200x310/7007137.webp"
+  },
+  {
+    "id": 231,
+    "family": "Cámaras",
+    "difficulty": "Intermedio",
+    "type": "Características del producto",
+    "question": "¿Cuál es la especificación correcta de Cámara Exterior EZVIZ EB3 WiFi para “Compatibilidad”?",
+    "options": [
+      "Google Assistant y Amazon Alexa",
+      "No incluye esta función",
+      "Solo funciona conectado por cable",
+      "No cuenta con especificación informada"
+    ],
+    "answer": 0,
+    "explanation": "Cámara Exterior EZVIZ EB3 WiFi: Compatibilidad: Google Assistant y Amazon Alexa.",
+    "product": "Cámara Exterior EZVIZ EB3 WiFi",
+    "imageRequired": true,
+    "imageUrl": "https://tienda.claro.com.ar/staticContent/Claro/images/catalog/productos/200x310/7007137.webp"
+  },
+  {
+    "id": 232,
+    "family": "Cámaras",
+    "difficulty": "Experto",
+    "type": "Argumento de venta",
+    "question": "¿Cuál es un argumento válido para recomendar Cámara Exterior EZVIZ EB3 WiFi?",
+    "options": [
+      "Esta cámara no solo graba, actúa",
+      "Es una característica que no figura para este modelo",
+      "Solo se recomienda por su diseño exterior",
+      "No ofrece una ventaja concreta frente a otros productos"
+    ],
+    "answer": 0,
+    "explanation": "Esta cámara no solo graba, actúa",
+    "product": "Cámara Exterior EZVIZ EB3 WiFi",
+    "imageRequired": true,
+    "imageUrl": "https://tienda.claro.com.ar/staticContent/Claro/images/catalog/productos/200x310/7007137.webp"
+  },
+  {
+    "id": 233,
+    "family": "Cámaras",
+    "difficulty": "Intermedio",
+    "type": "Identificación visual",
+    "question": "¿Qué producto aparece en la imagen?",
+    "options": [
+      "Cámara Exterior H3c Color WiFi",
+      "Cámara Exterior TpLink Tapo C310 WiFi",
+      "Cámara Exterior H3C WiFi",
+      "Cámara Interior EZVIZ H6C 360 WiFi"
+    ],
+    "answer": 0,
+    "explanation": "La imagen corresponde a Cámara Exterior H3c Color WiFi.",
+    "product": "Cámara Exterior H3c Color WiFi",
+    "imageRequired": true,
+    "imageUrl": "https://www.electromisiones.com.ar/44540-large_default/camara_de_seguridad_ezviz_h3c_color_2mp_ip67_con_deteccion_inteligente_y_vision_nocturna_a_color.jpg"
+  },
+  {
+    "id": 234,
+    "family": "Cámaras",
+    "difficulty": "Intermedio",
+    "type": "Características del producto",
+    "question": "¿Cuál es la especificación correcta de Cámara Exterior H3c Color WiFi para “Almacenamiento”?",
+    "options": [
+      "MicroSD hasta 512 GB y Nube",
+      "MicroSD hasta 256 GB y Nube",
+      "Tarjeta MicroSD (hasta 256GB) / Nube EZVIZ",
+      "Tarjeta MicroSD (hasta 512 GB) o Nube EZVIZ"
+    ],
+    "answer": 0,
+    "explanation": "Cámara Exterior H3c Color WiFi: Almacenamiento: MicroSD hasta 512 GB y Nube.",
+    "product": "Cámara Exterior H3c Color WiFi",
+    "imageRequired": true,
+    "imageUrl": "https://www.electromisiones.com.ar/44540-large_default/camara_de_seguridad_ezviz_h3c_color_2mp_ip67_con_deteccion_inteligente_y_vision_nocturna_a_color.jpg"
+  },
+  {
+    "id": 235,
+    "family": "Cámaras",
+    "difficulty": "Experto",
+    "type": "Argumento de venta",
+    "question": "¿Cuál es un argumento válido para recomendar Cámara Exterior H3c Color WiFi?",
+    "options": [
+      "Noche a Todo Color: Sus reflectores LED iluminan la escena para grabar en color incluso en total oscuridad, superando al infrarrojo tradicional",
+      "Es una característica que no figura para este modelo",
+      "Solo se recomienda por su diseño exterior",
+      "No ofrece una ventaja concreta frente a otros productos"
+    ],
+    "answer": 0,
+    "explanation": "Noche a Todo Color: Sus reflectores LED iluminan la escena para grabar en color incluso en total oscuridad, superando al infrarrojo tradicional",
+    "product": "Cámara Exterior H3c Color WiFi",
+    "imageRequired": true,
+    "imageUrl": "https://www.electromisiones.com.ar/44540-large_default/camara_de_seguridad_ezviz_h3c_color_2mp_ip67_con_deteccion_inteligente_y_vision_nocturna_a_color.jpg"
+  },
+  {
+    "id": 236,
+    "family": "Cámaras",
+    "difficulty": "Intermedio",
+    "type": "Identificación visual",
+    "question": "¿Qué producto aparece en la imagen?",
+    "options": [
+      "Cámara Interior EZVIZ H6C 360 WiFi",
+      "Cámara Exterior TpLink Tapo C310 WiFi",
+      "Cámara Exterior H8c 360 WiFi",
+      "Cámara Interior EZVIZ CB1 WiFi"
+    ],
+    "answer": 0,
+    "explanation": "La imagen corresponde a Cámara Interior EZVIZ H6C 360 WiFi.",
+    "product": "Cámara Interior EZVIZ H6C 360 WiFi",
+    "imageRequired": true,
+    "imageUrl": "https://tienda.claro.com.ar/staticContent/Claro/images/catalog/productos/200x310/7007073.webp"
+  },
+  {
+    "id": 237,
+    "family": "Cámaras",
+    "difficulty": "Intermedio",
+    "type": "Características del producto",
+    "question": "¿Cuál es la especificación correcta de Cámara Interior EZVIZ H6C 360 WiFi para “Seguimiento Inteligente (Auto-Tracking)”?",
+    "options": [
+      "Si",
+      "No incluye esta función",
+      "Solo funciona conectado por cable",
+      "No cuenta con especificación informada"
+    ],
+    "answer": 0,
+    "explanation": "Cámara Interior EZVIZ H6C 360 WiFi: Seguimiento Inteligente (Auto-Tracking): Si.",
+    "product": "Cámara Interior EZVIZ H6C 360 WiFi",
+    "imageRequired": true,
+    "imageUrl": "https://tienda.claro.com.ar/staticContent/Claro/images/catalog/productos/200x310/7007073.webp"
+  },
+  {
+    "id": 238,
+    "family": "Cámaras",
+    "difficulty": "Experto",
+    "type": "Argumento de venta",
+    "question": "¿Cuál es un argumento válido para recomendar Cámara Interior EZVIZ H6C 360 WiFi?",
+    "options": [
+      "No dejes ningún rincón sin vigilar: Su lente motorizado te da una visión panorámica completa de 360°, controlable desde tu celular",
+      "Es una característica que no figura para este modelo",
+      "Solo se recomienda por su diseño exterior",
+      "No ofrece una ventaja concreta frente a otros productos"
+    ],
+    "answer": 0,
+    "explanation": "No dejes ningún rincón sin vigilar: Su lente motorizado te da una visión panorámica completa de 360°, controlable desde tu celular",
+    "product": "Cámara Interior EZVIZ H6C 360 WiFi",
+    "imageRequired": true,
+    "imageUrl": "https://tienda.claro.com.ar/staticContent/Claro/images/catalog/productos/200x310/7007073.webp"
+  },
+  {
+    "id": 239,
+    "family": "Cámaras",
+    "difficulty": "Experto",
+    "type": "Caso de cliente",
+    "question": "Un cliente presenta esta necesidad: “quien necesita una solución de vigilancia robusta y de alta definición para el exterior de su hogar o negocio. Es ideal para monitorear patios, entradas o jardines, con la confianza de que resistirá el clima y capturará todo”. ¿Qué producto del catálogo se ajusta mejor?",
+    "options": [
+      "Cámara Exterior TpLink Tapo C310 WiFi",
+      "Cámara Exterior H3c Color WiFi",
+      "Cámara Interior TpLink Tapo C100 WiFi",
+      "Cámara Interior H1C WiFi"
+    ],
+    "answer": 0,
+    "explanation": "Cámara Exterior TpLink Tapo C310 WiFi fue definido en el catálogo para ese perfil de uso.",
+    "product": "Cámara Exterior TpLink Tapo C310 WiFi",
+    "imageRequired": false,
+    "imageUrl": ""
+  },
+  {
+    "id": 240,
+    "family": "Cámaras",
+    "difficulty": "Experto",
+    "type": "Caso de cliente",
+    "question": "Un cliente presenta esta necesidad: “usuarios que buscan una solución de seguridad interior simple, versátil y sin cables, fácil de instalar en cualquier lugar del hogar para una protección confiable y sin complicaciones. Perfecto para inquilinos o para vi”. ¿Qué producto del catálogo se ajusta mejor?",
+    "options": [
+      "Cámara Interior EZVIZ CB1 WiFi",
+      "Cámara Interior H1C WiFi",
+      "Cámara Interior EZVIZ H6C 360 WiFi",
+      "Cámara Interior C6N 360 WiFi"
+    ],
+    "answer": 0,
+    "explanation": "Cámara Interior EZVIZ CB1 WiFi fue definido en el catálogo para ese perfil de uso.",
+    "product": "Cámara Interior EZVIZ CB1 WiFi",
+    "imageRequired": false,
+    "imageUrl": ""
+  },
+  {
+    "id": 241,
+    "family": "Conectividad",
+    "difficulty": "Intermedio",
+    "type": "Características del producto",
+    "question": "¿Cuál es la especificación correcta de WiFi Mesh TpLink DecoX20 x2 para “Seguridad”?",
+    "options": [
+      "TP-Link HomeCare / WPA3",
+      "No incluye esta función",
+      "Solo funciona conectado por cable",
+      "No cuenta con especificación informada"
+    ],
+    "answer": 0,
+    "explanation": "WiFi Mesh TpLink DecoX20 x2: Seguridad: TP-Link HomeCare / WPA3.",
+    "product": "WiFi Mesh TpLink DecoX20 x2",
+    "imageRequired": true,
+    "imageUrl": "https://tienda.claro.com.ar/staticContent/Claro/images/catalog/productos/200x310/7007225.webp"
+  },
+  {
+    "id": 242,
+    "family": "Conectividad",
+    "difficulty": "Experto",
+    "type": "Argumento de venta",
+    "question": "¿Cuál es un argumento válido para recomendar WiFi Mesh TpLink DecoX20 x2?",
+    "options": [
+      "Fin a las zonas muertas: La tecnología Mesh lleva internet fuerte a cada rincón de tu casa (hasta 200m² por unidad)",
+      "Es una característica que no figura para este modelo",
+      "Solo se recomienda por su diseño exterior",
+      "No ofrece una ventaja concreta frente a otros productos"
+    ],
+    "answer": 0,
+    "explanation": "Fin a las zonas muertas: La tecnología Mesh lleva internet fuerte a cada rincón de tu casa (hasta 200m² por unidad)",
+    "product": "WiFi Mesh TpLink DecoX20 x2",
+    "imageRequired": true,
+    "imageUrl": "https://tienda.claro.com.ar/staticContent/Claro/images/catalog/productos/200x310/7007225.webp"
+  },
+  {
+    "id": 243,
+    "family": "Conectividad",
+    "difficulty": "Intermedio",
+    "type": "Características del producto",
+    "question": "¿Cuál es la especificación correcta de OptiXstar K562 para “Conectividad”?",
+    "options": [
+      "Wi-Fi 6",
+      "No incluye esta función",
+      "Solo funciona conectado por cable",
+      "No cuenta con especificación informada"
+    ],
+    "answer": 0,
+    "explanation": "OptiXstar K562: Conectividad: Wi-Fi 6.",
+    "product": "OptiXstar K562",
+    "imageRequired": true,
+    "imageUrl": "https://tienda.claro.com.ar/staticContent/Claro/images/catalog/productos/200x310/7005348.webp"
+  },
+  {
+    "id": 244,
+    "family": "Conectividad",
+    "difficulty": "Experto",
+    "type": "Argumento de venta",
+    "question": "¿Cuál es un argumento válido para recomendar OptiXstar K562?",
+    "options": [
+      "Elimina las zonas sin WiFi para siempre. Su tecnología Mesh crea una única red potente y estable en toda la casa, sin microcortes al moverte de una ha",
+      "Es una característica que no figura para este modelo",
+      "Solo se recomienda por su diseño exterior",
+      "No ofrece una ventaja concreta frente a otros productos"
+    ],
+    "answer": 0,
+    "explanation": "Elimina las zonas sin WiFi para siempre. Su tecnología Mesh crea una única red potente y estable en toda la casa, sin microcortes al moverte de una ha",
+    "product": "OptiXstar K562",
+    "imageRequired": true,
+    "imageUrl": "https://tienda.claro.com.ar/staticContent/Claro/images/catalog/productos/200x310/7005348.webp"
+  },
+  {
+    "id": 245,
+    "family": "Conectividad",
+    "difficulty": "Intermedio",
+    "type": "Características del producto",
+    "question": "¿Cuál es la especificación correcta de AX2 Router WiFi 6 para “Velocidad”?",
+    "options": [
+      "AX1500",
+      "AX3000 (hasta 3000 Mbit/s)",
+      "No incluye esta función",
+      "Solo funciona conectado por cable"
+    ],
+    "answer": 0,
+    "explanation": "AX2 Router WiFi 6: Velocidad: AX1500.",
+    "product": "AX2 Router WiFi 6",
+    "imageRequired": true,
+    "imageUrl": "https://tienda.claro.com.ar/staticContent/Claro/images/catalog/productos/200x310/7006322.webp"
+  },
+  {
+    "id": 246,
+    "family": "Conectividad",
+    "difficulty": "Experto",
+    "type": "Argumento de venta",
+    "question": "¿Cuál es un argumento válido para recomendar AX2 Router WiFi 6?",
+    "options": [
+      "Actualizate a Wi-Fi 6 y sentí la diferencia. Es como pasar de una ruta de un solo carril a una autopista: más velocidad para todos, incluso con muchos",
+      "Es una característica que no figura para este modelo",
+      "Solo se recomienda por su diseño exterior",
+      "No ofrece una ventaja concreta frente a otros productos"
+    ],
+    "answer": 0,
+    "explanation": "Actualizate a Wi-Fi 6 y sentí la diferencia. Es como pasar de una ruta de un solo carril a una autopista: más velocidad para todos, incluso con muchos",
+    "product": "AX2 Router WiFi 6",
+    "imageRequired": true,
+    "imageUrl": "https://tienda.claro.com.ar/staticContent/Claro/images/catalog/productos/200x310/7006322.webp"
+  },
+  {
+    "id": 247,
+    "family": "Conectividad",
+    "difficulty": "Experto",
+    "type": "Caso de cliente",
+    "question": "Un cliente presenta esta necesidad: “hogares grandes o usuarios con muchos dispositivos conectados (domótica, gaming, streaming 4K). Ideal para quienes sufren de 'zonas muertas' de Wi-Fi y buscan la última tecnología (Wi-Fi 6) con una configuración sencilla y se”. ¿Qué producto del catálogo se ajusta mejor?",
+    "options": [
+      "WiFi Mesh TpLink DecoX20 x2",
+      "AX2 Router WiFi 6",
+      "OptiXstar K562",
+      "Otra alternativa del catálogo"
+    ],
+    "answer": 0,
+    "explanation": "WiFi Mesh TpLink DecoX20 x2 fue definido en el catálogo para ese perfil de uso.",
+    "product": "WiFi Mesh TpLink DecoX20 x2",
+    "imageRequired": false,
+    "imageUrl": ""
+  },
+  {
+    "id": 248,
+    "family": "Conectividad",
+    "difficulty": "Experto",
+    "type": "Caso de cliente",
+    "question": "Un cliente presenta esta necesidad: “el usuario que sufre de mala cobertura o lentitud de internet en su casa, especialmente si tiene muchos dispositivos conectados, juega online, hace videollamadas o consume contenido en 4K. Es la solución ideal para eliminar l”. ¿Qué producto del catálogo se ajusta mejor?",
+    "options": [
+      "OptiXstar K562",
+      "WiFi Mesh TpLink DecoX20 x2",
+      "AX2 Router WiFi 6",
+      "Otra alternativa del catálogo"
+    ],
+    "answer": 0,
+    "explanation": "OptiXstar K562 fue definido en el catálogo para ese perfil de uso.",
+    "product": "OptiXstar K562",
+    "imageRequired": false,
+    "imageUrl": ""
+  },
+  {
+    "id": 249,
+    "family": "Cargadores",
+    "difficulty": "Intermedio",
+    "type": "Identificación visual",
+    "question": "¿Qué producto aparece en la imagen?",
+    "options": [
+      "Cargador de Pared Hune 20W C/C TypeC",
+      "Cargador Pared 2 USB 2.1A",
+      "Cargador de Pared 30W",
+      "Cargador Pared Samsung Type C 25W C/Cable QC"
+    ],
+    "answer": 0,
+    "explanation": "La imagen corresponde a Cargador de Pared Hune 20W C/C TypeC.",
+    "product": "Cargador de Pared Hune 20W C/C TypeC",
+    "imageRequired": true,
+    "imageUrl": "https://tienda.claro.com.ar/staticContent/Claro/images/catalog/productos/200x310/7006856.webp"
+  },
+  {
+    "id": 250,
+    "family": "Cargadores",
+    "difficulty": "Intermedio",
+    "type": "Características del producto",
+    "question": "¿Cuál es la especificación correcta de Cargador de Pared Hune 20W C/C TypeC para “Materiales”?",
+    "options": [
+      "Plástico reciclado postconsumo",
+      "No incluye esta función",
+      "Solo funciona conectado por cable",
+      "No cuenta con especificación informada"
+    ],
+    "answer": 0,
+    "explanation": "Cargador de Pared Hune 20W C/C TypeC: Materiales: Plástico reciclado postconsumo.",
+    "product": "Cargador de Pared Hune 20W C/C TypeC",
+    "imageRequired": true,
+    "imageUrl": "https://tienda.claro.com.ar/staticContent/Claro/images/catalog/productos/200x310/7006856.webp"
+  },
+  {
+    "id": 251,
+    "family": "Cargadores",
+    "difficulty": "Experto",
+    "type": "Argumento de venta",
+    "question": "¿Cuál es un argumento válido para recomendar Cargador de Pared Hune 20W C/C TypeC?",
+    "options": [
+      "Carga rápida y cuida el planeta: Fabricado con plástico reciclado",
+      "Es una característica que no figura para este modelo",
+      "Solo se recomienda por su diseño exterior",
+      "No ofrece una ventaja concreta frente a otros productos"
+    ],
+    "answer": 0,
+    "explanation": "Carga rápida y cuida el planeta: Fabricado con plástico reciclado",
+    "product": "Cargador de Pared Hune 20W C/C TypeC",
+    "imageRequired": true,
+    "imageUrl": "https://tienda.claro.com.ar/staticContent/Claro/images/catalog/productos/200x310/7006856.webp"
+  },
+  {
+    "id": 252,
+    "family": "Cargadores",
+    "difficulty": "Intermedio",
+    "type": "Identificación visual",
+    "question": "¿Qué producto aparece en la imagen?",
+    "options": [
+      "Cargador de Pared Motorola C/Cab C 125W",
+      "Cargador inalámbrico P5400 S/cable Samsung",
+      "Cargador de Pared Motorola C/Cab C 33W",
+      "Cargador de Pared Dekkin 65W C/C TypeC"
+    ],
+    "answer": 0,
+    "explanation": "La imagen corresponde a Cargador de Pared Motorola C/Cab C 125W.",
+    "product": "Cargador de Pared Motorola C/Cab C 125W",
+    "imageRequired": true,
+    "imageUrl": "https://tienda.personal.com.ar/images/720/webp/Cargador_Motorola_125_W_Cable_266e4b04b7.png"
+  },
+  {
+    "id": 253,
+    "family": "Cargadores",
+    "difficulty": "Intermedio",
+    "type": "Características del producto",
+    "question": "¿Cuál es la especificación correcta de Cargador de Pared Motorola C/Cab C 125W para “Extras”?",
+    "options": [
+      "Producto original Motorola / Tecnología GaNFast / Incluye cable USB-C a USB-C",
+      "Permite carga simultánea / Incluye cable USB-C",
+      "Permite carga simultánea / Incluye cable USB-C a USB-C",
+      "Permite carga simultánea de 3 dispositivos / Incluye cable USB-C a USB-C"
+    ],
+    "answer": 0,
+    "explanation": "Cargador de Pared Motorola C/Cab C 125W: Extras: Producto original Motorola / Tecnología GaNFast / Incluye cable USB-C a USB-C.",
+    "product": "Cargador de Pared Motorola C/Cab C 125W",
+    "imageRequired": true,
+    "imageUrl": "https://tienda.personal.com.ar/images/720/webp/Cargador_Motorola_125_W_Cable_266e4b04b7.png"
+  },
+  {
+    "id": 254,
+    "family": "Cargadores",
+    "difficulty": "Experto",
+    "type": "Argumento de venta",
+    "question": "¿Cuál es un argumento válido para recomendar Cargador de Pared Motorola C/Cab C 125W?",
+    "options": [
+      "La máxima potencia TurboPower: Sus 125W te dan la velocidad de carga más extrema para cualquier dispositivo, incluyendo notebooks de alto rendimiento",
+      "Es una característica que no figura para este modelo",
+      "Solo se recomienda por su diseño exterior",
+      "No ofrece una ventaja concreta frente a otros productos"
+    ],
+    "answer": 0,
+    "explanation": "La máxima potencia TurboPower: Sus 125W te dan la velocidad de carga más extrema para cualquier dispositivo, incluyendo notebooks de alto rendimiento",
+    "product": "Cargador de Pared Motorola C/Cab C 125W",
+    "imageRequired": true,
+    "imageUrl": "https://tienda.personal.com.ar/images/720/webp/Cargador_Motorola_125_W_Cable_266e4b04b7.png"
+  },
+  {
+    "id": 255,
+    "family": "Cargadores",
+    "difficulty": "Intermedio",
+    "type": "Identificación visual",
+    "question": "¿Qué producto aparece en la imagen?",
+    "options": [
+      "Cargador Inalámbrico Magnético para Auto",
+      "Cargador Auto Dekkin 2USB C/C T-C",
+      "Cargador de Pared Motorola C/Cab C 33W",
+      "Cargador de Pared Foxbox 30 W C/Cable"
+    ],
+    "answer": 0,
+    "explanation": "La imagen corresponde a Cargador Inalámbrico Magnético para Auto.",
+    "product": "Cargador Inalámbrico Magnético para Auto",
+    "imageRequired": true,
+    "imageUrl": "https://tienda.claro.com.ar/staticContent/Claro/images/catalog/productos/646x1000/7004795.webp"
+  },
+  {
+    "id": 256,
+    "family": "Cargadores",
+    "difficulty": "Intermedio",
+    "type": "Características del producto",
+    "question": "¿Cuál es la especificación correcta de Cargador Inalámbrico Magnético para Auto para “Puertos”?",
+    "options": [
+      "No aplica (Conexión a 12V)",
+      "1x USB-A + 1x USB-C",
+      "2x USB-C",
+      "1x USB-A + 2x USB-C"
+    ],
+    "answer": 0,
+    "explanation": "Cargador Inalámbrico Magnético para Auto: Puertos: No aplica (Conexión a 12V).",
+    "product": "Cargador Inalámbrico Magnético para Auto",
+    "imageRequired": true,
+    "imageUrl": "https://tienda.claro.com.ar/staticContent/Claro/images/catalog/productos/646x1000/7004795.webp"
+  },
+  {
+    "id": 257,
+    "family": "Cargadores",
+    "difficulty": "Experto",
+    "type": "Argumento de venta",
+    "question": "¿Cuál es un argumento válido para recomendar Cargador Inalámbrico Magnético para Auto?",
+    "options": [
+      "Acercá y cargá, todo en uno: El imán lo sujeta firmemente mientras empieza a cargar, sin cablesCarga inalámbrica a toda velocidad: Sus 15W te dan la m",
+      "Es una característica que no figura para este modelo",
+      "Solo se recomienda por su diseño exterior",
+      "No ofrece una ventaja concreta frente a otros productos"
+    ],
+    "answer": 0,
+    "explanation": "Acercá y cargá, todo en uno: El imán lo sujeta firmemente mientras empieza a cargar, sin cablesCarga inalámbrica a toda velocidad: Sus 15W te dan la m",
+    "product": "Cargador Inalámbrico Magnético para Auto",
+    "imageRequired": true,
+    "imageUrl": "https://tienda.claro.com.ar/staticContent/Claro/images/catalog/productos/646x1000/7004795.webp"
+  },
+  {
+    "id": 258,
+    "family": "Cargadores",
+    "difficulty": "Intermedio",
+    "type": "Identificación visual",
+    "question": "¿Qué producto aparece en la imagen?",
+    "options": [
+      "Cargador Pared Belkin 50W Dual USB-C",
+      "Cargador Inalámbrico Pure Gear 15W",
+      "Cargador de Pared Hune 20W C/C TypeC",
+      "Cargador de Pared 30W"
+    ],
+    "answer": 0,
+    "explanation": "La imagen corresponde a Cargador Pared Belkin 50W Dual USB-C.",
+    "product": "Cargador Pared Belkin 50W Dual USB-C",
+    "imageRequired": true,
+    "imageUrl": "https://tienda.claro.com.ar/staticContent/Claro/images/catalog/productos/200x310/7007534.webp"
+  },
+  {
+    "id": 259,
+    "family": "Cargadores",
+    "difficulty": "Intermedio",
+    "type": "Características del producto",
+    "question": "¿Cuál es la especificación correcta de Cargador Pared Belkin 50W Dual USB-C para “Potencia Total”?",
+    "options": [
+      "50W",
+      "No incluye esta función",
+      "Solo funciona conectado por cable",
+      "No cuenta con especificación informada"
+    ],
+    "answer": 0,
+    "explanation": "Cargador Pared Belkin 50W Dual USB-C: Potencia Total: 50W.",
+    "product": "Cargador Pared Belkin 50W Dual USB-C",
+    "imageRequired": true,
+    "imageUrl": "https://tienda.claro.com.ar/staticContent/Claro/images/catalog/productos/200x310/7007534.webp"
+  },
+  {
+    "id": 260,
+    "family": "Cargadores",
+    "difficulty": "Experto",
+    "type": "Argumento de venta",
+    "question": "¿Cuál es un argumento válido para recomendar Cargador Pared Belkin 50W Dual USB-C?",
+    "options": [
+      "Potencia Premium de 50W: Mucho más que un cargador común. Ofrece potencia de sobra para cargar rápidamente incluso los dispositivos más exigentes",
+      "Es una característica que no figura para este modelo",
+      "Solo se recomienda por su diseño exterior",
+      "No ofrece una ventaja concreta frente a otros productos"
+    ],
+    "answer": 0,
+    "explanation": "Potencia Premium de 50W: Mucho más que un cargador común. Ofrece potencia de sobra para cargar rápidamente incluso los dispositivos más exigentes",
+    "product": "Cargador Pared Belkin 50W Dual USB-C",
+    "imageRequired": true,
+    "imageUrl": "https://tienda.claro.com.ar/staticContent/Claro/images/catalog/productos/200x310/7007534.webp"
+  },
+  {
+    "id": 261,
+    "family": "Cargadores",
+    "difficulty": "Intermedio",
+    "type": "Identificación visual",
+    "question": "¿Qué producto aparece en la imagen?",
+    "options": [
+      "Cargador Pared Belkin 30W USB-C PPS",
+      "Cargador Inalámbrico Magnético para Auto",
+      "Cargador Pared RINGO 30W C/C",
+      "Cargador Pared Belkin 50W Dual USB-C"
+    ],
+    "answer": 0,
+    "explanation": "La imagen corresponde a Cargador Pared Belkin 30W USB-C PPS.",
+    "product": "Cargador Pared Belkin 30W USB-C PPS",
+    "imageRequired": true,
+    "imageUrl": "https://tienda.claro.com.ar/staticContent/Claro/images/catalog/productos/200x310/7007533.webp"
+  },
+  {
+    "id": 262,
+    "family": "Cargadores",
+    "difficulty": "Intermedio",
+    "type": "Características del producto",
+    "question": "¿Cuál es la especificación correcta de Cargador Pared Belkin 30W USB-C PPS para “Compatibilidad”?",
+    "options": [
+      "Optimizado para iPhone y Samsung S-Series",
+      "No incluye esta función",
+      "Solo funciona conectado por cable",
+      "No cuenta con especificación informada"
+    ],
+    "answer": 0,
+    "explanation": "Cargador Pared Belkin 30W USB-C PPS: Compatibilidad: Optimizado para iPhone y Samsung S-Series.",
+    "product": "Cargador Pared Belkin 30W USB-C PPS",
+    "imageRequired": true,
+    "imageUrl": "https://tienda.claro.com.ar/staticContent/Claro/images/catalog/productos/200x310/7007533.webp"
+  },
+  {
+    "id": 263,
+    "family": "Cargadores",
+    "difficulty": "Experto",
+    "type": "Argumento de venta",
+    "question": "¿Cuál es un argumento válido para recomendar Cargador Pared Belkin 30W USB-C PPS?",
+    "options": [
+      "Tecnología PPS: Este cargador 'habla' con tu celular para entregarle la potencia exacta que necesita, evitando el sobrecalentamiento y cuidando la bat",
+      "Es una característica que no figura para este modelo",
+      "Solo se recomienda por su diseño exterior",
+      "No ofrece una ventaja concreta frente a otros productos"
+    ],
+    "answer": 0,
+    "explanation": "Tecnología PPS: Este cargador 'habla' con tu celular para entregarle la potencia exacta que necesita, evitando el sobrecalentamiento y cuidando la bat",
+    "product": "Cargador Pared Belkin 30W USB-C PPS",
+    "imageRequired": true,
+    "imageUrl": "https://tienda.claro.com.ar/staticContent/Claro/images/catalog/productos/200x310/7007533.webp"
+  },
+  {
+    "id": 264,
+    "family": "Cargadores",
+    "difficulty": "Intermedio",
+    "type": "Identificación visual",
+    "question": "¿Qué producto aparece en la imagen?",
+    "options": [
+      "Soul Carg Auto 3.0 C/Cab C",
+      "Cargador inalámbrico P5400 S/cable Samsung",
+      "Cargador Pared Dekkin 18W 2USB+Cab C-C",
+      "Cargador de Pared Dekkin 30W C/C TypeC"
+    ],
+    "answer": 0,
+    "explanation": "La imagen corresponde a Soul Carg Auto 3.0 C/Cab C.",
+    "product": "Soul Carg Auto 3.0 C/Cab C",
+    "imageRequired": true,
+    "imageUrl": "https://tienda.claro.com.ar/staticContent/Claro/images/catalog/productos/200x310/7007408.webp"
+  },
+  {
+    "id": 265,
+    "family": "Cargadores",
+    "difficulty": "Intermedio",
+    "type": "Características del producto",
+    "question": "¿Cuál es la especificación correcta de Soul Carg Auto 3.0 C/Cab C para “Carga Rápida”?",
+    "options": [
+      "Sí (Qualcomm QC 3.0)",
+      "Sí (Compatible con PD y QC)",
+      "Sí (Power Delivery)",
+      "Sí (Compatible con Power Delivery)"
+    ],
+    "answer": 0,
+    "explanation": "Soul Carg Auto 3.0 C/Cab C: Carga Rápida: Sí (Qualcomm QC 3.0).",
+    "product": "Soul Carg Auto 3.0 C/Cab C",
+    "imageRequired": true,
+    "imageUrl": "https://tienda.claro.com.ar/staticContent/Claro/images/catalog/productos/200x310/7007408.webp"
+  },
+  {
+    "id": 266,
+    "family": "Cargadores",
+    "difficulty": "Experto",
+    "type": "Argumento de venta",
+    "question": "¿Cuál es un argumento válido para recomendar Soul Carg Auto 3.0 C/Cab C?",
+    "options": [
+      "Velocidad Qualcomm Quick Charge 3.0: Cargá tus dispositivos hasta 4 veces más rápido que con un cargador de auto convencional. ¡Ideal para trayectos c",
+      "Es una característica que no figura para este modelo",
+      "Solo se recomienda por su diseño exterior",
+      "No ofrece una ventaja concreta frente a otros productos"
+    ],
+    "answer": 0,
+    "explanation": "Velocidad Qualcomm Quick Charge 3.0: Cargá tus dispositivos hasta 4 veces más rápido que con un cargador de auto convencional. ¡Ideal para trayectos c",
+    "product": "Soul Carg Auto 3.0 C/Cab C",
+    "imageRequired": true,
+    "imageUrl": "https://tienda.claro.com.ar/staticContent/Claro/images/catalog/productos/200x310/7007408.webp"
+  },
+  {
+    "id": 267,
+    "family": "Cargadores",
+    "difficulty": "Experto",
+    "type": "Caso de cliente",
+    "question": "Un cliente presenta esta necesidad: “el consumidor consciente que busca tecnología eficiente y responsable con el medio ambiente”. ¿Qué producto del catálogo se ajusta mejor?",
+    "options": [
+      "Cargador de Pared Hune 20W C/C TypeC",
+      "Cargador Pared Samsung T-C 25W S/Cable",
+      "Cargador Pared Motorola C/Cab C 68W",
+      "Cargador Pared 2 USB 2.1A"
+    ],
+    "answer": 0,
+    "explanation": "Cargador de Pared Hune 20W C/C TypeC fue definido en el catálogo para ese perfil de uso.",
+    "product": "Cargador de Pared Hune 20W C/C TypeC",
+    "imageRequired": false,
+    "imageUrl": ""
+  },
+  {
+    "id": 268,
+    "family": "Cargadores",
+    "difficulty": "Experto",
+    "type": "Caso de cliente",
+    "question": "Un cliente presenta esta necesidad: “el profesional, el gamer o el 'power user' que posee dispositivos de alto rendimiento (notebooks, tablets, celulares de gama alta) y necesita la solución de carga más rápida y potente del mercado”. ¿Qué producto del catálogo se ajusta mejor?",
+    "options": [
+      "Cargador de Pared Motorola C/Cab C 125W",
+      "Cargador Pared Motorola C/Cab C 50W",
+      "Cargador Inalámbrico P5400 C/Cab Samsung",
+      "Cargador de Pared Foxbox 20WF C/Cab C"
+    ],
+    "answer": 0,
+    "explanation": "Cargador de Pared Motorola C/Cab C 125W fue definido en el catálogo para ese perfil de uso.",
+    "product": "Cargador de Pared Motorola C/Cab C 125W",
+    "imageRequired": false,
+    "imageUrl": ""
+  },
+  {
+    "id": 269,
+    "family": "Cinema home",
+    "difficulty": "Intermedio",
+    "type": "Identificación visual",
+    "question": "¿Qué producto aparece en la imagen?",
+    "options": [
+      "Proyector TCL A1",
+      "TCL S55H Barra de Sonido",
+      "Barra de sonido JBL SB180 2.1 BT",
+      "Proyector Yaber L2s"
+    ],
+    "answer": 0,
+    "explanation": "La imagen corresponde a Proyector TCL A1.",
+    "product": "Proyector TCL A1",
+    "imageRequired": true,
+    "imageUrl": "https://tienda.claro.com.ar/staticContent/Claro/images/catalog/productos/200x310/7008013.webp"
+  },
+  {
+    "id": 270,
+    "family": "Cinema home",
+    "difficulty": "Intermedio",
+    "type": "Características del producto",
+    "question": "¿Cuál es la especificación correcta de Proyector TCL A1 para “Calidad de Imagen”?",
+    "options": [
+      "360 ISO Lúmenes Reales / Contraste 2000:1",
+      "FHD 1080p Nativo / 430 ISO Lúmenes / Soporte 60Hz",
+      "No incluye esta función",
+      "Solo funciona conectado por cable"
+    ],
+    "answer": 0,
+    "explanation": "Proyector TCL A1: Calidad de Imagen: 360 ISO Lúmenes Reales / Contraste 2000:1.",
+    "product": "Proyector TCL A1",
+    "imageRequired": true,
+    "imageUrl": "https://tienda.claro.com.ar/staticContent/Claro/images/catalog/productos/200x310/7008013.webp"
+  },
+  {
+    "id": 271,
+    "family": "Cinema home",
+    "difficulty": "Experto",
+    "type": "Argumento de venta",
+    "question": "¿Cuál es un argumento válido para recomendar Proyector TCL A1?",
+    "options": [
+      "Cine Real donde quieras: No es un proyector de juguete",
+      "Es una característica que no figura para este modelo",
+      "Solo se recomienda por su diseño exterior",
+      "No ofrece una ventaja concreta frente a otros productos"
+    ],
+    "answer": 0,
+    "explanation": "Cine Real donde quieras: No es un proyector de juguete",
+    "product": "Proyector TCL A1",
+    "imageRequired": true,
+    "imageUrl": "https://tienda.claro.com.ar/staticContent/Claro/images/catalog/productos/200x310/7008013.webp"
+  },
+  {
+    "id": 272,
+    "family": "Cinema home",
+    "difficulty": "Intermedio",
+    "type": "Identificación visual",
+    "question": "¿Qué producto aparece en la imagen?",
+    "options": [
+      "Barra de sonido JBL SB180 2.1 BT",
+      "Yaber Proyector T2 Plus GTV",
+      "Proyector Yaber L2s",
+      "TCL S55H Barra de Sonido"
+    ],
+    "answer": 0,
+    "explanation": "La imagen corresponde a Barra de sonido JBL SB180 2.1 BT.",
+    "product": "Barra de sonido JBL SB180 2.1 BT",
+    "imageRequired": true,
+    "imageUrl": "https://tienda.claro.com.ar/staticContent/Claro/images/catalog/productos/200x310/7008014.webp"
+  },
+  {
+    "id": 273,
+    "family": "Cinema home",
+    "difficulty": "Intermedio",
+    "type": "Características del producto",
+    "question": "¿Cuál es la especificación correcta de Barra de sonido JBL SB180 2.1 BT para “Conexión al TV”?",
+    "options": [
+      "HDMI ARC y Entrada Óptica (Sonido digital sin pérdida)",
+      "No incluye esta función",
+      "Solo funciona conectado por cable",
+      "No cuenta con especificación informada"
+    ],
+    "answer": 0,
+    "explanation": "Barra de sonido JBL SB180 2.1 BT: Conexión al TV: HDMI ARC y Entrada Óptica (Sonido digital sin pérdida).",
+    "product": "Barra de sonido JBL SB180 2.1 BT",
+    "imageRequired": true,
+    "imageUrl": "https://tienda.claro.com.ar/staticContent/Claro/images/catalog/productos/200x310/7008014.webp"
+  },
+  {
+    "id": 274,
+    "family": "Cinema home",
+    "difficulty": "Experto",
+    "type": "Argumento de venta",
+    "question": "¿Cuál es un argumento válido para recomendar Barra de sonido JBL SB180 2.1 BT?",
+    "options": [
+      "Potencia Real JBL: Con 110W RMS (y hasta 220W de pico), esta barra ofrece un volumen y una claridad que los parlantes estándar del televisor no pueden",
+      "Es una característica que no figura para este modelo",
+      "Solo se recomienda por su diseño exterior",
+      "No ofrece una ventaja concreta frente a otros productos"
+    ],
+    "answer": 0,
+    "explanation": "Potencia Real JBL: Con 110W RMS (y hasta 220W de pico), esta barra ofrece un volumen y una claridad que los parlantes estándar del televisor no pueden",
+    "product": "Barra de sonido JBL SB180 2.1 BT",
+    "imageRequired": true,
+    "imageUrl": "https://tienda.claro.com.ar/staticContent/Claro/images/catalog/productos/200x310/7008014.webp"
+  },
+  {
+    "id": 275,
+    "family": "Cinema home",
+    "difficulty": "Intermedio",
+    "type": "Identificación visual",
+    "question": "¿Qué producto aparece en la imagen?",
+    "options": [
+      "TCL S55H Barra de Sonido",
+      "Proyector TCL A1",
+      "Yaber Proyector T2 Plus GTV",
+      "Proyector Yaber L2s"
+    ],
+    "answer": 0,
+    "explanation": "La imagen corresponde a TCL S55H Barra de Sonido.",
+    "product": "TCL S55H Barra de Sonido",
+    "imageRequired": true,
+    "imageUrl": "https://tienda.claro.com.ar/staticContent/Claro/images/catalog/productos/200x310/7008012.webp"
+  },
+  {
+    "id": 276,
+    "family": "Cinema home",
+    "difficulty": "Intermedio",
+    "type": "Características del producto",
+    "question": "¿Cuál es la especificación correcta de TCL S55H Barra de Sonido para “Conectividad”?",
+    "options": [
+      "HDMI 2.0 con eARC (Compatible con un solo control remoto)",
+      "No incluye esta función",
+      "Solo funciona conectado por cable",
+      "No cuenta con especificación informada"
+    ],
+    "answer": 0,
+    "explanation": "TCL S55H Barra de Sonido: Conectividad: HDMI 2.0 con eARC (Compatible con un solo control remoto).",
+    "product": "TCL S55H Barra de Sonido",
+    "imageRequired": true,
+    "imageUrl": "https://tienda.claro.com.ar/staticContent/Claro/images/catalog/productos/200x310/7008012.webp"
+  },
+  {
+    "id": 277,
+    "family": "Cinema home",
+    "difficulty": "Experto",
+    "type": "Argumento de venta",
+    "question": "¿Cuál es un argumento válido para recomendar TCL S55H Barra de Sonido?",
+    "options": [
+      "Experiencia de Cine 3D (Dolby Atmos): No es solo más volumen, es sonido que te rodea",
+      "Es una característica que no figura para este modelo",
+      "Solo se recomienda por su diseño exterior",
+      "No ofrece una ventaja concreta frente a otros productos"
+    ],
+    "answer": 0,
+    "explanation": "Experiencia de Cine 3D (Dolby Atmos): No es solo más volumen, es sonido que te rodea",
+    "product": "TCL S55H Barra de Sonido",
+    "imageRequired": true,
+    "imageUrl": "https://tienda.claro.com.ar/staticContent/Claro/images/catalog/productos/200x310/7008012.webp"
+  },
+  {
+    "id": 278,
+    "family": "Cinema home",
+    "difficulty": "Intermedio",
+    "type": "Identificación visual",
+    "question": "¿Qué producto aparece en la imagen?",
+    "options": [
+      "Proyector Yaber L2s",
+      "TCL S55H Barra de Sonido",
+      "Proyector TCL A1",
+      "Barra de sonido JBL SB180 2.1 BT"
+    ],
+    "answer": 0,
+    "explanation": "La imagen corresponde a Proyector Yaber L2s.",
+    "product": "Proyector Yaber L2s",
+    "imageRequired": true,
+    "imageUrl": "https://www.yaber.com/cdn/shop/files/492.jpg?v=1751380148&width=713"
+  },
+  {
+    "id": 279,
+    "family": "Cinema home",
+    "difficulty": "Intermedio",
+    "type": "Características del producto",
+    "question": "¿Cuál es la especificación correcta de Proyector Yaber L2s para “Tamaño de Proyección”?",
+    "options": [
+      "Desde 40 hasta 150 pulgadas (Relación 1.38:1)",
+      "No incluye esta función",
+      "Solo funciona conectado por cable",
+      "No cuenta con especificación informada"
+    ],
+    "answer": 0,
+    "explanation": "Proyector Yaber L2s: Tamaño de Proyección: Desde 40 hasta 150 pulgadas (Relación 1.38:1).",
+    "product": "Proyector Yaber L2s",
+    "imageRequired": true,
+    "imageUrl": "https://www.yaber.com/cdn/shop/files/492.jpg?v=1751380148&width=713"
+  },
+  {
+    "id": 280,
+    "family": "Cinema home",
+    "difficulty": "Experto",
+    "type": "Argumento de venta",
+    "question": "¿Cuál es un argumento válido para recomendar Proyector Yaber L2s?",
+    "options": [
+      "Sonido Legendario JBL: A diferencia de otros proyectores, este tiene parlantes estéreo de 16W reales diseñados por JBL con Dolby Audio. La calidad y p",
+      "Es una característica que no figura para este modelo",
+      "Solo se recomienda por su diseño exterior",
+      "No ofrece una ventaja concreta frente a otros productos"
+    ],
+    "answer": 0,
+    "explanation": "Sonido Legendario JBL: A diferencia de otros proyectores, este tiene parlantes estéreo de 16W reales diseñados por JBL con Dolby Audio. La calidad y p",
+    "product": "Proyector Yaber L2s",
+    "imageRequired": true,
+    "imageUrl": "https://www.yaber.com/cdn/shop/files/492.jpg?v=1751380148&width=713"
+  },
+  {
+    "id": 281,
+    "family": "Cinema home",
+    "difficulty": "Intermedio",
+    "type": "Identificación visual",
+    "question": "¿Qué producto aparece en la imagen?",
+    "options": [
+      "Yaber Proyector T2 Plus GTV",
+      "Barra de sonido JBL SB180 2.1 BT",
+      "Proyector TCL A1",
+      "Proyector Yaber L2s"
+    ],
+    "answer": 0,
+    "explanation": "La imagen corresponde a Yaber Proyector T2 Plus GTV.",
+    "product": "Yaber Proyector T2 Plus GTV",
+    "imageRequired": true,
+    "imageUrl": "https://images.fravega.com/f300/a44e0fbf6930245fbd37a454d77992c0.jpg.webp"
+  },
+  {
+    "id": 282,
+    "family": "Cinema home",
+    "difficulty": "Intermedio",
+    "type": "Características del producto",
+    "question": "¿Cuál es la especificación correcta de Yaber Proyector T2 Plus GTV para “Sistema Inteligente”?",
+    "options": [
+      "Google TV integrado con acceso a Netflix, YouTube y 7000+ apps",
+      "No incluye esta función",
+      "Solo funciona conectado por cable",
+      "No cuenta con especificación informada"
+    ],
+    "answer": 0,
+    "explanation": "Yaber Proyector T2 Plus GTV: Sistema Inteligente: Google TV integrado con acceso a Netflix, YouTube y 7000+ apps.",
+    "product": "Yaber Proyector T2 Plus GTV",
+    "imageRequired": true,
+    "imageUrl": "https://images.fravega.com/f300/a44e0fbf6930245fbd37a454d77992c0.jpg.webp"
+  },
+  {
+    "id": 283,
+    "family": "Cinema home",
+    "difficulty": "Experto",
+    "type": "Argumento de venta",
+    "question": "¿Cuál es un argumento válido para recomendar Yaber Proyector T2 Plus GTV?",
+    "options": [
+      "Cine 100% Inalámbrico: Es de los pocos proyectores con batería propia. Podés ver una película entera de 2.5 horas en medio de un camping o en el patio",
+      "Es una característica que no figura para este modelo",
+      "Solo se recomienda por su diseño exterior",
+      "No ofrece una ventaja concreta frente a otros productos"
+    ],
+    "answer": 0,
+    "explanation": "Cine 100% Inalámbrico: Es de los pocos proyectores con batería propia. Podés ver una película entera de 2.5 horas en medio de un camping o en el patio",
+    "product": "Yaber Proyector T2 Plus GTV",
+    "imageRequired": true,
+    "imageUrl": "https://images.fravega.com/f300/a44e0fbf6930245fbd37a454d77992c0.jpg.webp"
+  },
+  {
+    "id": 284,
+    "family": "Cinema home",
+    "difficulty": "Experto",
+    "type": "Caso de cliente",
+    "question": "Un cliente presenta esta necesidad: “el entusiasta del cine, gamers y familias que buscan transformar cualquier espacio en una sala de entretenimiento. Es perfecto para quienes valoran la comodidad de un Smart TV (Google TV) pero con la inmersión de una pa”. ¿Qué producto del catálogo se ajusta mejor?",
+    "options": [
+      "Proyector TCL A1",
+      "Proyector Yaber L2s",
+      "TCL S55H Barra de Sonido",
+      "Yaber Proyector T2 Plus GTV"
+    ],
+    "answer": 0,
+    "explanation": "Proyector TCL A1 fue definido en el catálogo para ese perfil de uso.",
+    "product": "Proyector TCL A1",
+    "imageRequired": false,
+    "imageUrl": ""
+  },
+  {
+    "id": 285,
+    "family": "Cinema home",
+    "difficulty": "Experto",
+    "type": "Caso de cliente",
+    "question": "Un cliente presenta esta necesidad: “quienes quieren mejorar el sonido plano de su TV y buscan una experiencia de cine en casa. Es perfecta para usuarios que valoran la practicidad de un subwoofer inalámbrico que no requiere cables cruzando el living”. ¿Qué producto del catálogo se ajusta mejor?",
+    "options": [
+      "Barra de sonido JBL SB180 2.1 BT",
+      "TCL S55H Barra de Sonido",
+      "Yaber Proyector T2 Plus GTV",
+      "Proyector Yaber L2s"
+    ],
+    "answer": 0,
+    "explanation": "Barra de sonido JBL SB180 2.1 BT fue definido en el catálogo para ese perfil de uso.",
+    "product": "Barra de sonido JBL SB180 2.1 BT",
+    "imageRequired": false,
+    "imageUrl": ""
   }
 ]
