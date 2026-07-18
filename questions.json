@@ -1,0 +1,2042 @@
+[
+  {
+    "id": 1,
+    "family": "Auriculares",
+    "difficulty": "Inicial",
+    "type": "Necesidad del cliente",
+    "question": "Un cliente viaja todos los días en colectivo y quiere reducir el ruido exterior sin subir demasiado el volumen.",
+    "options": [
+      "Iluminación RGB",
+      "Cancelación activa de ruido",
+      "Cable mallado",
+      "Sonido mono"
+    ],
+    "answer": 1,
+    "explanation": "La cancelación activa de ruido reduce electrónicamente sonidos constantes del entorno.",
+    "product": "",
+    "imageRequired": false
+  },
+  {
+    "id": 2,
+    "family": "Auriculares",
+    "difficulty": "Intermedio",
+    "type": "Recomendación",
+    "question": "Un cliente juega durante muchas horas y necesita escuchar con precisión desde dónde vienen los pasos y disparos. ¿Qué debería priorizar?",
+    "options": [
+      "Sonido envolvente y baja latencia",
+      "Diseño abierto sin micrófono",
+      "Solo conexión por cable de carga",
+      "Mayor tamaño de estuche"
+    ],
+    "answer": 0,
+    "explanation": "El sonido envolvente y una conexión de baja latencia mejoran la percepción espacial y reducen demoras.",
+    "product": "",
+    "imageRequired": false
+  },
+  {
+    "id": 3,
+    "family": "Auriculares",
+    "difficulty": "Intermedio",
+    "type": "Producto",
+    "question": "¿Qué ventaja puede ofrecer un auricular con micrófonos múltiples frente a uno con un solo micrófono?",
+    "options": [
+      "Más almacenamiento",
+      "Mejor captación de voz y reducción de ruido",
+      "Mayor brillo de pantalla",
+      "Carga inalámbrica del celular"
+    ],
+    "answer": 1,
+    "explanation": "Varios micrófonos permiten separar mejor la voz del ruido ambiente.",
+    "product": "",
+    "imageRequired": false
+  },
+  {
+    "id": 4,
+    "family": "Auriculares",
+    "difficulty": "Experto",
+    "type": "Comparación",
+    "question": "¿Por qué una conexión inalámbrica de 2,4 GHz suele preferirse al Bluetooth común para juegos competitivos?",
+    "options": [
+      "Porque siempre consume menos batería",
+      "Porque suele tener menor latencia",
+      "Porque mejora la resistencia al agua",
+      "Porque agrega memoria interna"
+    ],
+    "answer": 1,
+    "explanation": "La menor latencia reduce el desfase entre la acción y el sonido.",
+    "product": "",
+    "imageRequired": false
+  },
+  {
+    "id": 5,
+    "family": "Auriculares",
+    "difficulty": "Inicial",
+    "type": "Verdadero o falso",
+    "question": "La certificación IP ayuda a conocer la resistencia de un auricular al polvo y al agua.",
+    "options": [
+      "Verdadero",
+      "Falso",
+      "Solo en auriculares con cable",
+      "Solo en modelos gamer"
+    ],
+    "answer": 0,
+    "explanation": "La clasificación IP informa el nivel de protección frente a polvo y agua.",
+    "product": "",
+    "imageRequired": false
+  },
+  {
+    "id": 6,
+    "family": "Auriculares",
+    "difficulty": "Intermedio",
+    "type": "Compatibilidad",
+    "question": "Antes de recomendar auriculares USB-C, ¿qué conviene verificar?",
+    "options": [
+      "Que el equipo tenga puerto USB-C compatible con audio",
+      "Que el cliente use Wi-Fi 6",
+      "Que tenga televisor 4K",
+      "Que la batería supere 5.000 mAh"
+    ],
+    "answer": 0,
+    "explanation": "No todos los puertos USB-C manejan audio del mismo modo; la compatibilidad debe confirmarse.",
+    "product": "",
+    "imageRequired": false
+  },
+  {
+    "id": 7,
+    "family": "Auriculares",
+    "difficulty": "Experto",
+    "type": "Caso de cliente",
+    "question": "Una persona hace muchas videollamadas desde una oficina compartida. ¿Qué combinación es más útil?",
+    "options": [
+      "Micrófono con reducción de ruido y buena autonomía",
+      "Luces RGB y graves reforzados",
+      "Estuche grande y color llamativo",
+      "Conexión HDMI y radio FM"
+    ],
+    "answer": 0,
+    "explanation": "La claridad de voz y la autonomía tienen impacto directo en videollamadas largas.",
+    "product": "",
+    "imageRequired": false
+  },
+  {
+    "id": 8,
+    "family": "Auriculares",
+    "difficulty": "Inicial",
+    "type": "Identificación",
+    "question": "¿Qué tipo de auricular suele ofrecer mayor aislamiento pasivo por su diseño?",
+    "options": [
+      "In-ear con buen ajuste",
+      "Abierto sobre la oreja",
+      "Parlante de cuello",
+      "Auricular mono sin almohadilla"
+    ],
+    "answer": 0,
+    "explanation": "Un in-ear bien ajustado sella mejor el canal auditivo y reduce ruido externo de forma pasiva.",
+    "product": "",
+    "imageRequired": false
+  },
+  {
+    "id": 9,
+    "family": "Auriculares",
+    "difficulty": "Intermedio",
+    "type": "Recomendación",
+    "question": "Un cliente entrena y transpira mucho. ¿Qué debería pesar más en la recomendación?",
+    "options": [
+      "Resistencia al agua y ajuste seguro",
+      "Mayor cantidad de luces",
+      "Cable más largo",
+      "Color del estuche"
+    ],
+    "answer": 0,
+    "explanation": "El ajuste y la resistencia al sudor son claves para uso deportivo.",
+    "product": "",
+    "imageRequired": false
+  },
+  {
+    "id": 10,
+    "family": "Auriculares",
+    "difficulty": "Experto",
+    "type": "Concepto",
+    "question": "¿Qué describe mejor la cancelación activa de ruido?",
+    "options": [
+      "Un sellado físico únicamente",
+      "Un sistema que usa micrófonos y ondas inversas para reducir ruido",
+      "Un aumento automático de volumen",
+      "Una mejora de graves por software"
+    ],
+    "answer": 1,
+    "explanation": "La ANC detecta ruido externo y genera una señal opuesta para reducirlo.",
+    "product": "",
+    "imageRequired": false
+  },
+  {
+    "id": 11,
+    "family": "Auriculares",
+    "difficulty": "Intermedio",
+    "type": "Comparación",
+    "question": "Dos auriculares tienen la misma autonomía, pero uno ofrece carga rápida. ¿Cuál es la ventaja real?",
+    "options": [
+      "Recupera varias horas de uso en pocos minutos",
+      "Siempre suena más fuerte",
+      "Ocupa menos espacio",
+      "Tiene mejor resistencia al agua"
+    ],
+    "answer": 0,
+    "explanation": "La carga rápida permite recuperar tiempo de uso con una carga breve.",
+    "product": "",
+    "imageRequired": false
+  },
+  {
+    "id": 12,
+    "family": "Auriculares",
+    "difficulty": "Experto",
+    "type": "Venta consultiva",
+    "question": "¿Cuál es la mejor primera pregunta antes de recomendar auriculares?",
+    "options": [
+      "¿Para qué los vas a usar principalmente?",
+      "¿Qué color te gusta?",
+      "¿Cuánto pesa tu celular?",
+      "¿Qué televisor tenés?"
+    ],
+    "answer": 0,
+    "explanation": "El uso principal define prioridades como ANC, micrófono, ajuste, latencia o autonomía.",
+    "product": "",
+    "imageRequired": false
+  },
+  {
+    "id": 13,
+    "family": "Parlantes",
+    "difficulty": "Inicial",
+    "type": "Necesidad del cliente",
+    "question": "Un cliente quiere llevar un parlante a la pileta. ¿Qué debería revisar primero?",
+    "options": [
+      "Cantidad de luces",
+      "Resistencia al agua",
+      "Color",
+      "Tamaño del cargador"
+    ],
+    "answer": 1,
+    "explanation": "La certificación de resistencia al agua indica si soporta salpicaduras o inmersión.",
+    "product": "",
+    "imageRequired": false
+  },
+  {
+    "id": 14,
+    "family": "Parlantes",
+    "difficulty": "Intermedio",
+    "type": "Comparación",
+    "question": "¿Qué diferencia suele ofrecer un parlante grande frente a uno compacto?",
+    "options": [
+      "Mayor potencia y presencia de graves",
+      "Menor autonomía siempre",
+      "Solo uso con cable",
+      "Menor cobertura sonora"
+    ],
+    "answer": 0,
+    "explanation": "Un gabinete mayor suele permitir más potencia y mejor respuesta de graves.",
+    "product": "",
+    "imageRequired": false
+  },
+  {
+    "id": 15,
+    "family": "Parlantes",
+    "difficulty": "Intermedio",
+    "type": "Recomendación",
+    "question": "Un cliente quiere usar dos parlantes juntos para ampliar el sonido. ¿Qué función debería buscar?",
+    "options": [
+      "TWS o vinculación múltiple",
+      "NFC para pagos",
+      "GPS",
+      "Cancelación activa de ruido"
+    ],
+    "answer": 0,
+    "explanation": "TWS y tecnologías similares permiten enlazar parlantes compatibles.",
+    "product": "",
+    "imageRequired": false
+  },
+  {
+    "id": 16,
+    "family": "Parlantes",
+    "difficulty": "Experto",
+    "type": "Caso de cliente",
+    "question": "Para una reunión al aire libre con 20 personas, ¿qué combinación es más importante?",
+    "options": [
+      "Potencia, autonomía y resistencia",
+      "Pantalla táctil y cámara",
+      "Memoria interna y stylus",
+      "Carga inalámbrica del celular"
+    ],
+    "answer": 0,
+    "explanation": "En exteriores importa sostener volumen, batería y tolerar el ambiente.",
+    "product": "",
+    "imageRequired": false
+  },
+  {
+    "id": 17,
+    "family": "Parlantes",
+    "difficulty": "Inicial",
+    "type": "Verdadero o falso",
+    "question": "Más watts suelen indicar mayor capacidad de volumen, aunque no definen por sí solos la calidad de sonido.",
+    "options": [
+      "Verdadero",
+      "Falso",
+      "Solo en barras de sonido",
+      "Solo en parlantes con cable"
+    ],
+    "answer": 0,
+    "explanation": "La potencia influye en el volumen, pero la calidad depende también de diseño, drivers y procesamiento.",
+    "product": "",
+    "imageRequired": false
+  },
+  {
+    "id": 18,
+    "family": "Parlantes",
+    "difficulty": "Intermedio",
+    "type": "Concepto",
+    "question": "¿Qué función cumple un radiador pasivo en muchos parlantes portátiles?",
+    "options": [
+      "Refuerza los graves",
+      "Mejora el Wi-Fi",
+      "Carga otros dispositivos",
+      "Reduce la latencia Bluetooth"
+    ],
+    "answer": 0,
+    "explanation": "El radiador pasivo ayuda a extender la respuesta de bajas frecuencias.",
+    "product": "",
+    "imageRequired": false
+  },
+  {
+    "id": 19,
+    "family": "Parlantes",
+    "difficulty": "Experto",
+    "type": "Comparación",
+    "question": "Dos parlantes tienen igual potencia. Uno posee batería mayor. ¿Qué ventaja principal ofrece?",
+    "options": [
+      "Más horas de reproducción",
+      "Mayor resolución de audio siempre",
+      "Más resistencia al agua",
+      "Mejor micrófono"
+    ],
+    "answer": 0,
+    "explanation": "La capacidad de batería afecta principalmente la duración de uso.",
+    "product": "",
+    "imageRequired": false
+  },
+  {
+    "id": 20,
+    "family": "Parlantes",
+    "difficulty": "Inicial",
+    "type": "Identificación",
+    "question": "¿Qué producto corresponde mejor para escuchar música en distintos ambientes de la casa?",
+    "options": [
+      "Parlante Bluetooth portátil",
+      "Cámara IP",
+      "Powerbank",
+      "Cargador de pared"
+    ],
+    "answer": 0,
+    "explanation": "El parlante portátil permite mover el audio entre ambientes.",
+    "product": "",
+    "imageRequired": false
+  },
+  {
+    "id": 21,
+    "family": "Parlantes",
+    "difficulty": "Intermedio",
+    "type": "Compatibilidad",
+    "question": "¿Qué conviene revisar antes de prometer conexión estéreo entre dos parlantes?",
+    "options": [
+      "Que ambos sean compatibles con la misma tecnología de enlace",
+      "Que tengan el mismo color",
+      "Que usen el mismo cargador físico",
+      "Que tengan igual precio"
+    ],
+    "answer": 0,
+    "explanation": "No todas las tecnologías de vinculación son compatibles entre marcas o generaciones.",
+    "product": "",
+    "imageRequired": false
+  },
+  {
+    "id": 22,
+    "family": "Parlantes",
+    "difficulty": "Experto",
+    "type": "Venta consultiva",
+    "question": "¿Qué pregunta ayuda más a elegir entre un parlante compacto y uno de alta potencia?",
+    "options": [
+      "¿Dónde y para cuántas personas lo vas a usar?",
+      "¿Qué fondo de pantalla usás?",
+      "¿Cuántas cámaras tiene tu celular?",
+      "¿Qué correo electrónico tenés?"
+    ],
+    "answer": 0,
+    "explanation": "El espacio y la cantidad de personas determinan la potencia y portabilidad necesarias.",
+    "product": "",
+    "imageRequired": false
+  },
+  {
+    "id": 23,
+    "family": "Parlantes",
+    "difficulty": "Intermedio",
+    "type": "Caso de cliente",
+    "question": "Un cliente prioriza llevar el parlante en mochila todos los días. ¿Qué debería evitarse?",
+    "options": [
+      "Un equipo demasiado pesado y voluminoso",
+      "Un equipo con Bluetooth",
+      "Un equipo con batería",
+      "Un equipo con controles físicos"
+    ],
+    "answer": 0,
+    "explanation": "La portabilidad real depende del peso y tamaño, no solo de que sea inalámbrico.",
+    "product": "",
+    "imageRequired": false
+  },
+  {
+    "id": 24,
+    "family": "Parlantes",
+    "difficulty": "Experto",
+    "type": "Concepto",
+    "question": "¿Por qué un parlante puede sonar menos fuerte al aire libre que en una habitación?",
+    "options": [
+      "Porque en exteriores hay menos superficies que reflejen el sonido",
+      "Porque Bluetooth deja de funcionar",
+      "Porque la batería cambia de voltaje siempre",
+      "Porque pierde resistencia al agua"
+    ],
+    "answer": 0,
+    "explanation": "En interiores las paredes ayudan a reflejar y contener el sonido.",
+    "product": "",
+    "imageRequired": false
+  },
+  {
+    "id": 25,
+    "family": "Tablets",
+    "difficulty": "Inicial",
+    "type": "Necesidad del cliente",
+    "question": "Una estudiante necesita leer PDF, tomar apuntes y transportar la tablet diariamente. ¿Qué combinación conviene?",
+    "options": [
+      "Pantalla cómoda, buena batería y accesorios",
+      "Cámara con zoom óptico",
+      "Resistencia para exteriores extrema",
+      "Parlante mono únicamente"
+    ],
+    "answer": 0,
+    "explanation": "Estudio exige equilibrio entre lectura, autonomía y compatibilidad con teclado o lápiz.",
+    "product": "",
+    "imageRequired": false
+  },
+  {
+    "id": 26,
+    "family": "Tablets",
+    "difficulty": "Intermedio",
+    "type": "Comparación",
+    "question": "¿Qué ventaja ofrece una pantalla de 120 Hz frente a una de 60 Hz?",
+    "options": [
+      "Mayor fluidez visual",
+      "Mayor capacidad de almacenamiento",
+      "Más potencia de carga",
+      "Mejor señal Wi-Fi siempre"
+    ],
+    "answer": 0,
+    "explanation": "Una tasa de refresco mayor muestra movimientos y desplazamientos más fluidos.",
+    "product": "",
+    "imageRequired": false
+  },
+  {
+    "id": 27,
+    "family": "Tablets",
+    "difficulty": "Experto",
+    "type": "Recomendación",
+    "question": "Un cliente quiere una tablet para películas y series. ¿Qué debería priorizar?",
+    "options": [
+      "Buena pantalla y sistema de varios parlantes",
+      "GPS y cámara macro",
+      "Resistencia IP68 únicamente",
+      "Puerto Ethernet"
+    ],
+    "answer": 0,
+    "explanation": "La experiencia audiovisual depende principalmente de la pantalla y el sonido.",
+    "product": "",
+    "imageRequired": false
+  },
+  {
+    "id": 28,
+    "family": "Tablets",
+    "difficulty": "Inicial",
+    "type": "Verdadero o falso",
+    "question": "Más memoria RAM ayuda a sostener varias aplicaciones abiertas con mayor fluidez.",
+    "options": [
+      "Verdadero",
+      "Falso",
+      "Solo en tablets con teclado",
+      "Solo en tablets 5G"
+    ],
+    "answer": 0,
+    "explanation": "La RAM influye en la multitarea y en la respuesta del sistema.",
+    "product": "",
+    "imageRequired": false
+  },
+  {
+    "id": 29,
+    "family": "Tablets",
+    "difficulty": "Intermedio",
+    "type": "Compatibilidad",
+    "question": "Antes de vender un lápiz digital, ¿qué debe verificarse?",
+    "options": [
+      "Compatibilidad específica con el modelo de tablet",
+      "Cantidad de cámaras",
+      "Color del equipo",
+      "Tipo de funda"
+    ],
+    "answer": 0,
+    "explanation": "No todos los lápices funcionan con todas las tablets.",
+    "product": "",
+    "imageRequired": false
+  },
+  {
+    "id": 30,
+    "family": "Tablets",
+    "difficulty": "Experto",
+    "type": "Caso de cliente",
+    "question": "Una persona quiere reemplazar parcialmente su notebook para tareas de oficina. ¿Qué combinación es más adecuada?",
+    "options": [
+      "Tablet con teclado, buena RAM y modo multitarea",
+      "Tablet pequeña sin accesorios",
+      "Solo cámara de alta resolución",
+      "Batería reducida y pantalla HD"
+    ],
+    "answer": 0,
+    "explanation": "Teclado, memoria y multitarea son claves para productividad.",
+    "product": "",
+    "imageRequired": false
+  },
+  {
+    "id": 31,
+    "family": "Tablets",
+    "difficulty": "Inicial",
+    "type": "Identificación",
+    "question": "¿Qué accesorio mejora más la escritura de textos largos en una tablet?",
+    "options": [
+      "Teclado físico",
+      "Powerbank pequeño",
+      "Auricular mono",
+      "Cable HDMI corto"
+    ],
+    "answer": 0,
+    "explanation": "Un teclado físico facilita velocidad y comodidad al escribir.",
+    "product": "",
+    "imageRequired": false
+  },
+  {
+    "id": 32,
+    "family": "Tablets",
+    "difficulty": "Intermedio",
+    "type": "Concepto",
+    "question": "¿Qué significa que una tablet tenga almacenamiento expandible?",
+    "options": [
+      "Que admite una tarjeta de memoria compatible",
+      "Que aumenta la RAM automáticamente",
+      "Que mejora la resolución",
+      "Que se conecta a cualquier monitor sin adaptador"
+    ],
+    "answer": 0,
+    "explanation": "El almacenamiento expandible permite sumar espacio con una tarjeta compatible.",
+    "product": "",
+    "imageRequired": false
+  },
+  {
+    "id": 33,
+    "family": "Tablets",
+    "difficulty": "Experto",
+    "type": "Comparación",
+    "question": "Dos tablets tienen igual pantalla y batería, pero una posee más RAM. ¿En qué se notará más?",
+    "options": [
+      "En multitarea y aplicaciones exigentes",
+      "En resistencia al agua",
+      "En velocidad de carga siempre",
+      "En tamaño físico"
+    ],
+    "answer": 0,
+    "explanation": "La RAM extra ayuda a mantener procesos y aplicaciones activos.",
+    "product": "",
+    "imageRequired": false
+  },
+  {
+    "id": 34,
+    "family": "Tablets",
+    "difficulty": "Intermedio",
+    "type": "Venta consultiva",
+    "question": "¿Qué pregunta debe hacerse antes de recomendar una tablet para niños?",
+    "options": [
+      "¿Qué edad tiene y qué uso tendrá?",
+      "¿Qué televisor hay en la casa?",
+      "¿Qué color de pared tiene el cuarto?",
+      "¿Qué compañía de Internet usa?"
+    ],
+    "answer": 0,
+    "explanation": "La edad y el uso definen tamaño, controles parentales, resistencia y rendimiento.",
+    "product": "",
+    "imageRequired": false
+  },
+  {
+    "id": 35,
+    "family": "Tablets",
+    "difficulty": "Experto",
+    "type": "Caso de cliente",
+    "question": "Una diseñadora quiere dibujar con precisión. ¿Qué atributo es decisivo?",
+    "options": [
+      "Compatibilidad con lápiz sensible a presión",
+      "Cantidad de parlantes",
+      "Cámara frontal",
+      "Puerto de carga magnético"
+    ],
+    "answer": 0,
+    "explanation": "La sensibilidad a la presión y la compatibilidad del lápiz permiten trazos más naturales.",
+    "product": "",
+    "imageRequired": false
+  },
+  {
+    "id": 36,
+    "family": "Tablets",
+    "difficulty": "Intermedio",
+    "type": "Recomendación",
+    "question": "Un cliente necesita muchas horas lejos de un enchufe. ¿Qué debería comparar además de la capacidad de batería?",
+    "options": [
+      "Autonomía real y eficiencia del procesador",
+      "Cantidad de colores disponibles",
+      "Número de cámaras",
+      "Tipo de logo"
+    ],
+    "answer": 0,
+    "explanation": "La duración depende de la batería, el consumo de pantalla y la eficiencia del equipo.",
+    "product": "",
+    "imageRequired": false
+  },
+  {
+    "id": 37,
+    "family": "Relojes y bandas",
+    "difficulty": "Inicial",
+    "type": "Necesidad del cliente",
+    "question": "Un cliente quiere registrar entrenamientos, sueño y ritmo cardíaco. ¿Qué producto corresponde?",
+    "options": [
+      "Smartwatch o smartband",
+      "Barra de sonido",
+      "Cargador de pared",
+      "Repetidor Wi-Fi"
+    ],
+    "answer": 0,
+    "explanation": "Estos dispositivos concentran seguimiento deportivo y métricas generales de bienestar.",
+    "product": "",
+    "imageRequired": false
+  },
+  {
+    "id": 38,
+    "family": "Relojes y bandas",
+    "difficulty": "Intermedio",
+    "type": "Compatibilidad",
+    "question": "Antes de recomendar una banda o reloj, ¿qué debe validarse?",
+    "options": [
+      "Compatibilidad con el sistema operativo del celular",
+      "Resolución del televisor",
+      "Cantidad de enchufes en casa",
+      "Tipo de auriculares"
+    ],
+    "answer": 0,
+    "explanation": "Algunas funciones dependen de Android, iOS o de una marca específica.",
+    "product": "",
+    "imageRequired": false
+  },
+  {
+    "id": 39,
+    "family": "Relojes y bandas",
+    "difficulty": "Experto",
+    "type": "Comparación",
+    "question": "¿Qué diferencia suele haber entre una smartband y un smartwatch?",
+    "options": [
+      "La smartband suele ser más liviana y simple; el smartwatch ofrece más funciones",
+      "La smartband siempre tiene GPS y el smartwatch no",
+      "El smartwatch no mide actividad",
+      "La smartband reemplaza al celular por completo"
+    ],
+    "answer": 0,
+    "explanation": "Las bandas priorizan ligereza y seguimiento; los relojes suelen sumar apps, llamadas o GPS.",
+    "product": "",
+    "imageRequired": false
+  },
+  {
+    "id": 40,
+    "family": "Relojes y bandas",
+    "difficulty": "Inicial",
+    "type": "Verdadero o falso",
+    "question": "La medición de salud de un wearable orienta el seguimiento personal, pero no reemplaza una evaluación médica.",
+    "options": [
+      "Verdadero",
+      "Falso",
+      "Solo si tiene GPS",
+      "Solo si es resistente al agua"
+    ],
+    "answer": 0,
+    "explanation": "Son dispositivos de bienestar y no instrumentos de diagnóstico clínico.",
+    "product": "",
+    "imageRequired": false
+  },
+  {
+    "id": 41,
+    "family": "Relojes y bandas",
+    "difficulty": "Intermedio",
+    "type": "Caso de cliente",
+    "question": "Una persona corre sin llevar el celular y quiere registrar el recorrido. ¿Qué debería buscar?",
+    "options": [
+      "GPS integrado",
+      "Carga inalámbrica inversa",
+      "Parlante estéreo",
+      "Puerto HDMI"
+    ],
+    "answer": 0,
+    "explanation": "El GPS integrado permite registrar distancia y ruta sin depender del teléfono.",
+    "product": "",
+    "imageRequired": false
+  },
+  {
+    "id": 42,
+    "family": "Relojes y bandas",
+    "difficulty": "Experto",
+    "type": "Recomendación",
+    "question": "Un cliente quiere responder llamadas desde la muñeca. ¿Qué debe confirmarse?",
+    "options": [
+      "Que el reloj tenga micrófono, parlante y función de llamadas compatible",
+      "Que tenga más de 100 modos deportivos",
+      "Que use correa metálica",
+      "Que tenga pantalla redonda"
+    ],
+    "answer": 0,
+    "explanation": "Responder llamadas exige hardware y compatibilidad específica.",
+    "product": "",
+    "imageRequired": false
+  },
+  {
+    "id": 43,
+    "family": "Relojes y bandas",
+    "difficulty": "Inicial",
+    "type": "Identificación",
+    "question": "¿Qué atributo mejora la comodidad para usar una banda durante la noche?",
+    "options": [
+      "Bajo peso y buen ajuste",
+      "Pantalla muy grande",
+      "Correa rígida",
+      "Mayor volumen de parlante"
+    ],
+    "answer": 0,
+    "explanation": "La ligereza y el ajuste influyen en el uso prolongado durante el sueño.",
+    "product": "",
+    "imageRequired": false
+  },
+  {
+    "id": 44,
+    "family": "Relojes y bandas",
+    "difficulty": "Intermedio",
+    "type": "Concepto",
+    "question": "¿Qué informa la autonomía de un smartwatch?",
+    "options": [
+      "Cuánto tiempo puede funcionar entre cargas",
+      "Cuántos contactos almacena",
+      "Cuánto pesa",
+      "Qué tan preciso es el GPS"
+    ],
+    "answer": 0,
+    "explanation": "La autonomía expresa la duración estimada de la batería.",
+    "product": "",
+    "imageRequired": false
+  },
+  {
+    "id": 45,
+    "family": "Relojes y bandas",
+    "difficulty": "Experto",
+    "type": "Caso de cliente",
+    "question": "Una persona practica natación. ¿Qué conviene verificar antes de recomendar un reloj?",
+    "options": [
+      "Nivel de resistencia al agua y modos de natación",
+      "Cantidad de micrófonos",
+      "Color de la pantalla",
+      "Tamaño del cargador"
+    ],
+    "answer": 0,
+    "explanation": "La resistencia y los modos específicos definen si es apto para piscina.",
+    "product": "",
+    "imageRequired": false
+  },
+  {
+    "id": 46,
+    "family": "Relojes y bandas",
+    "difficulty": "Intermedio",
+    "type": "Comparación",
+    "question": "Dos relojes tienen funciones similares, pero uno usa pantalla AMOLED. ¿Qué ventaja suele aportar?",
+    "options": [
+      "Mejor contraste y negros más profundos",
+      "Mayor memoria RAM siempre",
+      "Más precisión cardíaca automáticamente",
+      "Mayor resistencia física"
+    ],
+    "answer": 0,
+    "explanation": "AMOLED suele ofrecer colores intensos y negro real.",
+    "product": "",
+    "imageRequired": false
+  },
+  {
+    "id": 47,
+    "family": "Relojes y bandas",
+    "difficulty": "Experto",
+    "type": "Venta consultiva",
+    "question": "¿Qué pregunta ayuda más a elegir entre banda y reloj?",
+    "options": [
+      "¿Buscás seguimiento básico o funciones avanzadas como GPS y llamadas?",
+      "¿Qué color de funda usás?",
+      "¿Cuántos televisores tenés?",
+      "¿Qué plan de Internet tenés?"
+    ],
+    "answer": 0,
+    "explanation": "El nivel de funciones esperado define mejor el tipo de wearable.",
+    "product": "",
+    "imageRequired": false
+  },
+  {
+    "id": 48,
+    "family": "Relojes y bandas",
+    "difficulty": "Intermedio",
+    "type": "Recomendación",
+    "question": "Un cliente prioriza muchos días de batería y seguimiento básico. ¿Qué suele encajar mejor?",
+    "options": [
+      "Una smartband eficiente",
+      "Un smartwatch con muchas apps y pantalla siempre activa",
+      "Una barra de sonido",
+      "Una cámara exterior"
+    ],
+    "answer": 0,
+    "explanation": "Las smartbands suelen ofrecer mayor autonomía con funciones más simples.",
+    "product": "",
+    "imageRequired": false
+  },
+  {
+    "id": 49,
+    "family": "Powerbanks",
+    "difficulty": "Inicial",
+    "type": "Necesidad del cliente",
+    "question": "Un cliente viaja y pasa varios días lejos de un enchufe. ¿Qué debería priorizar?",
+    "options": [
+      "Mayor capacidad en mAh",
+      "Iluminación RGB",
+      "Mayor tamaño de pantalla",
+      "Cable HDMI"
+    ],
+    "answer": 0,
+    "explanation": "Una capacidad mayor almacena más energía, aunque aumenta peso y tamaño.",
+    "product": "",
+    "imageRequired": false
+  },
+  {
+    "id": 50,
+    "family": "Powerbanks",
+    "difficulty": "Intermedio",
+    "type": "Comparación",
+    "question": "¿Cuál es la principal diferencia entre un powerbank de 20.000 mAh y uno de 5.000 mAh?",
+    "options": [
+      "El primero suele ofrecer más recargas y pesar más",
+      "El segundo siempre carga más rápido",
+      "El primero solo sirve para tablets",
+      "El segundo no carga celulares"
+    ],
+    "answer": 0,
+    "explanation": "La capacidad indica reserva de energía, no velocidad de carga.",
+    "product": "",
+    "imageRequired": false
+  },
+  {
+    "id": 51,
+    "family": "Powerbanks",
+    "difficulty": "Experto",
+    "type": "Concepto",
+    "question": "¿Por qué un powerbank de 10.000 mAh no entrega exactamente 10.000 mAh al celular?",
+    "options": [
+      "Por pérdidas de conversión y eficiencia",
+      "Porque la pantalla consume la mitad",
+      "Porque Bluetooth reduce la carga",
+      "Porque el cable suma capacidad"
+    ],
+    "answer": 0,
+    "explanation": "Parte de la energía se pierde al convertir voltaje y durante el proceso de carga.",
+    "product": "",
+    "imageRequired": false
+  },
+  {
+    "id": 52,
+    "family": "Powerbanks",
+    "difficulty": "Inicial",
+    "type": "Verdadero o falso",
+    "question": "La capacidad y la potencia de salida son conceptos diferentes.",
+    "options": [
+      "Verdadero",
+      "Falso",
+      "Solo en modelos inalámbricos",
+      "Solo en modelos solares"
+    ],
+    "answer": 0,
+    "explanation": "La capacidad indica energía almacenada; la potencia indica velocidad potencial de entrega.",
+    "product": "",
+    "imageRequired": false
+  },
+  {
+    "id": 53,
+    "family": "Powerbanks",
+    "difficulty": "Intermedio",
+    "type": "Compatibilidad",
+    "question": "Para aprovechar carga rápida desde un powerbank, ¿qué debe coincidir?",
+    "options": [
+      "Powerbank, cable y dispositivo deben soportar un protocolo compatible",
+      "Solo el color del cable",
+      "El tamaño de la batería",
+      "La marca del estuche"
+    ],
+    "answer": 0,
+    "explanation": "La carga rápida requiere compatibilidad en toda la cadena.",
+    "product": "",
+    "imageRequired": false
+  },
+  {
+    "id": 54,
+    "family": "Powerbanks",
+    "difficulty": "Experto",
+    "type": "Caso de cliente",
+    "question": "Un usuario quiere cargar una notebook USB-C. ¿Qué debe verificarse?",
+    "options": [
+      "Potencia de salida suficiente y Power Delivery compatible",
+      "Que el powerbank tenga linterna",
+      "Que mida menos de 200 gramos",
+      "Que use USB-A únicamente"
+    ],
+    "answer": 0,
+    "explanation": "Las notebooks suelen exigir más potencia y compatibilidad con USB Power Delivery.",
+    "product": "",
+    "imageRequired": false
+  },
+  {
+    "id": 55,
+    "family": "Powerbanks",
+    "difficulty": "Inicial",
+    "type": "Identificación",
+    "question": "¿Qué ventaja ofrece un powerbank compacto de baja capacidad?",
+    "options": [
+      "Mayor portabilidad",
+      "Más recargas completas",
+      "Mayor potencia siempre",
+      "Mejor resistencia al agua"
+    ],
+    "answer": 0,
+    "explanation": "Los modelos pequeños se transportan con facilidad, aunque almacenan menos energía.",
+    "product": "",
+    "imageRequired": false
+  },
+  {
+    "id": 56,
+    "family": "Powerbanks",
+    "difficulty": "Intermedio",
+    "type": "Comparación",
+    "question": "Dos powerbanks tienen igual capacidad, pero uno ofrece más watts. ¿Qué cambia principalmente?",
+    "options": [
+      "Puede cargar más rápido si el equipo es compatible",
+      "Dura más días necesariamente",
+      "Pesa menos",
+      "Tiene más puertos siempre"
+    ],
+    "answer": 0,
+    "explanation": "La potencia disponible influye en la velocidad, no en la energía total almacenada.",
+    "product": "",
+    "imageRequired": false
+  },
+  {
+    "id": 57,
+    "family": "Powerbanks",
+    "difficulty": "Experto",
+    "type": "Seguridad",
+    "question": "¿Qué práctica es correcta al usar un powerbank?",
+    "options": [
+      "Evitar calor extremo y golpes",
+      "Dejarlo siempre al sol",
+      "Usar cables dañados",
+      "Cubrirlo mientras carga"
+    ],
+    "answer": 0,
+    "explanation": "El calor y los daños físicos pueden afectar las celdas y la seguridad.",
+    "product": "",
+    "imageRequired": false
+  },
+  {
+    "id": 58,
+    "family": "Powerbanks",
+    "difficulty": "Intermedio",
+    "type": "Venta consultiva",
+    "question": "¿Qué pregunta ayuda más a elegir capacidad?",
+    "options": [
+      "¿Cuántos dispositivos y cuántas recargas necesitás?",
+      "¿Qué color de celular tenés?",
+      "¿Qué fondo de pantalla usás?",
+      "¿Qué marca de televisor tenés?"
+    ],
+    "answer": 0,
+    "explanation": "La cantidad de equipos y recargas define la capacidad requerida.",
+    "product": "",
+    "imageRequired": false
+  },
+  {
+    "id": 59,
+    "family": "Powerbanks",
+    "difficulty": "Experto",
+    "type": "Caso de cliente",
+    "question": "Un cliente quiere cargar dos equipos al mismo tiempo. ¿Qué debe revisar?",
+    "options": [
+      "Cantidad de puertos y potencia total compartida",
+      "Solo la capacidad nominal",
+      "El material de la carcasa",
+      "La longitud del cable incluido"
+    ],
+    "answer": 0,
+    "explanation": "La potencia puede repartirse entre puertos y reducir la velocidad individual.",
+    "product": "",
+    "imageRequired": false
+  },
+  {
+    "id": 60,
+    "family": "Powerbanks",
+    "difficulty": "Intermedio",
+    "type": "Concepto",
+    "question": "¿Qué ventaja aporta USB-C bidireccional en un powerbank?",
+    "options": [
+      "Puede usarse para cargar el powerbank y también entregar energía",
+      "Aumenta la memoria",
+      "Mejora el Bluetooth",
+      "Agrega resistencia al agua"
+    ],
+    "answer": 0,
+    "explanation": "Un mismo puerto puede servir como entrada y salida según el diseño.",
+    "product": "",
+    "imageRequired": false
+  },
+  {
+    "id": 61,
+    "family": "Cámaras",
+    "difficulty": "Inicial",
+    "type": "Necesidad del cliente",
+    "question": "Una persona quiere observar a su mascota y hablarle cuando no está. ¿Qué necesita?",
+    "options": [
+      "Cobertura amplia y audio bidireccional",
+      "HDMI y Dolby Atmos",
+      "Carga inalámbrica",
+      "GPS"
+    ],
+    "answer": 0,
+    "explanation": "El audio bidireccional permite escuchar y hablar desde la aplicación.",
+    "product": "",
+    "imageRequired": false
+  },
+  {
+    "id": 62,
+    "family": "Cámaras",
+    "difficulty": "Intermedio",
+    "type": "Recomendación",
+    "question": "¿Qué característica es especialmente útil en una cámara exterior?",
+    "options": [
+      "Resistencia al clima y visión nocturna",
+      "Pantalla táctil",
+      "Carga rápida de 50 W",
+      "Traducción en vivo"
+    ],
+    "answer": 0,
+    "explanation": "Una cámara exterior debe soportar el ambiente y ver con poca luz.",
+    "product": "",
+    "imageRequired": false
+  },
+  {
+    "id": 63,
+    "family": "Cámaras",
+    "difficulty": "Experto",
+    "type": "Caso de cliente",
+    "question": "Un cliente quiere reducir falsas alertas causadas por mascotas. ¿Qué debería buscar?",
+    "options": [
+      "Detección inteligente de personas",
+      "Mayor resolución únicamente",
+      "Más volumen de sirena",
+      "Cable más largo"
+    ],
+    "answer": 0,
+    "explanation": "La clasificación inteligente ayuda a distinguir personas de otros movimientos.",
+    "product": "",
+    "imageRequired": false
+  },
+  {
+    "id": 64,
+    "family": "Cámaras",
+    "difficulty": "Inicial",
+    "type": "Verdadero o falso",
+    "question": "El audio bidireccional permite escuchar y hablar a través de la cámara.",
+    "options": [
+      "Verdadero",
+      "Falso",
+      "Solo en cámaras con batería",
+      "Solo en cámaras 4K"
+    ],
+    "answer": 0,
+    "explanation": "Integra micrófono y parlante para comunicación remota.",
+    "product": "",
+    "imageRequired": false
+  },
+  {
+    "id": 65,
+    "family": "Cámaras",
+    "difficulty": "Intermedio",
+    "type": "Concepto",
+    "question": "¿Qué mejora principal aporta una cámara con movimiento horizontal y vertical?",
+    "options": [
+      "Reduce puntos ciegos",
+      "Aumenta la velocidad de Internet",
+      "Carga el celular",
+      "Mejora el sonido del televisor"
+    ],
+    "answer": 0,
+    "explanation": "El movimiento permite cubrir un área mayor desde un solo punto.",
+    "product": "",
+    "imageRequired": false
+  },
+  {
+    "id": 66,
+    "family": "Cámaras",
+    "difficulty": "Experto",
+    "type": "Comparación",
+    "question": "¿Cuándo conviene una cámara con batería frente a una conectada permanentemente?",
+    "options": [
+      "Cuando no hay enchufe cercano o se necesita instalación flexible",
+      "Cuando se requiere grabación continua sin límites",
+      "Cuando se busca menor mantenimiento siempre",
+      "Cuando se quiere más potencia de audio"
+    ],
+    "answer": 0,
+    "explanation": "La batería facilita instalación, pero exige recargas y puede limitar grabación continua.",
+    "product": "",
+    "imageRequired": false
+  },
+  {
+    "id": 67,
+    "family": "Cámaras",
+    "difficulty": "Inicial",
+    "type": "Identificación",
+    "question": "¿Qué función permite ver en oscuridad?",
+    "options": [
+      "Visión nocturna",
+      "TWS",
+      "Power Delivery",
+      "Dolby Atmos"
+    ],
+    "answer": 0,
+    "explanation": "La visión nocturna usa infrarrojos o luz para captar imágenes con poca iluminación.",
+    "product": "",
+    "imageRequired": false
+  },
+  {
+    "id": 68,
+    "family": "Cámaras",
+    "difficulty": "Intermedio",
+    "type": "Almacenamiento",
+    "question": "¿Qué ventaja ofrece guardar grabaciones en tarjeta microSD?",
+    "options": [
+      "Almacenamiento local sin depender siempre de la nube",
+      "Mayor resolución automática",
+      "Más cobertura Wi-Fi",
+      "Carga más rápida"
+    ],
+    "answer": 0,
+    "explanation": "La tarjeta permite conservar videos localmente según la capacidad y configuración.",
+    "product": "",
+    "imageRequired": false
+  },
+  {
+    "id": 69,
+    "family": "Cámaras",
+    "difficulty": "Experto",
+    "type": "Seguridad",
+    "question": "¿Qué práctica mejora la seguridad de una cámara conectada?",
+    "options": [
+      "Usar contraseña robusta y mantener el firmware actualizado",
+      "Compartir la clave con todos",
+      "Desactivar actualizaciones",
+      "Usar siempre la contraseña de fábrica"
+    ],
+    "answer": 0,
+    "explanation": "Las credenciales seguras y las actualizaciones reducen vulnerabilidades.",
+    "product": "",
+    "imageRequired": false
+  },
+  {
+    "id": 70,
+    "family": "Cámaras",
+    "difficulty": "Intermedio",
+    "type": "Venta consultiva",
+    "question": "¿Qué pregunta debe hacerse antes de recomendar una cámara?",
+    "options": [
+      "¿Es para interior o exterior y qué zona querés cubrir?",
+      "¿Qué color de auriculares usás?",
+      "¿Cuántos watts tiene tu cargador?",
+      "¿Qué tamaño de TV tenés?"
+    ],
+    "answer": 0,
+    "explanation": "La ubicación y el área definen resistencia, ángulo, movimiento y alimentación.",
+    "product": "",
+    "imageRequired": false
+  },
+  {
+    "id": 71,
+    "family": "Cámaras",
+    "difficulty": "Experto",
+    "type": "Caso de cliente",
+    "question": "Un comercio quiere una alerta disuasiva ante intrusos. ¿Qué función suma valor?",
+    "options": [
+      "Sirena y luz activa",
+      "Modo lectura",
+      "Carga inalámbrica",
+      "GPS deportivo"
+    ],
+    "answer": 0,
+    "explanation": "La luz y la sirena pueden disuadir además de registrar.",
+    "product": "",
+    "imageRequired": false
+  },
+  {
+    "id": 72,
+    "family": "Cámaras",
+    "difficulty": "Intermedio",
+    "type": "Comparación",
+    "question": "¿Qué aporta mayor resolución en una cámara?",
+    "options": [
+      "Más detalle de imagen, con mayor consumo de almacenamiento y red",
+      "Más autonomía siempre",
+      "Más volumen de audio",
+      "Más cobertura Wi-Fi"
+    ],
+    "answer": 0,
+    "explanation": "La resolución mejora detalle, pero genera archivos y tráfico mayores.",
+    "product": "",
+    "imageRequired": false
+  },
+  {
+    "id": 73,
+    "family": "Conectividad",
+    "difficulty": "Inicial",
+    "type": "Necesidad del cliente",
+    "question": "El Wi-Fi funciona bien en el living, pero casi no llega a una habitación alejada. ¿Qué debería evaluarse?",
+    "options": [
+      "Repetidor o sistema mesh",
+      "Powerbank",
+      "Barra de sonido",
+      "Cargador"
+    ],
+    "answer": 0,
+    "explanation": "Estos equipos amplían o distribuyen mejor la cobertura.",
+    "product": "",
+    "imageRequired": false
+  },
+  {
+    "id": 74,
+    "family": "Conectividad",
+    "difficulty": "Experto",
+    "type": "Comparación",
+    "question": "¿Cuándo conviene un sistema mesh en lugar de un repetidor sencillo?",
+    "options": [
+      "En hogares grandes con varias zonas y muchos dispositivos",
+      "Cuando falta batería en el celular",
+      "Cuando el televisor no tiene sonido",
+      "Cuando se usan auriculares Bluetooth"
+    ],
+    "answer": 0,
+    "explanation": "Mesh coordina varios puntos para una cobertura más uniforme.",
+    "product": "",
+    "imageRequired": false
+  },
+  {
+    "id": 75,
+    "family": "Conectividad",
+    "difficulty": "Intermedio",
+    "type": "Concepto",
+    "question": "¿Qué diferencia hay entre cobertura y velocidad?",
+    "options": [
+      "Cobertura es alcance; velocidad es capacidad de transferencia",
+      "Son exactamente lo mismo",
+      "La cobertura depende solo del plan",
+      "La velocidad depende solo de la cantidad de antenas"
+    ],
+    "answer": 0,
+    "explanation": "Puede haber buena señal con baja velocidad o alta velocidad cerca del router y mala cobertura lejos.",
+    "product": "",
+    "imageRequired": false
+  },
+  {
+    "id": 76,
+    "family": "Conectividad",
+    "difficulty": "Inicial",
+    "type": "Verdadero o falso",
+    "question": "Ubicar un repetidor donde ya casi no llega señal suele dar malos resultados.",
+    "options": [
+      "Verdadero",
+      "Falso",
+      "Solo en casas de dos pisos",
+      "Solo con Wi-Fi 6"
+    ],
+    "answer": 0,
+    "explanation": "El repetidor necesita recibir una señal razonable para retransmitirla.",
+    "product": "",
+    "imageRequired": false
+  },
+  {
+    "id": 77,
+    "family": "Conectividad",
+    "difficulty": "Intermedio",
+    "type": "Caso de cliente",
+    "question": "Un cliente tiene muchas paredes gruesas. ¿Qué solución suele ser más efectiva?",
+    "options": [
+      "Varios nodos mesh bien ubicados o conexión cableada",
+      "Un cargador más potente",
+      "Un powerbank de mayor capacidad",
+      "Un parlante Bluetooth"
+    ],
+    "answer": 0,
+    "explanation": "Las paredes atenúan la señal; varios puntos o cableado ayudan a superar el problema.",
+    "product": "",
+    "imageRequired": false
+  },
+  {
+    "id": 78,
+    "family": "Conectividad",
+    "difficulty": "Experto",
+    "type": "Concepto",
+    "question": "¿Qué ventaja ofrece Wi-Fi 6 en un entorno con muchos dispositivos?",
+    "options": [
+      "Mejor gestión simultánea y eficiencia",
+      "Mayor tamaño de pantalla",
+      "Más capacidad de batería",
+      "Más potencia de audio"
+    ],
+    "answer": 0,
+    "explanation": "Wi-Fi 6 administra mejor varios equipos conectados al mismo tiempo.",
+    "product": "",
+    "imageRequired": false
+  },
+  {
+    "id": 79,
+    "family": "Conectividad",
+    "difficulty": "Inicial",
+    "type": "Identificación",
+    "question": "¿Qué dispositivo distribuye Internet inalámbrico desde la conexión principal?",
+    "options": [
+      "Router",
+      "Powerbank",
+      "Smartwatch",
+      "Barra de sonido"
+    ],
+    "answer": 0,
+    "explanation": "El router crea y administra la red local.",
+    "product": "",
+    "imageRequired": false
+  },
+  {
+    "id": 80,
+    "family": "Conectividad",
+    "difficulty": "Intermedio",
+    "type": "Compatibilidad",
+    "question": "¿Un dispositivo Wi-Fi 5 puede conectarse a un router Wi-Fi 6?",
+    "options": [
+      "Sí, normalmente por compatibilidad hacia atrás",
+      "No, nunca",
+      "Solo con cable HDMI",
+      "Solo si es de la misma marca"
+    ],
+    "answer": 0,
+    "explanation": "Los routers modernos suelen mantener compatibilidad con generaciones anteriores.",
+    "product": "",
+    "imageRequired": false
+  },
+  {
+    "id": 81,
+    "family": "Conectividad",
+    "difficulty": "Experto",
+    "type": "Caso de cliente",
+    "question": "Una persona juega online y quiere máxima estabilidad. ¿Qué opción es preferible cuando es posible?",
+    "options": [
+      "Cable Ethernet",
+      "Repetidor muy alejado",
+      "Bluetooth",
+      "Powerbank"
+    ],
+    "answer": 0,
+    "explanation": "El cable reduce interferencias y suele ofrecer menor latencia.",
+    "product": "",
+    "imageRequired": false
+  },
+  {
+    "id": 82,
+    "family": "Conectividad",
+    "difficulty": "Intermedio",
+    "type": "Venta consultiva",
+    "question": "¿Qué información es clave antes de recomendar una solución Wi-Fi?",
+    "options": [
+      "Tamaño del lugar, cantidad de pisos, paredes y dispositivos",
+      "Color de las paredes solamente",
+      "Marca del televisor",
+      "Cantidad de cargadores"
+    ],
+    "answer": 0,
+    "explanation": "La arquitectura y la carga de equipos determinan la solución adecuada.",
+    "product": "",
+    "imageRequired": false
+  },
+  {
+    "id": 83,
+    "family": "Conectividad",
+    "difficulty": "Experto",
+    "type": "Diagnóstico",
+    "question": "El cliente tiene señal completa, pero Internet lento en todos los dispositivos. ¿Qué conviene revisar primero?",
+    "options": [
+      "Velocidad del servicio y estado del router",
+      "Comprar un powerbank",
+      "Cambiar auriculares",
+      "Agregar una barra de sonido"
+    ],
+    "answer": 0,
+    "explanation": "Si la señal es buena, el cuello de botella puede ser el servicio o el router.",
+    "product": "",
+    "imageRequired": false
+  },
+  {
+    "id": 84,
+    "family": "Conectividad",
+    "difficulty": "Intermedio",
+    "type": "Concepto",
+    "question": "¿Qué es la banda de 5 GHz frente a 2,4 GHz?",
+    "options": [
+      "Suele ofrecer más velocidad y menos alcance",
+      "Siempre ofrece más alcance",
+      "No atraviesa paredes nunca",
+      "Solo sirve para televisores"
+    ],
+    "answer": 0,
+    "explanation": "5 GHz suele ser más rápida, pero pierde alcance más rápido que 2,4 GHz.",
+    "product": "",
+    "imageRequired": false
+  },
+  {
+    "id": 85,
+    "family": "Cargadores",
+    "difficulty": "Inicial",
+    "type": "Necesidad del cliente",
+    "question": "Un cliente tiene un celular USB-C y quiere aprovechar carga rápida. ¿Qué debe validar?",
+    "options": [
+      "Potencia y protocolo compatibles",
+      "Cantidad de cámaras",
+      "Resolución de pantalla",
+      "Tipo de funda"
+    ],
+    "answer": 0,
+    "explanation": "Equipo, cargador y cable deben admitir una tecnología compatible.",
+    "product": "",
+    "imageRequired": false
+  },
+  {
+    "id": 86,
+    "family": "Cargadores",
+    "difficulty": "Intermedio",
+    "type": "Comparación",
+    "question": "¿Qué ventaja ofrece un cargador de dos puertos USB-C?",
+    "options": [
+      "Puede cargar dos dispositivos y repartir potencia",
+      "Mejora el Wi-Fi",
+      "Aumenta almacenamiento",
+      "Agrega GPS"
+    ],
+    "answer": 0,
+    "explanation": "Permite alimentar más de un equipo, aunque la potencia total puede dividirse.",
+    "product": "",
+    "imageRequired": false
+  },
+  {
+    "id": 87,
+    "family": "Cargadores",
+    "difficulty": "Experto",
+    "type": "Concepto",
+    "question": "¿Qué diferencia hay entre watts y amperes en carga?",
+    "options": [
+      "Los watts expresan potencia total; los amperes son parte de su cálculo",
+      "Son exactamente lo mismo",
+      "Los amperes indican capacidad de batería",
+      "Los watts indican resistencia al agua"
+    ],
+    "answer": 0,
+    "explanation": "La potencia se relaciona con voltaje y corriente: W = V × A.",
+    "product": "",
+    "imageRequired": false
+  },
+  {
+    "id": 88,
+    "family": "Cargadores",
+    "difficulty": "Inicial",
+    "type": "Verdadero o falso",
+    "question": "Un cargador de mayor potencia no obliga al equipo a recibir más de lo que admite si ambos siguen estándares compatibles.",
+    "options": [
+      "Verdadero",
+      "Falso",
+      "Solo en iPhone",
+      "Solo en tablets"
+    ],
+    "answer": 0,
+    "explanation": "El dispositivo negocia la potencia dentro de sus límites cuando el protocolo es compatible.",
+    "product": "",
+    "imageRequired": false
+  },
+  {
+    "id": 89,
+    "family": "Cargadores",
+    "difficulty": "Intermedio",
+    "type": "Compatibilidad",
+    "question": "¿Qué función cumple el cable en la carga rápida?",
+    "options": [
+      "Debe soportar la corriente y el protocolo necesarios",
+      "Solo cambia el color",
+      "Aumenta la batería del equipo",
+      "Mejora el sonido"
+    ],
+    "answer": 0,
+    "explanation": "Un cable inadecuado puede limitar potencia o causar inestabilidad.",
+    "product": "",
+    "imageRequired": false
+  },
+  {
+    "id": 90,
+    "family": "Cargadores",
+    "difficulty": "Experto",
+    "type": "Caso de cliente",
+    "question": "Un usuario quiere cargar una notebook y un celular con un solo cargador. ¿Qué conviene recomendar?",
+    "options": [
+      "Cargador multipuerto con potencia suficiente y Power Delivery",
+      "Cargador básico de 5 W",
+      "Powerbank sin USB-C",
+      "Cable de audio"
+    ],
+    "answer": 0,
+    "explanation": "La notebook exige más potencia y el cargador debe repartirla correctamente.",
+    "product": "",
+    "imageRequired": false
+  },
+  {
+    "id": 91,
+    "family": "Cargadores",
+    "difficulty": "Inicial",
+    "type": "Identificación",
+    "question": "¿Qué conector es reversible y común en equipos modernos?",
+    "options": [
+      "USB-C",
+      "Micro-USB",
+      "VGA",
+      "Jack 3,5 mm"
+    ],
+    "answer": 0,
+    "explanation": "USB-C puede insertarse en ambas orientaciones.",
+    "product": "",
+    "imageRequired": false
+  },
+  {
+    "id": 92,
+    "family": "Cargadores",
+    "difficulty": "Intermedio",
+    "type": "Comparación",
+    "question": "¿Qué ventaja ofrece un cargador GaN?",
+    "options": [
+      "Puede brindar alta potencia en tamaño compacto y con buena eficiencia",
+      "Tiene batería interna siempre",
+      "Aumenta la cobertura Wi-Fi",
+      "Agrega almacenamiento"
+    ],
+    "answer": 0,
+    "explanation": "La tecnología GaN permite diseños más compactos y eficientes.",
+    "product": "",
+    "imageRequired": false
+  },
+  {
+    "id": 93,
+    "family": "Cargadores",
+    "difficulty": "Experto",
+    "type": "Seguridad",
+    "question": "¿Qué señal indica que conviene dejar de usar un cargador?",
+    "options": [
+      "Calentamiento anormal, olor o carcasa dañada",
+      "Color desgastado del logo",
+      "Cable corto",
+      "Un solo puerto"
+    ],
+    "answer": 0,
+    "explanation": "Daño físico o calor excesivo puede representar un riesgo.",
+    "product": "",
+    "imageRequired": false
+  },
+  {
+    "id": 94,
+    "family": "Cargadores",
+    "difficulty": "Intermedio",
+    "type": "Venta consultiva",
+    "question": "¿Qué pregunta debe hacerse primero al vender un cargador?",
+    "options": [
+      "¿Qué dispositivo vas a cargar y qué potencia admite?",
+      "¿Qué color de funda usás?",
+      "¿Qué tamaño tiene tu TV?",
+      "¿Cuántos contactos tenés?"
+    ],
+    "answer": 0,
+    "explanation": "La compatibilidad y potencia dependen del dispositivo.",
+    "product": "",
+    "imageRequired": false
+  },
+  {
+    "id": 95,
+    "family": "Cargadores",
+    "difficulty": "Experto",
+    "type": "Concepto",
+    "question": "¿Qué significa Power Delivery?",
+    "options": [
+      "Un estándar de carga por USB-C que negocia diferentes niveles de potencia",
+      "Una batería portátil",
+      "Un tipo de Wi-Fi",
+      "Un sistema de audio"
+    ],
+    "answer": 0,
+    "explanation": "USB Power Delivery permite entregar y negociar potencia de forma flexible.",
+    "product": "",
+    "imageRequired": false
+  },
+  {
+    "id": 96,
+    "family": "Cargadores",
+    "difficulty": "Intermedio",
+    "type": "Caso de cliente",
+    "question": "El cliente dice que su celular carga lento con un cargador rápido. ¿Qué conviene revisar?",
+    "options": [
+      "Cable, puerto, protocolo y configuración del equipo",
+      "Solo el color del cargador",
+      "La cámara del celular",
+      "La marca de la funda"
+    ],
+    "answer": 0,
+    "explanation": "Cualquier elemento incompatible puede limitar la velocidad.",
+    "product": "",
+    "imageRequired": false
+  },
+  {
+    "id": 97,
+    "family": "Televisores",
+    "difficulty": "Inicial",
+    "type": "Necesidad del cliente",
+    "question": "Un cliente quiere un televisor para una habitación pequeña. ¿Qué debería priorizar?",
+    "options": [
+      "Tamaño adecuado, sistema de apps y buena distancia de visión",
+      "La mayor pantalla disponible",
+      "Subwoofer externo obligatorio",
+      "Batería integrada"
+    ],
+    "answer": 0,
+    "explanation": "El tamaño debe corresponder al ambiente y la distancia.",
+    "product": "",
+    "imageRequired": false
+  },
+  {
+    "id": 98,
+    "family": "Televisores",
+    "difficulty": "Intermedio",
+    "type": "Comparación",
+    "question": "¿Qué diferencia principal hay entre Full HD y 4K?",
+    "options": [
+      "4K ofrece mayor cantidad de píxeles y detalle",
+      "Full HD siempre tiene mejores colores",
+      "4K consume menos energía siempre",
+      "No hay diferencia visible en ningún tamaño"
+    ],
+    "answer": 0,
+    "explanation": "4K tiene cuatro veces más píxeles que Full HD.",
+    "product": "",
+    "imageRequired": false
+  },
+  {
+    "id": 99,
+    "family": "Televisores",
+    "difficulty": "Experto",
+    "type": "Recomendación",
+    "question": "Para deportes y videojuegos, ¿qué atributo cobra especial importancia?",
+    "options": [
+      "Tasa de refresco y tiempo de respuesta",
+      "Cantidad de puertos USB solamente",
+      "Tipo de base",
+      "Color del marco"
+    ],
+    "answer": 0,
+    "explanation": "Más refresco y menor demora mejoran movimiento y respuesta.",
+    "product": "",
+    "imageRequired": false
+  },
+  {
+    "id": 100,
+    "family": "Televisores",
+    "difficulty": "Inicial",
+    "type": "Verdadero o falso",
+    "question": "La distancia de visualización influye en el tamaño de televisor recomendado.",
+    "options": [
+      "Verdadero",
+      "Falso",
+      "Solo en 4K",
+      "Solo en pantallas de 65 pulgadas"
+    ],
+    "answer": 0,
+    "explanation": "Una pantalla demasiado grande o pequeña puede empeorar la experiencia según la distancia.",
+    "product": "",
+    "imageRequired": false
+  },
+  {
+    "id": 101,
+    "family": "Televisores",
+    "difficulty": "Intermedio",
+    "type": "Concepto",
+    "question": "¿Qué aporta HDR en contenidos compatibles?",
+    "options": [
+      "Mayor rango de brillo y detalle en luces y sombras",
+      "Más canales de Wi-Fi",
+      "Mayor potencia de audio siempre",
+      "Más almacenamiento"
+    ],
+    "answer": 0,
+    "explanation": "HDR amplía el rango dinámico cuando el panel y el contenido lo soportan.",
+    "product": "",
+    "imageRequired": false
+  },
+  {
+    "id": 102,
+    "family": "Televisores",
+    "difficulty": "Experto",
+    "type": "Caso de cliente",
+    "question": "Un cliente ve mucho contenido desde aplicaciones. ¿Qué debe verificarse?",
+    "options": [
+      "Sistema operativo, aplicaciones disponibles y actualizaciones",
+      "Cantidad de tornillos de la base",
+      "Color del control remoto",
+      "Peso del embalaje"
+    ],
+    "answer": 0,
+    "explanation": "La experiencia smart depende del sistema y su soporte.",
+    "product": "",
+    "imageRequired": false
+  },
+  {
+    "id": 103,
+    "family": "Televisores",
+    "difficulty": "Inicial",
+    "type": "Identificación",
+    "question": "¿Qué conexión se usa normalmente para consola o decodificador?",
+    "options": [
+      "HDMI",
+      "USB-C de carga",
+      "MicroSD",
+      "Jack de micrófono"
+    ],
+    "answer": 0,
+    "explanation": "HDMI transmite audio y video digital.",
+    "product": "",
+    "imageRequired": false
+  },
+  {
+    "id": 104,
+    "family": "Televisores",
+    "difficulty": "Intermedio",
+    "type": "Comparación",
+    "question": "¿Qué ventaja suele aportar QLED frente a un LED convencional?",
+    "options": [
+      "Mayor volumen de color y brillo",
+      "Batería integrada",
+      "Más puertos Ethernet siempre",
+      "Menor tamaño físico"
+    ],
+    "answer": 0,
+    "explanation": "Los puntos cuánticos mejoran color y brillo en muchos modelos.",
+    "product": "",
+    "imageRequired": false
+  },
+  {
+    "id": 105,
+    "family": "Televisores",
+    "difficulty": "Experto",
+    "type": "Compatibilidad",
+    "question": "Antes de prometer 4K a 120 Hz desde una consola, ¿qué debe revisarse?",
+    "options": [
+      "Que TV, puerto HDMI y consola soporten esa señal",
+      "Solo que el cable sea largo",
+      "Que el televisor tenga Bluetooth",
+      "Que tenga control por voz"
+    ],
+    "answer": 0,
+    "explanation": "La cadena completa debe admitir resolución, frecuencia y ancho de banda.",
+    "product": "",
+    "imageRequired": false
+  },
+  {
+    "id": 106,
+    "family": "Televisores",
+    "difficulty": "Intermedio",
+    "type": "Venta consultiva",
+    "question": "¿Qué pregunta ayuda más a elegir tamaño?",
+    "options": [
+      "¿A qué distancia vas a mirar el televisor?",
+      "¿Qué color de pared tenés?",
+      "¿Qué celular usás?",
+      "¿Cuántos cargadores tenés?"
+    ],
+    "answer": 0,
+    "explanation": "La distancia orienta el tamaño cómodo y aprovechable.",
+    "product": "",
+    "imageRequired": false
+  },
+  {
+    "id": 107,
+    "family": "Televisores",
+    "difficulty": "Experto",
+    "type": "Caso de cliente",
+    "question": "Una persona mira películas de noche y valora negros profundos. ¿Qué atributo debe comparar?",
+    "options": [
+      "Tipo de panel, contraste y control de iluminación",
+      "Cantidad de apps",
+      "Potencia del cargador",
+      "Capacidad de almacenamiento"
+    ],
+    "answer": 0,
+    "explanation": "El contraste y la gestión de iluminación determinan la profundidad de negros.",
+    "product": "",
+    "imageRequired": false
+  },
+  {
+    "id": 108,
+    "family": "Televisores",
+    "difficulty": "Intermedio",
+    "type": "Concepto",
+    "question": "¿Qué función cumple eARC en HDMI?",
+    "options": [
+      "Permite enviar audio de alta calidad del TV a una barra o receiver compatible",
+      "Aumenta la resolución del panel",
+      "Mejora el Wi-Fi",
+      "Carga el control remoto"
+    ],
+    "answer": 0,
+    "explanation": "eARC facilita audio avanzado por un solo cable HDMI.",
+    "product": "",
+    "imageRequired": false
+  },
+  {
+    "id": 109,
+    "family": "Cinema home",
+    "difficulty": "Inicial",
+    "type": "Necesidad del cliente",
+    "question": "El televisor tiene buena imagen, pero los diálogos se escuchan bajos. ¿Qué conviene ofrecer?",
+    "options": [
+      "Barra de sonido",
+      "Smartband",
+      "Cámara interior",
+      "Powerbank"
+    ],
+    "answer": 0,
+    "explanation": "Una barra mejora claridad de voces y amplitud sonora.",
+    "product": "",
+    "imageRequired": false
+  },
+  {
+    "id": 110,
+    "family": "Cinema home",
+    "difficulty": "Intermedio",
+    "type": "Producto",
+    "question": "¿Qué aporta un subwoofer en un sistema de audio?",
+    "options": [
+      "Refuerza graves e impacto",
+      "Mejora la señal Wi-Fi",
+      "Aumenta la resolución",
+      "Carga el celular"
+    ],
+    "answer": 0,
+    "explanation": "El subwoofer reproduce bajas frecuencias con más profundidad.",
+    "product": "",
+    "imageRequired": false
+  },
+  {
+    "id": 111,
+    "family": "Cinema home",
+    "difficulty": "Experto",
+    "type": "Recomendación",
+    "question": "Un cliente quiere usar un proyector fuera de casa sin depender siempre de un enchufe. ¿Qué debería buscar?",
+    "options": [
+      "Modelo con batería integrada",
+      "Modelo sin parlantes",
+      "Solo entrada VGA",
+      "Mayor peso posible"
+    ],
+    "answer": 0,
+    "explanation": "La batería facilita sesiones portátiles.",
+    "product": "",
+    "imageRequired": false
+  },
+  {
+    "id": 112,
+    "family": "Cinema home",
+    "difficulty": "Inicial",
+    "type": "Verdadero o falso",
+    "question": "Una barra de sonido puede mejorar la claridad de voces sin cambiar el televisor.",
+    "options": [
+      "Verdadero",
+      "Falso",
+      "Solo si el TV es 4K",
+      "Solo si usa Wi-Fi 6"
+    ],
+    "answer": 0,
+    "explanation": "El canal central y el procesamiento de voz ayudan a destacar diálogos.",
+    "product": "",
+    "imageRequired": false
+  },
+  {
+    "id": 113,
+    "family": "Cinema home",
+    "difficulty": "Intermedio",
+    "type": "Compatibilidad",
+    "question": "¿Qué conexión suele ser la más conveniente entre TV y barra de sonido?",
+    "options": [
+      "HDMI ARC o eARC",
+      "Micro-USB",
+      "VGA",
+      "MicroSD"
+    ],
+    "answer": 0,
+    "explanation": "ARC/eARC permite enviar audio y controlar funciones por un mismo cable.",
+    "product": "",
+    "imageRequired": false
+  },
+  {
+    "id": 114,
+    "family": "Cinema home",
+    "difficulty": "Experto",
+    "type": "Caso de cliente",
+    "question": "Un cliente quiere sensación envolvente sin colocar parlantes traseros. ¿Qué debería comparar?",
+    "options": [
+      "Procesamiento virtual y soporte Dolby Atmos",
+      "Capacidad de batería",
+      "Cantidad de puertos USB del TV",
+      "Color del gabinete"
+    ],
+    "answer": 0,
+    "explanation": "El procesamiento espacial puede ampliar la escena sin parlantes físicos traseros.",
+    "product": "",
+    "imageRequired": false
+  },
+  {
+    "id": 115,
+    "family": "Cinema home",
+    "difficulty": "Inicial",
+    "type": "Identificación",
+    "question": "¿Qué producto proyecta una imagen grande sobre pared o pantalla?",
+    "options": [
+      "Proyector",
+      "Powerbank",
+      "Smartwatch",
+      "Cámara IP"
+    ],
+    "answer": 0,
+    "explanation": "El proyector genera imagen sobre una superficie externa.",
+    "product": "",
+    "imageRequired": false
+  },
+  {
+    "id": 116,
+    "family": "Cinema home",
+    "difficulty": "Intermedio",
+    "type": "Concepto",
+    "question": "¿Qué indica la luminosidad de un proyector?",
+    "options": [
+      "Qué tan visible puede ser la imagen según la luz ambiente",
+      "La potencia del parlante",
+      "La duración de la batería únicamente",
+      "La resolución del audio"
+    ],
+    "answer": 0,
+    "explanation": "Más luminosidad ayuda en ambientes con mayor luz, aunque el contraste también importa.",
+    "product": "",
+    "imageRequired": false
+  },
+  {
+    "id": 117,
+    "family": "Cinema home",
+    "difficulty": "Experto",
+    "type": "Comparación",
+    "question": "¿Cuándo conviene una barra con subwoofer separado frente a una barra sola?",
+    "options": [
+      "Cuando se buscan graves más profundos y mayor impacto",
+      "Cuando se necesita menor volumen",
+      "Cuando no hay espacio disponible",
+      "Cuando se quiere cargar el celular"
+    ],
+    "answer": 0,
+    "explanation": "El subwoofer dedicado mueve más aire y mejora las bajas frecuencias.",
+    "product": "",
+    "imageRequired": false
+  },
+  {
+    "id": 118,
+    "family": "Cinema home",
+    "difficulty": "Intermedio",
+    "type": "Venta consultiva",
+    "question": "¿Qué pregunta ayuda a elegir entre barra y proyector?",
+    "options": [
+      "¿Querés mejorar el sonido o aumentar el tamaño de imagen?",
+      "¿Qué color de reloj usás?",
+      "¿Cuántos contactos tenés?",
+      "¿Qué cargador llevás?"
+    ],
+    "answer": 0,
+    "explanation": "Son soluciones para necesidades diferentes: audio e imagen.",
+    "product": "",
+    "imageRequired": false
+  },
+  {
+    "id": 119,
+    "family": "Cinema home",
+    "difficulty": "Experto",
+    "type": "Caso de cliente",
+    "question": "Una persona proyecta en una pared blanca, pero con mucha luz diurna. ¿Qué debería mejorar primero?",
+    "options": [
+      "Controlar la luz ambiente o usar una pantalla adecuada",
+      "Agregar un powerbank",
+      "Cambiar auriculares",
+      "Usar un cable más corto"
+    ],
+    "answer": 0,
+    "explanation": "La luz ambiente reduce contraste y lava la imagen.",
+    "product": "",
+    "imageRequired": false
+  },
+  {
+    "id": 120,
+    "family": "Cinema home",
+    "difficulty": "Intermedio",
+    "type": "Concepto",
+    "question": "¿Qué diferencia hay entre resolución nativa y resolución compatible en un proyector?",
+    "options": [
+      "La nativa es la que realmente muestra; la compatible es la señal que puede recibir",
+      "Son exactamente lo mismo",
+      "La compatible siempre se ve mejor",
+      "La nativa solo afecta el sonido"
+    ],
+    "answer": 0,
+    "explanation": "Un proyector puede aceptar una señal superior y reducirla a su resolución real.",
+    "product": "",
+    "imageRequired": false
+  }
+]
